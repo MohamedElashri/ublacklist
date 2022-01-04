@@ -7,7 +7,7 @@ curl -o i2.txt https://raw.githubusercontent.com/sanketpatrikar/hn-search-blackl
 
 # Start Merge and Duplicate Removal
 cat i*.txt > merge.txt
-cat merge.txt | grep -E '*:' | > temp.txt
+cat merge.txt | grep -v '##' | > temp.txt
 sort temp.txt | uniq > tmp.txt
 sort -n tmp.txt > tmmp.txt
 
