@@ -1,0 +1,47 @@
+#[uBlacklist]
+# Title: uBlacklist custom list
+# Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
+# Description: My personal manual additions
+
+
+# regex 
+
+/.pinterest.\../
+/.torrent.\../
+/.spankbang.\../
+/.mp3.\../
+/.proxy.\../
+/.block.\../
+/.addiction.\../
+/.recovery.\../
+/.detox.\../
+/.clinic.\../
+/.rehab.\../
+/.rarbg.\../
+/.hydra.\../
+/.123.\../
+/.stock.\../
+/.linkedin.\../
+/.subtitle.\../
+/.shopify.\../
+/.dreamstime.\../
+/.depositphotos.\../
+/^(m|mobile|it|es|ja|fr|pl|at|ru)\.\w./
+
+/.\.(tk|photo|dev|page|science|ninja|monster|st|cricket|store|website|help|bg|party|work|xyz|link|camera|computer|click|cc|club|pw|space|info|rocks|review|faith|date|win|racing|site|online|tech|news|life|design|nyc|guru|photography|global|today|solutions|media|world|biz|gq|rest|ga|casa|buzz|cam|ml|fit|ly|it|vip|php|pl|ru|app|name|tr|asia|surf|top|cf|tw|uz|am|krd|is|cz|pt|pk|cl|il|in|hu|hr|si|ee|bid|vn|kw|ro|mx|me|market|nu|how|red|guide|mobi|cafe|tn|xxx|icu|fun|pro|desi|id|live|one|ir|forsale)\/(.*)/
+
+
+# Domains
+
+*://*.issueexplorer.com/*
+*://*.giters.com/*
+*://*.gitmemory.cn/*
+*://*.wikmostwantedxc.pl/*
+*://*.nowoscimediaokpi.pl/*
+*://*.alternativeto.net/*
+*://*.techradar.com/*
+*://*.zdnet.com/*
+*://*.imyfone.com/*
+*://*.farath.com/*
+*://*.studytonight.com/*
+
