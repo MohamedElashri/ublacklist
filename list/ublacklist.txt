@@ -2,5 +2,77 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2022-01-04 18:00:48
-# Total count: 0
+# Version: 2022-01-04 18:02:54
+# Total count: 72
+
+*://*.answeright.com/*
+*://*.answeright.com/*
+*://*.askdev.info/*
+*://*.askdev.info/*
+*://*.askdev.io/*
+*://*.askdev.io/*
+*://*.blogmepost.com/*
+*://*.blogmepost.com/*
+*://*.c-sharpcorner.com/*
+*://*.c-sharpcorner.com/*
+*://*.code-examples.net/*
+*://*.code-examples.net/*
+*://*.codeflow.site/*
+*://*.codeflow.site/*
+*://*.codegrepper.com/*
+*://*.codegrepper.com/*
+*://*.coderedirect.com/*
+*://*.cyberciti.biz/*
+*://*.cyberciti.biz/*
+*://*.farath.com/*
+*://*.geeksforgeeks.org/*
+*://*.geeksforgeeks.org/*
+*://*.gitcode.net/*
+*://*.gitcode.net/*
+*://*.githubmemory.com/*
+*://*.githubmemory.com/*
+*://*.gitmemory.cn*
+*://*.gitmemory.cn*
+*://*.gitmemory.com/*
+*://*.gitmemory.com/*
+*://*.intellipaat.com/*
+*://*.intellipaat.com/*
+*://*.ispycode.com/*
+*://*.ispycode.com/*
+*://*.issueexplorer.com/*
+*://*.issueexplorer.com/*
+*://*.javaer101.com/*
+*://*.javaer101.com/*
+*://*.pinterest.com/*
+*://*.programmersought.com/*
+*://*.programmersought.com/*
+*://*.programmerstart.com/*
+*://*.programmerstart.com/*
+*://*.qastack.com/*
+*://*.qastack.com/*
+*://*.reposhub.com/*
+*://*.reposhub.com/*
+*://*.roboflow.ai/*
+*://*.roboflow.ai/*
+*://*.stackanswers.net/*
+*://*.stackanswers.net/*
+*://*.stackoom.com/*
+*://*.stackoom.com/*
+*://*.stackovernet.com/*
+*://*.stackovernet.com/*
+*://*.stackovernet.xyz/*
+*://*.stackovernet.xyz/*
+*://*.stackoverrun.com/*
+*://*.stackoverrun.com/*
+*://*.stackshare.io/*
+*://*.stackshare.io/*
+*://*.tabnine.com/*
+*://*.tabnine.com/*
+*://*.thetopsites.net/*
+*://*.thetopsites.net/*
+*://*.tutorialspoint.com/*
+*://*.tutorialspoint.com/*
+*://*.ubuntugeeks.com/*
+*://*.ubuntugeeks.com/*
+*://*.w3schools.com/*
+*://*.w3schools.com/*
