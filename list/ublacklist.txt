@@ -2,10 +2,12 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2022-01-04 18:13:22
-# Total count: 275
+# Version: 2022-01-04 18:21:08
+# Total count: 308
+
 
 *://*.366service.com/*
+*://*.alternativeto.net/*
 *://*.amuddycup.com/*
 *://*.answeright.com/*
 *://*.answeright.com/*
@@ -44,6 +46,7 @@
 *://*.ecnf2016.org/*
 *://*.faithcov.org/*
 *://*.farath.com/*
+*://*.farath.com/*
 *://*.fitforlearning.org/*
 *://*.fixes.pub/*
 *://*.fluffyfables.com/*
@@ -52,13 +55,16 @@
 *://*.geeksforgeeks.org/*
 *://*.gitcode.net/*
 *://*.gitcode.net/*
+*://*.giters.com/*
 *://*.githubmemory.com/*
 *://*.githubmemory.com/*
 *://*.gitmemory.cn*
 *://*.gitmemory.cn*
+*://*.gitmemory.cn/*
 *://*.gitmemory.com/*
 *://*.gitmemory.com/*
 *://*.gupgallery.com/*
+*://*.imyfone.com/*
 *://*.intellipaat.com/*
 *://*.intellipaat.com/*
 *://*.ispycode.com/*
@@ -73,6 +79,7 @@
 *://*.mytory.net/*
 *://*.narkive.jp/*
 *://*.noblenaz.org/*
+*://*.nowoscimediaokpi.pl/*
 *://*.ojit.com/*
 *://*.ourladylakes.org/*
 *://*.pakostnici.com/*
@@ -110,9 +117,11 @@
 *://*.stackoverrun.com/*
 *://*.stackshare.io/*
 *://*.stackshare.io/*
+*://*.studytonight.com/*
 *://*.sunflowercreations.org/*
 *://*.tabnine.com/*
 *://*.tabnine.com/*
+*://*.techradar.com/*
 *://*.theshuggahpies.com/*
 *://*.thetopsites.net/*
 *://*.thetopsites.net/*
@@ -127,6 +136,7 @@
 *://*.w3schools.com/*
 *://*.waymanamechurch.org/*
 *://*.wenyanet.com/*
+*://*.wikmostwantedxc.pl/*
 *://*.yelp.asia/*
 *://*.yelp.ca/*
 *://*.yelp.co.at/*
@@ -155,6 +165,7 @@
 *://*.yelp.paris/*
 *://*.yelp.taipei/*
 *://*.yelp.tw/*
+*://*.zdnet.com/*
 *://*.zsharp.org/*
 *://answer-id.com/*
 *://article.docway.net/*
@@ -273,6 +284,28 @@
 *://www.webdevqa.jp.net/*
 *://www.xsprogram.com/*
 *://xiu2.net/*
+/.123.\../
+/.\.(tk|photo|dev|page|science|ninja|monster|st|cricket|store|website|help|bg|party|work|xyz|link|camera|computer|click|cc|club|pw|space|info|rocks|review|faith|date|win|racing|site|online|tech|news|life|design|nyc|guru|photography|global|today|solutions|media|world|biz|gq|rest|ga|casa|buzz|cam|ml|fit|ly|it|vip|php|pl|ru|app|name|tr|asia|surf|top|cf|tw|uz|am|krd|is|cz|pt|pk|cl|il|in|hu|hr|si|ee|bid|vn|kw|ro|mx|me|market|nu|how|red|guide|mobi|cafe|tn|xxx|icu|fun|pro|desi|id|live|one|ir|forsale)\/(.*)/
+/.addiction.\../
+/.block.\../
+/.clinic.\../
+/.depositphotos.\../
+/.detox.\../
+/.dreamstime.\../
+/.hydra.\../
+/.linkedin.\../
+/.mp3.\../
+/.pinterest.\../
+/.proxy.\../
+/.rarbg.\../
+/.recovery.\../
+/.rehab.\../
+/.shopify.\../
+/.spankbang.\../
+/.stock.\../
+/.subtitle.\../
+/.torrent.\../
+/^(m|mobile|it|es|ja|fr|pl|at|ru)\.\w./
 /it-swarm.*/
 https://apps.apple.com/us/app/pinterest/id429047995
 https://play.google.com/store/apps/details?id=com.pinterest*
