@@ -2,6 +2,7 @@
 cd shell/src
 
 # Start Download
+curl -o i0.txt https://raw.githubusercontent.com/MohamedElashri/ublacklist/main/list/custom.txt
 curl -o i1.txt https://raw.githubusercontent.com/jhchabran/code-search-blacklist/main/uBlacklist.txt
 curl -o i2.txt https://raw.githubusercontent.com/sanketpatrikar/hn-search-blacklist/main/blacklist.txt
 curl -o i3.txt https://raw.githubusercontent.com/rjaus/ublacklist-pinterest/main/ublacklist-pinterest.txt
