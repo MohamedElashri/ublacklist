@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2022-01-05 02:03:55
-# Total count: 308
+# Version: 2022-01-06 02:09:07
+# Total count: 314
 
 
 *://*.366service.com/*
@@ -36,6 +36,7 @@
 *://*.coder.work/*
 *://*.coderedirect.com/*
 *://*.codetd.com/*
+*://*.command-not-found.com/*
 *://*.coredump.biz/*
 *://*.culinarydegree.info/*
 *://*.cyberciti.biz/*
@@ -184,13 +185,17 @@
 *://coderedirect.com/*
 *://coderoad.ru/*
 *://codersatellite.com/*
+*://devbugfix.com/*
 *://easysavecode.com/*
 *://exceptionshub.com/*
+*://farath.com/*
 *://findbestopensource.com/*
+*://gitanswer.com/*
 *://giters.com/*
 *://githubhelp.com/*
 *://githubja.com/*
 *://githubmemory.com/*
+*://githubplus.com/*
 *://gitmemory.cn/*
 *://golangrepo.com/*
 *://intellipaat.com/*
@@ -212,6 +217,7 @@
 *://programmerstart.com/*
 *://python5.com/*
 *://pythonissues.com/*
+*://pythonrepo.com/*
 *://pythonwd.com/*
 *://qa-stack.pl/*
 *://qapicks.com/*
