@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2022-01-06 02:09:07
-# Total count: 314
+# Version: 2022-01-07 02:08:11
+# Total count: 315
 
 
 *://*.366service.com/*
@@ -172,6 +172,7 @@
 *://article.docway.net/*
 *://awesomeopensource.com/*
 *://base64.work/so/*
+*://bestofcpp.com/*
 *://bleepcoder.com/*
 *://brocante.dev/*
 *://cainiaojiaocheng.com/*
