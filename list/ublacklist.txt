@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2022-01-10 02:01:39
-# Total count: 315
+# Version: 2022-01-11 02:03:55
+# Total count: 317
 
 
 *://*.366service.com/*
@@ -65,6 +65,7 @@
 *://*.gitmemory.com/*
 *://*.gitmemory.com/*
 *://*.gupgallery.com/*
+*://*.hotexamples.com/*
 *://*.imyfone.com/*
 *://*.intellipaat.com/*
 *://*.intellipaat.com/*
@@ -241,6 +242,7 @@
 *://quabr.com/*
 *://reposhub.com/*
 *://routinepanic.com/*
+*://stackify.dev/*
 *://stackoom.com/*
 *://stackovergo.com/*
 *://stackqna.com/*
