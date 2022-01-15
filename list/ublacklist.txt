@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2022-01-14 02:04:19
-# Total count: 317
+# Version: 2022-01-15 02:01:33
+# Total count: 320
 
 
 *://*.366service.com/*
@@ -184,6 +184,7 @@
 *://code.i-harness.com/*
 *://codeguides.site/*
 *://codehero.jp/*
+*://coder-solution-jp.com/*
 *://coderedirect.com/*
 *://coderoad.ru/*
 *://codersatellite.com/*
@@ -206,6 +207,7 @@
 *://issueexplorer.com/*
 *://issues-world.com/*
 *://itectec.com/*
+*://jpndev.com/*
 *://knews.vip/*
 *://kotaeta.com/*
 *://laravelquestions.com/*
@@ -242,6 +244,7 @@
 *://quabr.com/*
 *://reposhub.com/*
 *://routinepanic.com/*
+*://stackfinder.jp.net/*
 *://stackify.dev/*
 *://stackoom.com/*
 *://stackovergo.com/*
