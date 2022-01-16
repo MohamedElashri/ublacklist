@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2022-01-15 02:01:33
-# Total count: 320
+# Version: 2022-01-16 02:06:41
+# Total count: 322
 
 
 *://*.366service.com/*
@@ -137,7 +137,6 @@
 *://*.w3schools.com/*
 *://*.w3schools.com/*
 *://*.waymanamechurch.org/*
-*://*.wenyanet.com/*
 *://*.wikmostwantedxc.pl/*
 *://*.yelp.asia/*
 *://*.yelp.ca/*
@@ -192,9 +191,9 @@
 *://easysavecode.com/*
 *://exceptionshub.com/*
 *://farath.com/*
-*://findbestopensource.com/*
 *://gitanswer.com/*
 *://giters.com/*
+*://github.innominds.com/*
 *://githubhelp.com/*
 *://githubja.com/*
 *://githubmemory.com/*
@@ -259,11 +258,13 @@
 *://www.codenong.com/*
 *://www.coder.work/*
 *://www.debugcn.com/*
+*://www.findbestopensource.com/*
 *://www.fixes.pub/*
 *://www.generacodice.blog/*
 *://www.generacodice.com/*
 *://www.generacodice.it/*
 *://www.ghcc.net/*
+*://www.gitmemory.com/*
 *://www.it-mure.jp.net/*
 *://www.it-swarm-fr.com/*
 *://www.it-swarm-ja.com/*
@@ -294,6 +295,7 @@
 *://www.semicolonworld.com/*
 *://www.titanwolf.org/*
 *://www.webdevqa.jp.net/*
+*://www.wenyanet.com/*
 *://www.xsprogram.com/*
 *://xiu2.net/*
 /.123.\../
