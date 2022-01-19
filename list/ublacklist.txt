@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2022-01-18 02:04:57
-# Total count: 322
+# Version: 2022-01-19 01:51:49
+# Total count: 323
 
 
 *://*.366service.com/*
@@ -294,6 +294,7 @@
 *://www.sejuku.net/*
 *://www.semicolonworld.com/*
 *://www.titanwolf.org/*
+*://www.uebu-kaihatsu.jp.net/*
 *://www.webdevqa.jp.net/*
 *://www.wenyanet.com/*
 *://www.xsprogram.com/*
