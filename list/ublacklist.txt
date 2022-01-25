@@ -2,19 +2,30 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2022-01-24 01:59:56
-# Total count: 312
+# Version: 2022-01-25 02:00:29
+# Total count: 360
 
 
+*://*.360kora.com/*
 *://*.366service.com/*
+*://*.9orao5br.com/*
+*://*.adoclib.com/*
+*://*.ahlmasrnews.com/*
+*://*.al-ain.com/*
+*://*.alarabiya.net/*
+*://*.albawabhnews.com/*
 *://*.alternativeto.net/*
+*://*.alwasatnews.com/*
 *://*.amuddycup.com/*
 *://*.answeright.com/*
+*://*.art-centric-lighting.com/*
 *://*.askdev.info/*
 *://*.askdev.io/*
 *://*.asklobster.com/*
 *://*.athabasca-foto.com/*
 *://*.awesomeopensource.com/*
+*://*.bedazzledbellydance.com.au/*
+*://*.birmiss.com/*
 *://*.bleepcoder.com/*
 *://*.blogmepost.com/*
 *://*.bunnyinside.com/*
@@ -27,6 +38,7 @@
 *://*.codeflow.site/*
 *://*.codeflow.site/*
 *://*.codegrepper.com/*
+*://*.coder.social/*
 *://*.coder.work/*
 *://*.coderedirect.com/*
 *://*.codetd.com/*
@@ -34,35 +46,52 @@
 *://*.culinarydegree.info/*
 *://*.cyberciti.biz/*
 *://*.developreference.com/*
+*://*.dhata4.com/*
 *://*.domainelespailles.net/*
+*://*.e3arabi.com/*
 *://*.ec-europe.org/*
 *://*.ecnf2016.org/*
+*://*.ellas-cookies.com/*
+*://*.elslam.com/*
+*://*.elwatannews.com/*
+*://*.embadomjp.org/*
 *://*.faithcov.org/*
+*://*.fal3arda.com/*
 *://*.farath.com/*
 *://*.farath.com/*
 *://*.fitforlearning.org/*
 *://*.fixes.pub/*
 *://*.fluffyfables.com/*
 *://*.forsenergy.com/*
+*://*.freshbooks2u.com/*
 *://*.geeksforgeeks.org/*
 *://*.gitcode.net/*
 *://*.giters.com/*
 *://*.githubmemory.com/*
+*://*.githubplus.com/*
 *://*.gitmemory.cn*
 *://*.gitmemory.cn/*
 *://*.gitmemory.com/*
 *://*.gitmemory.com/*
+*://*.globethics.net/*
 *://*.gupgallery.com/*
+*://*.icg2020.org/*
 *://*.imyfone.com/*
 *://*.intellipaat.com/*
+*://*.inthehive.org/*
 *://*.ispycode.com/*
 *://*.issueexplorer.com/*
 *://*.issueexplorer.com/*
+*://*.isvarafoundation.org/*
 *://*.it-mure.jp.net/*
 *://*.javaer101.com/*
 *://*.javaer101.com/*
+*://*.kooora-goal.com/*
 *://*.kotaeta.com/*
+*://*.ktabpdf.com/*
+*://*.le-calligraphe.com/*
 *://*.living-sun.com/*
+*://*.mylineuphub.com/*
 *://*.mytory.net/*
 *://*.narkive.jp/*
 *://*.noblenaz.org/*
@@ -74,6 +103,8 @@
 *://*.pcbconline.org/*
 *://*.pinterest.com/*
 *://*.pinterest.com/*
+*://*.prenezagir.com/*
+*://*.pressn.net/*
 *://*.programmersought.com/*
 *://*.programmersought.com/*
 *://*.programmerstart.com/*
@@ -83,11 +114,16 @@
 *://*.qastack.jp/*
 *://*.reposhub.com/*
 *://*.roboflow.ai/*
+*://*.rockspringsrecord.com/*
+*://*.s-ajfan.com/*
 *://*.safehavenpetrescue.org/*
 *://*.sch22.org/*
+*://*.senairs.org.br/*
 *://*.sierrasummit2005.org/*
 *://*.siwib.org/*
 *://*.softwareuser.asklobster.com/*
+*://*.soutalomma.com/*
+*://*.sputniknews.com/*
 *://*.stackanswers.net/*
 *://*.stackoom.com/*
 *://*.stackovernet.com/*
@@ -96,20 +132,31 @@
 *://*.stackoverrun.com/*
 *://*.stackoverrun.com/*
 *://*.stackshare.io/*
+*://*.stringfixer.com/*
 *://*.studytonight.com/*
 *://*.sunflowercreations.org/*
 *://*.tabnine.com/*
+*://*.tahmil-kutubpdf.net/*
 *://*.techradar.com/*
+*://*.tervrosewilden.com/*
 *://*.theshuggahpies.com/*
 *://*.thetopsites.net/*
 *://*.try2explore.com/*
 *://*.tutorialspoint.com/*
 *://*.ubuntugeeks.com/*
+*://*.unizar.es/*
+*://*.usp.br/*
 *://*.uwenku.com/*
 *://*.voidcc.com/*
+*://*.vssvalzbety.sk/*
 *://*.w3schools.com/*
 *://*.waymanamechurch.org/*
 *://*.wikmostwantedxc.pl/*
+*://*.yalla-shoot-7sry.com/*
+*://*.yalla-shoot-new.com/*
+*://*.yalla-shoot.io/*
+*://*.yalla-shoot.us/*
+*://*.yallashoot-news.com/*
 *://*.yelp.asia/*
 *://*.yelp.ca/*
 *://*.yelp.co.at/*
@@ -138,6 +185,7 @@
 *://*.yelp.paris/*
 *://*.yelp.taipei/*
 *://*.yelp.tw/*
+*://*.yizimg.com/*
 *://*.zdnet.com/*
 *://*.zsharp.org/*
 *://answer-id.com/*
