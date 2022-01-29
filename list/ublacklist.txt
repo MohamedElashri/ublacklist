@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2022-01-28 01:54:23
-# Total count: 359
+# Version: 2022-01-29 01:48:03
+# Total count: 363
 
 
 *://*.360kora.com/*
@@ -215,6 +215,7 @@
 *://exceptionshub.com/*
 *://farath.com/*
 *://gitanswer.com/*
+*://giters.com/*
 *://github.innominds.com/*
 *://githubhelp.com/*
 *://githubja.com/*
@@ -237,6 +238,7 @@
 *://living-sun.com/*
 *://lycaeum.dev/*
 *://newbedev.com/*
+*://openprojectrepo.com/*
 *://opensourcelibs.com/*
 *://ostack.cn/*
 *://overcoder.net/*
@@ -297,9 +299,11 @@
 *://www.generacodice.com/*
 *://www.generacodice.it/*
 *://www.ghcc.net/*
+*://www.giters.com/*
 *://www.gitmemory.com/*
 *://www.higithub.com/*
 *://www.it-mure.jp.net/*
+*://www.it-roy-ru.com/*
 *://www.it-swarm-fr.com/*
 *://www.it-swarm-ja.com/*
 *://www.it-swarm-ja.tech/*
