@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2022-02-05 01:35:10
-# Total count: 374
+# Version: 2022-02-06 02:06:44
+# Total count: 375
 
 
 *://*.360kora.com/*
@@ -345,6 +345,7 @@
 *://www.stackfinder.ru/*
 *://www.titanwolf.org/*
 *://www.uebu-kaihatsu.jp.net/*
+*://www.web-dev-qa.com/*
 *://www.webdevqa.jp.net/*
 *://www.wenyanet.com/*
 *://www.xsprogram.com/*
