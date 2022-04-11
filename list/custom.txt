@@ -103,3 +103,14 @@
 *://*.foxcarolina.com/*
 *://*.fox40.com/*
 *://video.foxnews.com/*
+*://www.semrush.com/*
+*://www.jilaxzone.com/*
+*://www.flutteroverflow.dev/*
+
+# generated file extension garbage sites
+*://www.file-extension.info/*
+*://filext.com/*
+
+# generated comparison sites
+*://wikidiff.com/*
+
