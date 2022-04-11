@@ -14,6 +14,7 @@ curl -o i8.txt https://raw.githubusercontent.com/wdmpa/content-farm-list/main/uB
 curl -o i9.txt https://raw.githubusercontent.com/wdmpa/content-farm-list/main/uBlacklist/spam.txt
 curl -o i10.txt https://raw.githubusercontent.com/PRiMENON/uBlacklist/master/list.txt
 curl -o i11.txt https://raw.githubusercontent.com/mtgq/ublacklist-subscription/main/uBlacklist.txt
+curl -o i12.txt https://raw.githubusercontent.com/DivineEngine/uBlacklist/master/blacklist.txt
 # Start Merge and Duplicate Removal
 cat i*.txt > merge.txt
 cat merge.txt | grep -v '#' | grep -v '##' | grep -v '^# ' | grep -v '^# ' | grep -v '^\[' | grep -v '^\【' > temp.txt
