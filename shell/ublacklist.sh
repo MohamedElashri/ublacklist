@@ -10,6 +10,7 @@ curl -o i4.txt https://raw.githubusercontent.com/arosh/ublacklist-github-transla
 curl -o i5.txt https://raw.githubusercontent.com/arosh/ublacklist-stackoverflow-translation/master/uBlacklist.txt
 curl -o i6.txt https://raw.githubusercontent.com/rjaus/ublacklist-yelp/main/ublacklist-yelp.txt
 curl -o i7.txt https://raw.githubusercontent.com/h-matsuo/uBlacklist-subscription-for-developer/master/list.txt
+curl -o i8.txt https://raw.githubusercontent.com/wdmpa/content-farm-list/main/uBlacklist.txt
 
 # Start Merge and Duplicate Removal
 cat i*.txt > merge.txt
