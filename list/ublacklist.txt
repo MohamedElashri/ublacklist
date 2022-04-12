@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2022-04-11 04:48:39
-# Total count: 12817
+# Version: 2022-04-12 02:38:16
+# Total count: 12820
 
 
 ! C&J Marketing
@@ -5459,6 +5459,7 @@
 *://*.nsh8.cn/*
 *://*.nsyr3xc.cn/*
 *://*.ntbdvalve.com/*
+*://*.ntcdoon.org/*
 *://*.ntdtv.com//*
 *://*.ntfsformac.cc/*
 *://*.ntfsformac.cn/*
@@ -9667,6 +9668,7 @@
 *://ios.developreference.com/*
 *://ipkm.schuetzenbedarf-baur.de/*
 *://iqqoz.com/*
+*://iquestion.pro/*
 *://ishare.ifeng.com/*
 *://ishiker.com/*
 *://iskeke.com/*
@@ -10141,6 +10143,7 @@
 *://progi.pro/*
 *://programmer.group/*
 *://programmerstart.com/*
+*://programmierfrage.com/*
 *://programtip.com/*
 *://progressbar.tw/*
 *://progsoft.net/*
