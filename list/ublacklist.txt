@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2022-04-14 02:42:22
-# Total count: 12855
+# Version: 2022-04-15 02:59:10
+# Total count: 12869
 
 
 ! C&J Marketing
@@ -795,6 +795,7 @@
 *://*.54gsl.com/*
 *://*.55118885.com/*
 *://*.55468z8.cn/*
+*://*.555.gd/*
 *://*.5558xx.com/*
 *://*.555iw.com/*
 *://*.55667766.com/*
@@ -1494,6 +1495,7 @@
 *://*.apyequan.com/*
 *://*.aqbbb.com/*
 *://*.aqmdjx.com/*
+*://*.aqtt.cc/*
 *://*.aquacool-gaffney.buzz/*
 *://*.ar3326k.cn/*
 *://*.arabian-gallery.buzz/*
@@ -1677,6 +1679,7 @@
 *://*.bcajw.com/*
 *://*.bccelue.com/*
 *://*.bclvlbf.cn/*
+*://*.bcqaw.com/*
 *://*.bctv082.cn/*
 *://*.bcylxs.com/*
 *://*.bdjbj.com/*
@@ -1921,6 +1924,7 @@
 *://*.bujincycy.co/*
 *://*.bulinwh.com/*
 *://*.bunnyinside.com/*
+*://*.bupn.cc/*
 *://*.bupubcrawl.buzz/*
 *://*.bupubcrawls.buzz/*
 *://*.buscodepto.com/*
@@ -2120,6 +2124,7 @@
 *://*.chq88.cn/*
 *://*.chqonline.com/*
 *://*.chromes.cn/*
+*://*.chsou.cc/*
 *://*.chuanboye.com/*
 *://*.chuandaobj.com/*
 *://*.chuangyi86.com/*
@@ -3528,6 +3533,7 @@
 *://*.happy128.com/*
 *://*.happy1801.com/*
 *://*.harrysurplus.buzz/*
+*://*.hashbet.casino/*
 *://*.hawaii-jewelry.buzz/*
 *://*.haxituan.com/*
 *://*.hb0027.cn/*
@@ -4034,6 +4040,7 @@
 *://*.inshir.com/*
 *://*.insideabritishmumskitchen.com/*
 *://*.installcrack.net/*
+*://*.int.bet/*
 *://*.integratedpaperservice.buzz/*
 *://*.intellipaat.com/*
 *://*.intellisys-haiti.buzz/*
@@ -4502,6 +4509,7 @@
 *://*.kesma.cn/*
 *://*.ketingtc.com/*
 *://*.kexinfood.com/*
+*://*.key.dog/*
 *://*.keygenwin.com/*
 *://*.keyshot.cc/*
 *://*.kfcris.com/*
@@ -4736,6 +4744,7 @@
 *://*.lgfvci.cn/*
 *://*.lgx168.com/*
 *://*.lhafy.com/*
+*://*.lhc.bet/*
 *://*.lhdwoug.cn/*
 *://*.lheqn5u.cn/*
 *://*.lhft158.com/*
@@ -5344,6 +5353,7 @@
 *://*.nbxiyaf.cn/*
 *://*.nbyoho.com/*
 *://*.nbyunhaijx.cn/*
+*://*.nbz.ai/*
 *://*.nbzlmc.com/*
 *://*.nc3w7xk.cn/*
 *://*.ncb8.cn/*
@@ -6780,6 +6790,7 @@
 *://*.sqbqzs.com/*
 *://*.sqf2a4r.cn/*
 *://*.sqhnxw.com/*
+*://*.sql.la/*
 *://*.sqn8.cn/*
 *://*.sqp.buzz/*
 *://*.sqzlsy.cn/*
@@ -6796,6 +6807,7 @@
 *://*.ssglnkyy.com/*
 *://*.ssiatvh.cn/*
 *://*.ssjxhy.com/*
+*://*.ssl.bet/*
 *://*.ssnkr.cn/*
 *://*.ssq02.com/*
 *://*.ssq13.com/*
@@ -7740,6 +7752,7 @@
 *://*.wjyxfdj.com/*
 *://*.wk5shhb.cn/*
 *://*.wkkkw.com/*
+*://*.wkto.cc/*
 *://*.wla50se.cn/*
 *://*.wlccb.cn/*
 *://*.wli5m84.cn/*
@@ -8161,6 +8174,7 @@
 *://*.xp7rb9.cn/*
 *://*.xp810.com/*
 *://*.xphym.com/*
+*://*.xppc.cc/*
 *://*.xptian.com/*
 *://*.xpwp.com.cn/*
 *://*.xpxqxzzx.com/*
