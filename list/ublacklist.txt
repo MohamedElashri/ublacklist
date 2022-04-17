@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2022-04-16 02:22:59
-# Total count: 13028
+# Version: 2022-04-17 02:29:21
+# Total count: 13046
 
 
 ! C&J Marketing
@@ -1485,6 +1485,7 @@
 *://*.apotheken-bestellung.buzz/*
 *://*.app-good.com/*
 *://*.app.3987.com/*
+*://*.appike.com/*
 *://*.appleroses.buzz/*
 *://*.applerp.cn/*
 *://*.appleseedconsulting.buzz/*
@@ -1709,6 +1710,7 @@
 *://*.beauty-katsura.buzz/*
 *://*.becreativeblog.com/*
 *://*.beebom.com/*
+*://*.beeeup.com/*
 *://*.beekaa.com/*
 *://*.begbfpn.cn/*
 *://*.behcetbicaklari.buzz/*
@@ -3389,6 +3391,7 @@
 *://*.golf188.cn/*
 *://*.golfguidetovirgina.buzz/*
 *://*.golvyouu.com/*
+*://*.gome.com.cn/*
 *://*.gomontana.com/*
 *://*.gonganjz.com/*
 *://*.gongyige.com/*
@@ -3799,6 +3802,7 @@
 *://*.hollingsworthford.buzz/*
 *://*.holsbyror.buzz/*
 *://*.holtqel.cn/*
+*://*.homedo.com/*
 *://*.homefindernow.buzz/*
 *://*.homefindersint.buzz/*
 *://*.homes-condos-nj-real-estate-agent.buzz/*
@@ -3840,6 +3844,7 @@
 *://*.hozz.cn/*
 *://*.hpapt.cn/*
 *://*.hpecopu.cn/*
+*://*.hpnews.online/*
 *://*.hpww.cc/*
 *://*.hpybk.com/*
 *://*.hq396.com/*
@@ -3886,6 +3891,7 @@
 *://*.htynwqz.cn/*
 *://*.htyqc.com/*
 *://*.huahuahc.com/*
+*://*.huahui08.com/*
 *://*.huaju8.com/*
 *://*.hualianem.com/*
 *://*.hualunzs.com/*
@@ -3918,6 +3924,7 @@
 *://*.huishitx.com/*
 *://*.huishouzuan.com/*
 *://*.huiss.cc/*
+*://*.huiyikj.com/*
 *://*.huiyin0419.com/*
 *://*.huiyingwl.com/*
 *://*.huiyuncy.com/*
@@ -5282,6 +5289,7 @@
 *://*.mos86.com/*
 *://*.moschallski.buzz/*
 *://*.moshouhj.com/*
+*://*.mostexpo.com/*
 *://*.mosuo.com.cn/*
 *://*.mosuo.net/*
 *://*.mote99.com/*
@@ -5513,6 +5521,7 @@
 *://*.njfpled.com/*
 *://*.njhaichuan.com/*
 *://*.njhuarun.com/*
+*://*.njloft.com/*
 *://*.njp8.cn/*
 *://*.njperennialgardens.buzz/*
 *://*.njplwm.com/*
@@ -5557,6 +5566,7 @@
 *://*.nonrcjh.cn/*
 *://*.noodv.com/*
 *://*.norcomits.buzz/*
+*://*.nordvpnblog.com/*
 *://*.novbox.buzz/*
 *://*.np.henhenlu1.cn/*
 *://*.npidjma.cn/*
@@ -6209,6 +6219,7 @@
 *://*.quembre.buzz/*
 *://*.quiet-city.buzz/*
 *://*.quinsaatbookeepingandtax.buzz/*
+*://*.qunkong.com.cn/*
 *://*.quweiso.com/*
 *://*.quwjjlj.cn/*
 *://*.quxianw.com/*
@@ -6338,6 +6349,7 @@
 *://*.rhs8.cn/*
 *://*.rhw8.cn/*
 *://*.ribenzyy.com/*
+*://*.ricardoeleinara.com/*
 *://*.ridhtech.com/*
 *://*.rightinbox.com/*
 *://*.rigorousthemes.com/*
@@ -7064,6 +7076,7 @@
 *://*.szjlty.com/*
 *://*.szkaian119.com/*
 *://*.szlapc.com/*
+*://*.szmall.com/*
 *://*.szmbsm.cn/*
 *://*.szmhddzkj168.com.cn/*
 *://*.szmobo.com/*
@@ -7121,6 +7134,7 @@
 *://*.tandeclub.com/*
 *://*.tanghtine.com/*
 *://*.taociok.cn/*
+*://*.taocms.org/*
 *://*.taododo.cn/*
 *://*.taofx.cc/*
 *://*.taoquange.cn/*
@@ -7170,6 +7184,7 @@
 *://*.techspot.com/*
 *://*.techtudo.com.br/*
 *://*.techwrestler.com/*
+*://*.tedabg.com/*
 *://*.tee-verkauf.buzz/*
 *://*.teenagebabes.buzz/*
 *://*.teengurls.buzz/*
@@ -7396,6 +7411,7 @@
 *://*.tuidang.org/*
 *://*.tuidu.com/*
 *://*.tujour.com/*
+*://*.tumblr.com/*
 *://*.tumlls.xyz/*
 *://*.tuokehj.com/*
 *://*.turf-seed-china.buzz/*
@@ -7620,6 +7636,7 @@
 *://*.viewpointcom.buzz/*
 *://*.viicm.com/*
 *://*.vijpnmu.cn/*
+*://*.vimsky.com/*
 *://*.vioary.com/*
 *://*.vip158.cn/*
 *://*.vip9456.com/*
@@ -8127,6 +8144,7 @@
 *://*.x8786.com/*
 *://*.x8ia6.cn/*
 *://*.x9l9lv.cn/*
+*://*.xa8.net/*
 *://*.xabbt.com/*
 *://*.xablgt.cn/*
 *://*.xagrtx.com/*
