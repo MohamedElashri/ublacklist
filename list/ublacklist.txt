@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2022-04-24 02:27:20
-# Total count: 13050
+# Version: 2022-04-25 02:51:03
+# Total count: 13051
 
 
 ! C&J Marketing
@@ -9929,6 +9929,7 @@
 *://janestyle.net/*
 *://japancourse.com/*
 *://japaneseclass.jp/*
+*://japanrow.com/*
 *://jaq-doc.alibaba.com/*
 *://javamana.com/*
 *://javelinmitsu.com/*
