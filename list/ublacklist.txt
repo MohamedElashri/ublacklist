@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2022-04-30 02:52:40
-# Total count: 13051
+# Version: 2022-05-01 03:11:27
+# Total count: 13077
 
 
 ! C&J Marketing
@@ -442,6 +442,7 @@
 *://*.26wb9lf.cn/*
 *://*.270r.com/*
 *://*.272422.com/*
+*://*.2742olivewood.com/*
 *://*.28f57.com/*
 *://*.28hyl.com/*
 *://*.28t9i3zy.cn/*
@@ -1401,6 +1402,7 @@
 *://*.allingenieros.buzz/*
 *://*.allisonanders.buzz/*
 *://*.allmusci.buzz/*
+*://*.alltechbuzz.net/*
 *://*.alltechsystemsonline.buzz/*
 *://*.alltop360.com/*
 *://*.allwanderlandstravel.buzz/*
@@ -1423,6 +1425,7 @@
 *://*.amtt.cc/*
 *://*.amuddycup.com/*
 *://*.amww.cc/*
+*://*.amyspastasauce.com/*
 *://*.amzalborz.com/*
 *://*.an700.com/*
 *://*.analplug.cn/*
@@ -1521,6 +1524,7 @@
 *://*.artachodelpino-abogados.buzz/*
 *://*.artaroundtheglobe.buzz/*
 *://*.artbikinis.buzz/*
+*://*.artibilim.com/*
 *://*.article24hours.buzz/*
 *://*.artificialpro.buzz/*
 *://*.artisticmats.buzz/*
@@ -1641,6 +1645,7 @@
 *://*.baixakigeeks.com/*
 *://*.baixsb.cn/*
 *://*.baiziy.com/*
+*://*.bajiaoyingshi.com/*
 *://*.bajins.com/*
 *://*.balimiz.com/*
 *://*.ballgamesplus.buzz/*
@@ -1658,6 +1663,7 @@
 *://*.bannedbook.org/*
 *://*.banquan3.com/*
 *://*.bansui365.com/*
+*://*.banyantp.com/*
 *://*.baobeiwu.net/*
 *://*.baoguodao8.cn/*
 *://*.baoguodao9.cn/*
@@ -2104,6 +2110,7 @@
 *://*.chaoyue.link/*
 *://*.chashidai.cn/*
 *://*.chatel-taxi.buzz/*
+*://*.chattaboo.com/*
 *://*.chaxun.la/*
 *://*.chcpd.com/*
 *://*.cheap-smoke.buzz/*
@@ -2125,6 +2132,7 @@
 *://*.china-nzgys.com/*
 *://*.china.cn/*
 *://*.china21.org/*
+*://*.china2uk.com/*
 *://*.chinaaffairs.org/*
 *://*.chinadmd.com/*
 *://*.chinapentapur.com/*
@@ -2173,6 +2181,7 @@
 *://*.cj0n93c.cn/*
 *://*.cjavapy.com/*
 *://*.cjegnvd.cn/*
+*://*.cjkfd.top/*
 *://*.cjmakeding.com/*
 *://*.cjmkt.com/*
 *://*.cjnxfhy.cn/*
@@ -2803,6 +2812,7 @@
 *://*.edyb8yf.cn/*
 *://*.eecpvx.cn/*
 *://*.eeq8.com/*
+*://*.eeyyoo.com.cn/*
 *://*.efdplwh.cn/*
 *://*.efzx.cc/*
 *://*.egcc.cc/*
@@ -3696,6 +3706,7 @@
 *://*.hexielaw.com/*
 *://*.heyma2.com/*
 *://*.heyuanheng.com/*
+*://*.hezhisw.com/*
 *://*.hezs88.com/*
 *://*.hfaedkp.cn/*
 *://*.hfaocm.com/*
@@ -4341,6 +4352,7 @@
 *://*.jk9i330.cn/*
 *://*.jke5.com/*
 *://*.jke7a9o.cn/*
+*://*.jkzh.net/*
 *://*.jl-k.com/*
 *://*.jl9d.com/*
 *://*.jldczl.com/*
@@ -4893,6 +4905,7 @@
 *://*.liwu.bi/*
 *://*.liyacxq.com/*
 *://*.liyazy.com/*
+*://*.liyi1688.com/*
 *://*.lizardpoit.com/*
 *://*.lizhidy.com/*
 *://*.lizigirl.com/*
@@ -5163,6 +5176,7 @@
 *://*.me1q93b.cn/*
 *://*.me348i.cn/*
 *://*.meadinn.buzz/*
+*://*.measart.com/*
 *://*.media-ink.buzz/*
 *://*.mediamass.net/*
 *://*.mediatagtw.com/*
@@ -5553,6 +5567,7 @@
 *://*.nmhsp.com/*
 *://*.nmhuawei.com/*
 *://*.nms88.cn/*
+*://*.nmxjp.com/*
 *://*.nnpq8dx.cn/*
 *://*.nntianhai.com/*
 *://*.no54hagleyroad.buzz/*
@@ -5978,6 +5993,7 @@
 *://*.psawis.com/*
 *://*.psb-hamburg.buzz/*
 *://*.psimoon.buzz/*
+*://*.psjgs.com.cn/*
 *://*.pspfvw.cn/*
 *://*.psr8.cn/*
 *://*.psww.cc/*
@@ -6023,6 +6039,7 @@
 *://*.pyax021.cn/*
 *://*.pyk696.com/*
 *://*.pyk868.com/*
+*://*.pyn9.com/*
 *://*.pythonwd.com/*
 *://*.pzdyj.com/*
 *://*.pzhfly.cn/*
@@ -6448,6 +6465,7 @@
 *://*.rx1eesa.cn/*
 *://*.rx8etvg.cn/*
 *://*.rx8n277.cn/*
+*://*.rxadderall.com/*
 *://*.rxh8.cn/*
 *://*.rxjh1.com/*
 *://*.rxpdxbp.cn/*
@@ -6598,6 +6616,7 @@
 *://*.sdyongqiang.net/*
 *://*.sdyujinji.com/*
 *://*.sdzhqp.com/*
+*://*.seafastcenter.com/*
 *://*.seaofredinc.buzz/*
 *://*.search.discuz.qq.com/*
 *://*.search.taobao.com/*
@@ -6768,6 +6787,7 @@
 *://*.sjsp168.com/*
 *://*.sjwencr.cn/*
 *://*.sjxc2008.com/*
+*://*.sjzjgbj.com/*
 *://*.sjzlangtai.com/*
 *://*.sjzp8.com/*
 *://*.sjztdhg.com/*
@@ -7165,6 +7185,7 @@
 *://*.tbsch.com/*
 *://*.tbujxos.cn/*
 *://*.tbvgnbv.cn/*
+*://*.tcly6.com/*
 *://*.tclyy.com/*
 *://*.tcqgou.com/*
 *://*.tcqsc.com/*
@@ -7347,6 +7368,7 @@
 *://*.torrentz-proxy.com/*
 *://*.toudijia.com/*
 *://*.touyanmo.com/*
+*://*.touyinghome.com/*
 *://*.toyif.cn/*
 *://*.toys007.com/*
 *://*.tpgimgm.cn/*
@@ -8413,6 +8435,7 @@
 *://*.xygoogou.com/*
 *://*.xygxhm.com/*
 *://*.xyj2006.com/*
+*://*.xykjsqg.com/*
 *://*.xypcxl.com/*
 *://*.xysdjz.com/*
 *://*.xytuwen.com/*
@@ -9015,12 +9038,14 @@
 *://*.zngy57z.cn/*
 *://*.znj.com/*
 *://*.znkji.com/*
+*://*.znsjw.com/*
 *://*.znysg.com/*
 *://*.zoailive.com/*
 *://*.zoe5bh6.cn/*
 *://*.zoelove925.com/*
 *://*.zof477.cn/*
 *://*.zoikf.cn/*
+*://*.zol.com.cn/*
 *://*.zondau.com/*
 *://*.zonghengjy.com/*
 *://*.zoohcpj.cn/*
@@ -10051,6 +10076,7 @@
 *://lingualeo.com/*
 *://linksou.cc/*
 *://lipeilipei.top/*
+*://list-chaoshi.jd.com/*
 *://list.jd.com/*
 *://list.suning.com/*
 *://list.youku.com/*
