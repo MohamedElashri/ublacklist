@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2022-05-12 02:50:25
-# Total count: 13079
+# Version: 2022-05-13 03:13:56
+# Total count: 13084
 
 
 ! C&J Marketing
@@ -352,6 +352,7 @@
 *://*.1pyy.com/*
 *://*.1qplay.com/*
 *://*.1qsd.com/*
+*://*.1r1g.com/*
 *://*.1shouxi.com/*
 *://*.1sta7r0.cn/*
 *://*.1taoyuan.com/*
@@ -9458,6 +9459,7 @@
 *://career-find.jp/*
 *://careers.longi.com/*
 *://carry.pw/*
+*://catwolf.org/*
 *://ccem.zju.edu.cn/*
 *://cctsuzhou.cn/*
 *://cdbike.net/*
@@ -9602,6 +9604,7 @@
 *://ddosgb.cooou.com/*
 *://ddxiangmu.com/*
 *://ddxinwen.com/*
+*://de-vraag.com/*
 *://de.jbckj.com/*
 *://dealdigit.com/*
 *://dealschief.com/*
@@ -9612,6 +9615,7 @@
 *://dev-qa.com/*
 *://devbugfix.com/*
 *://devdocs.magento.com/*
+*://devdreamz.com/*
 *://develop.sogou88812345.com/*
 *://developer.aliyun.com/articlezt/*
 *://developer.ibm.com/*
@@ -10598,6 +10602,7 @@
 *://still.sogou00098765.com/*
 *://stormcrow.dev/*
 *://streetvoice.com/*
+*://string.quest/*
 *://subscription.packtpub.com/*
 *://suiyishop.cn/*
 *://sunhunjia.com/*
