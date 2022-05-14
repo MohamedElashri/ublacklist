@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2022-05-13 03:13:56
-# Total count: 13084
+# Version: 2022-05-14 03:20:41
+# Total count: 13094
 
 
 ! C&J Marketing
@@ -820,6 +820,7 @@
 *://*.586nwh.cn/*
 *://*.588c2ts.cn/*
 *://*.58efu.com/*
+*://*.58hengqi.com/*
 *://*.58huangye.com/*
 *://*.58minglu.cn/*
 *://*.58pan.cn/*
@@ -1898,6 +1899,7 @@
 *://*.bongnao.cn/*
 *://*.bonne-table.buzz/*
 *://*.book-sales.buzz/*
+*://*.bookresource.net/*
 *://*.booksheji.com/*
 *://*.booswr.cn/*
 *://*.borasweb.buzz/*
@@ -2417,6 +2419,7 @@
 *://*.cxygjd.com/*
 *://*.cxymm.net/*
 *://*.cxyread.cc/*
+*://*.cxywk.com/*
 *://*.cxyxd.com/*
 *://*.cxyy0429.cn/*
 *://*.cxyzd.xyz/*
@@ -2532,6 +2535,7 @@
 *://*.ddjone.com/*
 *://*.ddkkw.com/*
 *://*.ddoca.com/*
+*://*.ddosi.org/*
 *://*.ddpei.com/*
 *://*.ddsulian.com/*
 *://*.ddttb.com/*
@@ -2864,6 +2868,7 @@
 *://*.enfx.cc/*
 *://*.english-today.cn/*
 *://*.engrtext.buzz/*
+*://*.enkj.com/*
 *://*.enmsb.com/*
 *://*.enmusic.cn/*
 *://*.enonled.com/*
@@ -4337,6 +4342,7 @@
 *://*.jiuto.cn/*
 *://*.jiuwei.kuaiso.com/*
 *://*.jixian80.com/*
+*://*.jiyimusic.com/*
 *://*.jiyudeng.buguangdeng.com/*
 *://*.jj249.cn/*
 *://*.jjgw86.com/*
@@ -5886,6 +5892,7 @@
 *://*.pigfun.cn/*
 *://*.piletoys.cn/*
 *://*.pinkiyy.com/*
+*://*.pinkypink.org/*
 *://*.pinonplaza.buzz/*
 *://*.pinpaici.com/*
 *://*.pintech.net.cn/*
@@ -7439,6 +7446,7 @@
 *://*.tumlls.xyz/*
 *://*.tuokehj.com/*
 *://*.turf-seed-china.buzz/*
+*://*.turnoffthelights.com/*
 *://*.tusfam.com/*
 *://*.tutorialink.com/*
 *://*.tutorialspoint.com/*
@@ -7785,6 +7793,7 @@
 *://*.wbh360.com/*
 *://*.wbmob.com/*
 *://*.wbnn.cc/*
+*://*.wbolt.com/*
 *://*.wc95.cn/*
 *://*.wcnojz.cn/*
 *://*.wcr8.cn/*
@@ -9910,6 +9919,7 @@
 *://ihkcar.com/*
 *://iivd.net/*
 *://ik4.es/*
+*://iknow.baidu.com/search?word=*
 *://ilovepowershell.com/*
 *://ilvruan.com/*
 *://imweb.io/*
