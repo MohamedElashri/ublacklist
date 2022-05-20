@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2022-05-19 03:00:06
-# Total count: 13095
+# Version: 2022-05-20 02:50:05
+# Total count: 13096
 
 
 ! C&J Marketing
@@ -9771,6 +9771,7 @@
 *://fsqyjt88.com/*
 *://fsweini.com/*
 *://fullstack.im/*
+*://fullstackuser.com/*
 *://fumumu.net/*
 *://fydqw.com/*
 *://fyf.wx-wx.net/*
