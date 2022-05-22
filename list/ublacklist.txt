@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2022-05-21 02:17:58
-# Total count: 13098
+# Version: 2022-05-22 02:44:30
+# Total count: 13102
 
 
 ! C&J Marketing
@@ -9551,6 +9551,7 @@
 *://codeday.me/*
 *://codefaq.ru/*
 *://codegear.dev/*
+*://codegrepr.com/*
 *://codeguides.site/*
 *://codehero.jp/*
 *://codejzy.com/*
@@ -9715,6 +9716,7 @@
 *://entertainment-topics.jp/*
 *://eoncon.com/*
 *://eozy.vip-erfolgscoach.de/*
+*://errorsfixing.com/*
 *://esc0769.com/*
 *://eshuow.com/*
 *://esm.esspoc.cn/*
@@ -9737,7 +9739,6 @@
 *://fact.linuxsogood.org/*
 *://faculdadearidesa.instructure.com/*
 *://fanqiang.network/*
-*://farath.com/*
 *://farmsone.com/*
 *://fashion.biglobe.ne.jp/*
 *://faun.pub/*
@@ -10540,6 +10541,7 @@
 *://seo.maro6.com/*
 *://seo.quxingdong.com/*
 *://seodesignchicago.com/*
+*://serveanswer.com/*
 *://set.duoyuan-chemical.com/*
 *://sfs.cyc.edu.tw/*
 *://sgjarts.com/*
@@ -10633,6 +10635,7 @@
 *://sweetcelebrationpa.com/*
 *://sxcpsjapp.org/*
 *://sydjt.com/*
+*://syntaxfix.com/*
 *://sysadminde.com/*
 *://syshizhi.com/*
 *://syy79.com/*
@@ -10796,7 +10799,6 @@
 *://webdesign.design-engine.org/*
 *://webdevdesigner.com/*
 *://webdoc.lenovo.com.cn/*
-*://webmonkez.com/*
 *://websetnet.net/*
 *://websou.cc/*
 *://websurfnow.appspot.com/*
@@ -12583,7 +12585,9 @@
 *://www.wcwol.com/*
 *://www.wdfyw.com/*
 *://www.wdzj.com/*
+*://www.web-dev-qa-db-fr.com/*
 *://www.web-dev-qa-db-ja.com/*
+*://www.web-dev-qa-db-pt.com/*
 *://www.web-dev-qa.com/*
 *://www.webdevqa.jp.net/*
 *://www.webmuban.com/*
