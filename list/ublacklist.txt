@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2022-05-23 02:53:58
-# Total count: 13104
+# Version: 2022-05-24 02:58:42
+# Total count: 13106
 
 
 ! C&J Marketing
@@ -9281,6 +9281,7 @@
 *://abcsou.cc/*
 *://access.redhat.com/*
 *://activity.pu.edu.tw/*
+*://admx.help/*
 *://adolescentz.com/*
 *://adsc.krank-durch-mobilfunk.de/*
 *://aeam.nervenbahnmassage.de/*
@@ -10218,6 +10219,7 @@
 *://mamicode.com/*
 *://man7.org/*
 *://manatus.com.br/*
+*://manualzz.com/*
 *://manuw.net/*
 *://maokun.blog.csdn.net/*
 *://matomame.jp/*
