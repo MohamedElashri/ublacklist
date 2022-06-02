@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2022-06-01 03:29:15
-# Total count: 13107
+# Version: 2022-06-02 03:11:10
+# Total count: 13113
 
 
 ! C&J Marketing
@@ -1945,6 +1945,7 @@
 *://*.bu-shen.com/*
 *://*.bubuzhe.com/*
 *://*.buccelli.buzz/*
+*://*.budanghuishi.com/*
 *://*.buffalo-mn.org/*
 *://*.bugelun.com/*
 *://*.buitragonotaria.buzz/*
@@ -4469,6 +4470,7 @@
 *://*.jtzt5oy.cn/*
 *://*.ju8sq.com/*
 *://*.judongneng.com/*
+*://*.juejin.cn/s/*
 *://*.jueshi.in/*
 *://*.juhu123.com/*
 *://*.jujia9.com/*
@@ -5519,6 +5521,7 @@
 *://*.nhcj3d.cn/*
 *://*.nhcondorental.buzz/*
 *://*.nhhhn.com/*
+*://*.nhm.org/*
 *://*.nhq8.cn/*
 *://*.niangluan.cn/*
 *://*.nicaikj.com/*
@@ -6796,6 +6799,7 @@
 *://*.sjwencr.cn/*
 *://*.sjxc2008.com/*
 *://*.sjzjgbj.com/*
+*://*.sjzjyyx.com/*
 *://*.sjzlangtai.com/*
 *://*.sjzp8.com/*
 *://*.sjztdhg.com/*
@@ -7375,6 +7379,7 @@
 *://*.toriphile.buzz/*
 *://*.torrentz-proxy.com/*
 *://*.toudijia.com/*
+*://*.toutiao.com/search?keyword=*
 *://*.touyanmo.com/*
 *://*.touyinghome.com/*
 *://*.toyif.cn/*
@@ -8775,6 +8780,7 @@
 *://*.yunjinyaju.com/*
 *://*.yunniukd.com.cn/*
 *://*.yunsh.cc/*
+*://*.yunweipai.com/*
 *://*.yunyoulu.com/*
 *://*.yunyusky.cn/*
 *://*.yushu888.com/*
