@@ -9924,7 +9924,6 @@
 *://gitanswer.com/*
 *://giters.com/*
 *://github-wiki-see.page/*
-*://github.com/*
 *://github.innominds.com/*
 *://github.laobiao.workers.dev/*
 *://githubhelp.com/*
