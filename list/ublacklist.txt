@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2022-06-21 03:03:14
-# Total count: 13279
+# Version: 2022-06-22 03:03:42
+# Total count: 13288
 
 
 ! C&J Marketing
@@ -4898,6 +4898,7 @@
 *://*.leonlv.com/*
 *://*.lerunsteel.com/*
 *://*.letaoshui.com/*
+*://*.lete.com/kdwenda/*
 *://*.levigrey.buzz/*
 *://*.leyendatour.buzz/*
 *://*.lf82.cn/*
@@ -5837,6 +5838,8 @@
 *://*.ouqin2018.com/*
 *://*.ourladylakes.org/*
 *://*.ourmercado.buzz/*
+*://*.ourplay.net/ask/*
+*://*.ourplay.net/qazt/*
 *://*.ours2008.com/*
 *://*.oustv.com/*
 *://*.outofmemory.cn/*
@@ -5969,6 +5972,7 @@
 *://*.pic2.icu/*
 *://*.picbr.com/*
 *://*.picciutofamily.buzz/*
+*://*.picclick.co.uk/*
 *://*.picis.cn/*
 *://*.pigfun.cn/*
 *://*.piletoys.cn/*
@@ -6826,6 +6830,7 @@
 *://*.shsjgy.cn/*
 *://*.shsjing.com/*
 *://*.shsuny.cn/*
+*://*.shtaxi.com/*
 *://*.shtianbao.com/*
 *://*.shtrimen.com/*
 *://*.shtuniu.com/*
@@ -8139,6 +8144,7 @@
 *://*.wuyanxi.cn/*
 *://*.wuyec.com/*
 *://*.wuyou9.com/*
+*://*.wuzhuiso.com/s?q=*
 *://*.wvcause.com/*
 *://*.wvccfgo.cn/*
 *://*.wvmaster.com/*
@@ -9162,6 +9168,7 @@
 *://*.zm5537.com/*
 *://*.zmdhdyc.com/*
 *://*.zmgood.com/*
+*://*.zmmoo.com/*
 *://*.zmpat.com/*
 *://*.zms2fv4.cn/*
 *://*.zmzl1rm.cn/*
@@ -10327,6 +10334,7 @@
 *://mamicode.com/*
 *://man7.org/*
 *://manatus.com.br/*
+*://manuals.plus/*
 *://manualzz.com/*
 *://manuw.net/*
 *://maokun.blog.csdn.net/*
@@ -13203,6 +13211,7 @@
 *://zhidao.baidu.com/*
 *://zhidao.baidu.hk/*
 *://zhidao.juyouxuan.vip/*
+*://zhidaocommit.baidu.com/search?*
 *://zhipanyou.com/*
 *://zhishichong.com/*
 *://zhixianxian.com/*
