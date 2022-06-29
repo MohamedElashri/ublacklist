@@ -2,7 +2,7 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2022-06-28 03:07:11
+# Version: 2022-06-29 03:17:19
 # Total count: 13289
 
 
@@ -11856,6 +11856,7 @@
 *://www.html.cn/*
 *://www.html521.com/*
 *://www.htmlds.com/*
+*://www.htsjk.com/*
 *://www.htwl168.com/*
 *://www.huaci.cc/*
 *://www.huadaninfo.com/*
