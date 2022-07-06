@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2022-07-05 03:11:52
-# Total count: 13289
+# Version: 2022-07-06 03:18:28
+# Total count: 13261
 
 
 ! C&J Marketing
@@ -2322,7 +2322,6 @@
 *://*.coozhu.com/*
 *://*.copoen.cn/*
 *://*.corbistore.buzz/*
-*://*.coredump.biz/*
 *://*.coreldrawchina.com/*
 *://*.corkyevans.buzz/*
 *://*.corningfranklinhealth.buzz/*
@@ -9378,6 +9377,7 @@
 *://6so.so/*
 *://7.555.gd/*
 *://700777.xyz/*
+*://711web.com/*
 *://74cmsse.tywangcai.com/*
 *://7xhy.com/*
 *://7yun.com/*
@@ -9423,7 +9423,6 @@
 *://aihuiguo.com/*
 *://aijishu.com/*
 *://aizhaoni.com/*
-*://alltodev.com/*
 *://alpy-alpy.net/*
 *://amp.mediatrias.com/*
 *://amplinow.com/*
@@ -9436,7 +9435,6 @@
 *://another.tidewaterinvestmentgroup.com/*
 *://answacode.com/*
 *://answer-id.com/*
-*://answerlib.com/*
 *://aoteen.net/*
 *://ap.instructure.com/*
 *://apkdownloadforwindows.com/*
@@ -9465,7 +9463,6 @@
 *://ask.seowhy.com/*
 *://ask.zol.com.cn/*
 *://askcodez.com/*
-*://askdev.vn/*
 *://asuka-shimizu.com/*
 *://ata-academy.com/*
 *://auditioneasterhelm.com/*
@@ -9566,7 +9563,6 @@
 *://brd2a.com/*
 *://brightchanging.com/*
 *://broadas.com/*
-*://brocante.dev/*
 *://brrmn.com/*
 *://brwhn.com/*
 *://bryanalders.com/*
@@ -9624,7 +9620,6 @@
 *://chowdera.com/*
 *://chrisalbon.com/*
 *://christadavidson.com/*
-*://christfever.in/*
 *://chuumoku.net/*
 *://ciksiti.com/*
 *://clario.co/*
@@ -9683,12 +9678,9 @@
 *://codejzy.com/*
 *://codeleading.com/*
 *://coder-question.com/*
-*://coder-solution-jp.com/*
 *://coderedirect.com/*
 *://coderoad.ru/*
-*://codersatellite.com/*
 *://codertw.com/*
-*://codewdw.com/*
 *://codingdict.com/*
 *://codingnote.cc/*
 *://codingwithmanny.medium.com/*
@@ -9726,6 +9718,7 @@
 *://czba.quazzle.de/*
 *://d.zymrg.com/*
 *://daiki-global.work/*
+*://dailydevsblog.com/*
 *://daimajiaoliu.com/*
 *://daliqckj.com/*
 *://dandelioncloud.cn/*
@@ -9745,7 +9738,6 @@
 *://demo7.hr135.com/*
 *://detail.zol.com.cn/*
 *://dev-qa.com/*
-*://devbugfix.com/*
 *://devdocs.magento.com/*
 *://devdreamz.com/*
 *://develop.sogou88812345.com/*
@@ -9807,7 +9799,6 @@
 *://ea.kitgain.com/*
 *://eas.800freightnet.com/*
 *://easyhaitao.com/*
-*://easysavecode.com/*
 *://eatash.com/*
 *://ebbbogk.cpffz.com/*
 *://ebellembriane.it/*
@@ -9852,7 +9843,6 @@
 *://events.laravel-dojo.com/*
 *://everythingwhat.com/*
 *://exam.pinge360.com/*
-*://exceptionshub.com/*
 *://excesssecurity.com/*
 *://exmail-qq.cc/*
 *://experienceleague.adobe.com/*
@@ -10010,7 +10000,6 @@
 *://hoteles.bluevalencia.com/*
 *://hotgds.com/*
 *://howcoding.com/*
-*://howtofix.io/*
 *://hscj.org/*
 *://hsk.oray.com/*
 *://html52.com/*
@@ -10029,7 +10018,6 @@
 *://i.hacking8.com/*
 *://iamlishuo.com/*
 *://iask.sina.com.cn/*
-*://ibootweb.com/*
 *://ic.ustc.edu.cn/*
 *://iccie.tw/*
 *://ichi.pro/*
@@ -10063,7 +10051,6 @@
 *://iskeke.com/*
 *://isolution.pro/*
 *://issueexplorer.com/*
-*://issues-world.com/*
 *://it-kyujin.jp/*
 *://it.wenda123.org/*
 *://itbilu.com/*
@@ -10115,7 +10102,6 @@
 *://jos.jd.com/*
 *://jpcodeqa.com/*
 *://jpdebug.com/*
-*://jpndev.com/*
 *://jqljc.com/*
 *://jrccn.cn/*
 *://jrpw.webdesign-kiel-hamburg.de/*
@@ -10185,7 +10171,6 @@
 *://laravel.p2hp.com/*
 *://laravel.tw/*
 *://laraveldaily.com/*
-*://laravelquestions.com/*
 *://lawsearch.taichung.gov.tw/*
 *://ld246.com/*
 *://ldc11.com/*
@@ -10520,7 +10505,6 @@
 *://posts.careerengine.us/*
 *://power.baidu.com/*
 *://ppfocus.com/*
-*://pretagteam.com/*
 *://priorityhospice.com/*
 *://pro.arcgis.com/*
 *://probacc.com/*
@@ -10548,12 +10532,10 @@
 *://publish.samsungsimulator.com/*
 *://pubs.rsna.org/*
 *://pxbxj.nenu.edu.cn/*
-*://python-stack.de/*
 *://python.iitter.com/*
 *://python5.com/*
 *://pythonissues.com/*
 *://pythonrepo.com/*
-*://pythonwd.com/*
 *://qa-stack.pl/*
 *://qa.1r1g.com/*
 *://qa.icopy.site/*
@@ -10591,7 +10573,6 @@
 *://qishh.com/*
 *://qooqo.ru/*
 *://quabr.com/*
-*://quares.ru/*
 *://question-it.com/*
 *://quhao.293.net/*
 *://quitko.com/*
@@ -10712,17 +10693,14 @@
 *://sqlite.in/*
 *://sspai.com/*
 *://sswhsign.com/*
-*://stackfault.net/*
 *://stackfinder.jp.net/*
 *://stackguides.com/*
 *://stackify.com/*
-*://stackify.dev/*
 *://stackoom.com/*
 *://stackoverflow.com/*
 *://stackovergo.com/*
 *://stackovernet.xyz/*
 *://stackoverrun.com/*
-*://stackqna.com/*
 *://stackscn.com/*
 *://startup.filedict.com/*
 *://static.grinnell.edu/*
@@ -11301,6 +11279,7 @@
 *://www.biedai.com/*
 *://www.bifengo.com/*
 *://www.bilibili.com/*
+*://www.binarydevelop.com/*
 *://www.bisheyun.com/*
 *://www.bitedie.com/*
 *://www.bizcomhub.net/*
@@ -11339,7 +11318,6 @@
 *://www.buy123.com.tw/*
 *://www.buyshui.com/*
 *://www.buythebestbuy.com/*
-*://www.buzzphp.com/*
 *://www.byswq.com/*
 *://www.byte.online/*
 *://www.bzxfgj.com/*
@@ -11644,7 +11622,6 @@
 *://www.etbot.net/*
 *://www.eternalcq.com/*
 *://www.eviolinrepair.com/*
-*://www.examplefiles.net/*
 *://www.excellentdue.com/*
 *://www.exmlo.com/*
 *://www.expertsphp.com/*
@@ -11717,9 +11694,7 @@
 *://www.geci345.com/*
 *://www.geek-share.com/*
 *://www.geeksforgeeks.org/*
-*://www.generacodice.blog/*
 *://www.generacodice.com/*
-*://www.generacodice.it/*
 *://www.gergj.top/*
 *://www.geshunzhidai2.com/*
 *://www.getbackpacking365.com/*
@@ -11932,7 +11907,6 @@
 *://www.it-swarm-ja.tech/*
 *://www.it-swarm.asia/*
 *://www.it-swarm.cn/*
-*://www.it-swarm.com.ru/*
 *://www.it-swarm.dev/*
 *://www.it-swarm.jp.net/*
 *://www.it120.cc/*
@@ -12393,7 +12367,6 @@
 *://www.ptzxc.com/*
 *://www.pvnews.cn/*
 *://www.py.cn/*
-*://www.py4u.net/*
 *://www.pyk696.com/*
 *://www.q578.com/*
 *://www.q8ab.com/*
@@ -13113,7 +13086,6 @@
 *://xinhanjin.com/*
 *://xinzhi.wenda.so.com/*
 *://xitong99.com/*
-*://xiu2.net/*
 *://xj.ahjygl.gov.cn/*
 *://xjavascript.com/*
 *://xkhscw.com/*
