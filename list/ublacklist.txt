@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2022-07-06 03:18:28
-# Total count: 13261
+# Version: 2022-07-07 03:16:56
+# Total count: 13270
 
 
 ! C&J Marketing
@@ -4119,6 +4119,7 @@
 *://*.idecap.cn/*
 *://*.idfn.cn/*
 *://*.idmchina.net/*
+*://*.ids-water.com/*
 *://*.iebuchln.cn/*
 *://*.iecmo.cn/*
 *://*.if4uwsn.cn/*
@@ -9516,10 +9517,12 @@
 *://bggfx.com/*
 *://bianmawd.cc/*
 *://biggo.com.tw/*
+*://biobu.it/*
 *://bjtmmh.com/*
 *://bk.tencent.com/*
 *://blacksprocket.com/*
 *://bleepcoder.com/*
+*://blog.51cto.ex1.https.443.g0.ipv6.zhuhai.gov.cn/*
 *://blog.csdn.ex5.https.443.ipv6.faw.com.cn/*
 *://blog.csdn.net/*
 *://blog.csdn.net/holybin/*
@@ -10708,6 +10711,7 @@
 *://steakrecord.com/*
 *://steakrecords.com/*
 *://steigerhoutbeta2.smart-gamma.com/*
+*://steinlingaerten.ch/*
 *://sthuaguan.com/*
 *://still.depannageinformatiquepc.com/*
 *://still.sogou00098765.com/*
@@ -11302,6 +11306,7 @@
 *://www.bookservice.jp/*
 *://www.bookstack.cn/*
 *://www.bootstrapmb.com/*
+*://www.bordeaux1.fr/*
 *://www.bousaid.com/*
 *://www.boxdiary.com/*
 *://www.brailleauthority.org/*
@@ -11356,6 +11361,7 @@
 *://www.cesafe.com/*
 *://www.cfanz.cn/*
 *://www.cftea.com/*
+*://www.chabuduoyang.com/*
 *://www.chac.org.cn/*
 *://www.chadou.me/*
 *://www.chajian5.com/*
@@ -11549,6 +11555,7 @@
 *://www.dofe.com.cn/*
 *://www.donnaspetcare.com/*
 *://www.doukou.com/*
+*://www.dounaite.com/*
 *://www.down789.com/*
 *://www.downbank.cn/*
 *://www.downcc.com/*
@@ -11927,6 +11934,7 @@
 *://www.itpow.com/*
 *://www.itranslater.com/*
 *://www.itread01.com/*
+*://www.itren.org/*
 *://www.itrmb.com/*
 *://www.its203.com/*
 *://www.its500.com/*
@@ -13080,6 +13088,7 @@
 *://xfqc186.com/*
 *://xiao66688.com/*
 *://xiaotua.com/*
+*://xiaotut.com/*
 *://xiazai.zol.com.cn/*
 *://xichangitem.com/*
 *://xinghe.tv/*
