@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2022-07-07 03:16:56
-# Total count: 13270
+# Version: 2022-07-08 03:08:31
+# Total count: 13273
 
 
 ! C&J Marketing
@@ -3363,6 +3363,7 @@
 *://*.geren-jianli.org/*
 *://*.getaoquan.com/*
 *://*.getapp.com/*
+*://*.getdocs.org/*
 *://*.getintopc.today/*
 *://*.getool.com/*
 *://*.geyinban.net/*
@@ -7312,6 +7313,7 @@
 *://*.teamumwelt.buzz/*
 *://*.teapm.com/*
 *://*.techdevian.com/*
+*://*.techiedelight.com/*
 *://*.techpout.com/*
 *://*.techresearchonline.com/*
 *://*.techspot.com/*
@@ -10741,6 +10743,7 @@
 *://syshizhi.com/*
 *://t.codebug.vip/*
 *://t.me/*
+*://tagsqa.com/*
 *://tangshijianfei.com/*
 *://tao.hooos.com/*
 *://taojinpu.cn/*
