@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2022-07-11 03:06:10
-# Total count: 13273
+# Version: 2022-07-12 03:23:08
+# Total count: 13293
 
 
 ! C&J Marketing
@@ -1467,6 +1467,7 @@
 *://*.anpaicao.cn/*
 *://*.anqu998.com/*
 *://*.anrezg.com/*
+*://*.answacode.com/*
 *://*.answeright.com/*
 *://*.answers.gethuman.com/*
 *://*.antarcticshop.com/*
@@ -4230,6 +4231,7 @@
 *://*.itcentralstation.com/*
 *://*.itchosun.buzz/*
 *://*.itecnote.com/*
+*://*.iteramos.com/*
 *://*.itigic.com/*
 *://*.itmpi-journal.buzz/*
 *://*.itranslater.com/*
@@ -8138,6 +8140,7 @@
 *://*.wuhenongye.com/*
 *://*.wuji8.com/*
 *://*.wujieliulan.com/*
+*://*.wujigu.com/*
 *://*.wumichu.com.cn/*
 *://*.wumugold.com/*
 *://*.wurenjiashiqiche.cn/*
@@ -9426,6 +9429,7 @@
 *://aihuiguo.com/*
 *://aijishu.com/*
 *://aizhaoni.com/*
+*://ajaxhispano.com/*
 *://alpy-alpy.net/*
 *://amp.mediatrias.com/*
 *://amplinow.com/*
@@ -9436,7 +9440,6 @@
 *://anningbaby.com/*
 *://announcer-news.com/*
 *://another.tidewaterinvestmentgroup.com/*
-*://answacode.com/*
 *://answer-id.com/*
 *://aoteen.net/*
 *://ap.instructure.com/*
@@ -9683,6 +9686,7 @@
 *://codejzy.com/*
 *://codeleading.com/*
 *://coder-question.com/*
+*://coder-solution-es.com/*
 *://coderedirect.com/*
 *://coderoad.ru/*
 *://codertw.com/*
@@ -9727,6 +9731,7 @@
 *://daimajiaoliu.com/*
 *://daliqckj.com/*
 *://dandelioncloud.cn/*
+*://daplus.net/*
 *://darb.cerlombardia.it/*
 *://darler.gitee.io/*
 *://daydaynews.cc/*
@@ -9755,6 +9760,7 @@
 *://dfuw.redandgold.de/*
 *://dgdkgs2.com/*
 *://dguun.com/*
+*://digitrain.ru/*
 *://digwow.net/*
 *://dingtalk.com/*
 *://diodiodio.com/*
@@ -9779,6 +9785,7 @@
 *://docs.plesk.com/*
 *://docs.tita.com/*
 *://doit.gov.taipei/*
+*://doraprojects.net/*
 *://dosen.unswagati.ac.id/*
 *://dotblogs.com.tw/*
 *://down.chinaz.com/*
@@ -10059,6 +10066,7 @@
 *://it-kyujin.jp/*
 *://it.wenda123.org/*
 *://itbilu.com/*
+*://itecnote.com/*
 *://itectec.com/*
 *://item.jd.com/*
 *://iter01.com/*
@@ -10104,6 +10112,7 @@
 *://jlpt.neea.cn/*
 *://jobready.cn/*
 *://johobase.com/*
+*://jonic.cn/*
 *://jos.jd.com/*
 *://jpcodeqa.com/*
 *://jpdebug.com/*
@@ -10464,6 +10473,7 @@
 *://onihikaku.com/*
 *://online.hoteldistributor.com/*
 *://onlyhow.net/*
+*://oomake.com/*
 *://open.toutiao.com/*
 *://openhis.newtouch.com/*
 *://openprojectrepo.com/*
@@ -10486,6 +10496,7 @@
 *://pc.geren-jianli.org/*
 *://pcedu.pconline.com.cn/*
 *://pcmac.download/*
+*://peaku.co/*
 *://pedia.cloud.edu.tw/*
 *://pentacent.medium.com/*
 *://perhu.com/*
@@ -10520,6 +10531,7 @@
 *://product.suning.com/*
 *://product.yesky.com/*
 *://progi.pro/*
+*://prograide.com/*
 *://programmerstart.com/*
 *://programmierfrage.com/*
 *://programtip.com/*
@@ -10579,6 +10591,7 @@
 *://qooqo.ru/*
 *://quabr.com/*
 *://question-it.com/*
+*://questu.ru/*
 *://quhao.293.net/*
 *://quitko.com/*
 *://qwtcpt.com/*
@@ -10683,6 +10696,7 @@
 *://smther.com/*
 *://sn-jp.com/*
 *://so.ixigua.com/*
+*://so.muouseo.com/*
 *://social.lhquan.com/*
 *://sodocumentation.net/*
 *://soft.onlinedown.com/*
@@ -10694,6 +10708,7 @@
 *://softsmac.net/*
 *://softwarecoupons.com/*
 *://solutionmade.net/*
+*://solveforum.com/*
 *://spider.doc88.com/*
 *://sqlite.in/*
 *://sspai.com/*
@@ -10942,7 +10957,6 @@
 *://wsao.kerstinraphahn.de/*
 *://wthe.singende-wirte.de/*
 *://wtsearch.cc/*
-*://wujigu.com/*
 *://wukong.toutiao.com/*
 *://wusunyinyue.cn/*
 *://ww-w.ni7.top/*
@@ -11232,6 +11246,7 @@
 *://www.antutu.com/*
 *://www.anxinapk.com/*
 *://www.anxz.com/*
+*://www.anycodings.com/*
 *://www.anyolife.com/*
 *://www.appannie.com/*
 *://www.appchina.com/*
@@ -11615,6 +11630,7 @@
 *://www.edoou.com/*
 *://www.educba.com/*
 *://www.edujinyu.com/*
+*://www.edureka.co/*
 *://www.edurt.com/*
 *://www.eduvalue.cn/*
 *://www.eeq8.com/*
@@ -11645,6 +11661,8 @@
 *://www.facebook.com/*
 *://www.fangfaku.net/*
 *://www.fanjinyan.com/*
+*://www.faqcode4u.com/*
+*://www.faqcodes.com/*
 *://www.fashiontrendcenters.com/*
 *://www.fast8.com/*
 *://www.fastchina.net/*
@@ -12091,6 +12109,7 @@
 *://www.lastupdate.net/*
 *://www.layerstack.com/*
 *://www.ld12345.com/*
+*://www.learnfk.com/*
 *://www.learnfuture.com/*
 *://www.lebgame.com/*
 *://www.leinuokj.com/*
@@ -12184,6 +12203,7 @@
 *://www.mei521.com/*
 *://www.meisuitaotao.com/*
 *://www.meiyoubug.com/*
+*://www.mejorcodigo.com/*
 *://www.melijoo.com/*
 *://www.mfpjrj.com/*
 *://www.mgzxzs.com/*
