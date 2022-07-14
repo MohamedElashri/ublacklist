@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2022-07-13 03:10:10
-# Total count: 13293
+# Version: 2022-07-14 03:19:06
+# Total count: 13313
 
 
 ! C&J Marketing
@@ -284,6 +284,7 @@
 *://*.1688.com/*
 *://*.16885518.com/*
 *://*.1688kaile.com/*
+*://*.16892.net/*
 *://*.168sushiqt.com/*
 *://*.168town.com/*
 *://*.168yixue.com/*
@@ -801,6 +802,7 @@
 *://*.5467.com/*
 *://*.54gsl.com/*
 *://*.55118885.com/*
+*://*.55276.net/*
 *://*.55468z8.cn/*
 *://*.555.gd/*
 *://*.5558xx.com/*
@@ -1201,6 +1203,7 @@
 *://*.9gft.com/*
 *://*.9go8lrt.cn/*
 *://*.9idudu.com/*
+*://*.9ishenzhen.com/*
 *://*.9j38dyc.cn/*
 *://*.9jo945v.cn/*
 *://*.9k9byou.com/*
@@ -1493,6 +1496,7 @@
 *://*.aoyoutao.com/*
 *://*.ap8o2.cn/*
 *://*.apartmentcenters.buzz/*
+*://*.ape-ask.com/*
 *://*.apk-new.com/*
 *://*.apkfun.com/*
 *://*.apkhr.com/*
@@ -4370,6 +4374,7 @@
 *://*.jifutang68.com/*
 *://*.jihehuaban.com.cn/*
 *://*.jijisf.com/*
+*://*.jike.in/*
 *://*.jike666.com/*
 *://*.jikeqi.com/*
 *://*.jiliresin.cn/*
@@ -4473,6 +4478,7 @@
 *://*.jokerhuman.com/*
 *://*.jokestoyou.buzz/*
 *://*.jollyny.com/*
+*://*.jonic.cn/*
 *://*.jordanoliveira.com/*
 *://*.josephmagazine.buzz/*
 *://*.jotike.com/*
@@ -5351,6 +5357,7 @@
 *://*.mkljc.cn/*
 *://*.mlg8.cn/*
 *://*.mlgongyi.com/*
+*://*.mlink.in/*
 *://*.mlj518.com/*
 *://*.mlog.club/*
 *://*.mlps6q6.cn/*
@@ -5765,6 +5772,7 @@
 *://*.offblastsoftworks.com/*
 *://*.offlineinstallersofts.com/*
 *://*.ogate.org/*
+*://*.ogeek.cn/*
 *://*.ogiharasekiyu.buzz/*
 *://*.ogng.com.cn/*
 *://*.oh2ckvf.cn/*
@@ -5829,6 +5837,7 @@
 *://*.osmazt.cn/*
 *://*.osobuy.com/*
 *://*.ost-us.com/*
+*://*.ostack.cn/*
 *://*.osw7ta.cn/*
 *://*.osx86project.org/*
 *://*.ot1yc0v.cn/*
@@ -5851,6 +5860,7 @@
 *://*.ouyuing.com/*
 *://*.oven0208.cn/*
 *://*.overbridge.cn/*
+*://*.overstack.in/*
 *://*.overturechina.com/*
 *://*.owlinns.com/*
 *://*.owyje.0818hj.com/*
@@ -6229,6 +6239,7 @@
 *://*.qhjxt.com/*
 *://*.qhleihao.com/*
 *://*.qhqfaor.cn/*
+*://*.qi-u.com/*
 *://*.qi4csl.cn/*
 *://*.qiain.com/*
 *://*.qiancaiwedu211.com.cn/*
@@ -6792,6 +6803,8 @@
 *://*.shenmedouyou.xyz/*
 *://*.shenyun.com/*
 *://*.shenyunperformingarts.org/*
+*://*.shenzhenjia.cn/*
+*://*.shenzhenjia.net/*
 *://*.shenzhoufilm.com/*
 *://*.shequlove.cn/*
 *://*.shgon.cn/*
@@ -7051,6 +7064,7 @@
 *://*.sql.la/*
 *://*.sqlcodeqa.cc/*
 *://*.sqlhfe.cc/*
+*://*.sqlite.in/*
 *://*.sqn8.cn/*
 *://*.sqp.buzz/*
 *://*.sqzlsy.cn/*
@@ -7483,6 +7497,7 @@
 *://*.toriphile.buzz/*
 *://*.torrentz-proxy.com/*
 *://*.toudijia.com/*
+*://*.tousu.in/*
 *://*.toutiao.com/search?keyword=*
 *://*.touyanmo.com/*
 *://*.touyinghome.com/*
@@ -7778,6 +7793,9 @@
 *://*.video8496-gov.top/*
 *://*.videogameplaza.buzz/*
 *://*.viewpointcom.buzz/*
+*://*.vigge.cn/*
+*://*.vigge.net/*
+*://*.vigges.net/*
 *://*.viicm.com/*
 *://*.vijpnmu.cn/*
 *://*.vimsky.com/*
@@ -7919,6 +7937,7 @@
 *://*.wdrczp.com/*
 *://*.we8866.cn/*
 *://*.web-cottage.buzz/*
+*://*.web-dev-qa-db-fra.com/*
 *://*.web-dev-qa-db-ja.com/*
 *://*.web.mybnb.tw/*
 *://*.webcorreu.buzz/*
@@ -8525,6 +8544,7 @@
 *://*.xshyjtls.com/*
 *://*.xssfysxx.com/*
 *://*.xsstu.cn/*
+*://*.xstack.ru/*
 *://*.xswyb.com/*
 *://*.xsybtqp.com/*
 *://*.xsyfs.com/*
@@ -8981,6 +9001,8 @@
 *://*.zabjh.com/*
 *://*.zafaetin.me/*
 *://*.zahope.com/*
+*://*.zaizhele.cn/*
+*://*.zaizhele.net/*
 *://*.zakcret.xyz/*
 *://*.zamatt.com/*
 *://*.zaoqijy.com/*
@@ -10102,7 +10124,6 @@
 *://jiaocheng.386w.com/*
 *://jiaocheng.yilian001.com/*
 *://jiehunliwu.9tu9.com/*
-*://jike.in/*
 *://jimmysong.io/*
 *://jin115.com/*
 *://jinan110.com/*
@@ -10112,7 +10133,6 @@
 *://jlpt.neea.cn/*
 *://jobready.cn/*
 *://johobase.com/*
-*://jonic.cn/*
 *://jos.jd.com/*
 *://jpcodeqa.com/*
 *://jpdebug.com/*
@@ -10556,7 +10576,6 @@
 *://qa-stack.pl/*
 *://qa.1r1g.com/*
 *://qa.icopy.site/*
-*://qa.ostack.cn/*
 *://qapicks.com/*
 *://qastack.cn/*
 *://qastack.co.in/*
@@ -10669,6 +10688,7 @@
 *://shanhe.com/*
 *://share-mika.jp/*
 *://share.wukongwenda.cn/*
+*://shenghuobao.net/*
 *://shengqian001.com/*
 *://shenzhenxw.net/*
 *://shirabeta.net/*
@@ -10710,7 +10730,6 @@
 *://solutionmade.net/*
 *://solveforum.com/*
 *://spider.doc88.com/*
-*://sqlite.in/*
 *://sspai.com/*
 *://sswhsign.com/*
 *://stackfinder.jp.net/*
@@ -10775,6 +10794,7 @@
 *://techacademy.jp/*
 *://techdocs.broadcom.com/*
 *://techfeed.io/*
+*://techhelpnotes.com/*
 *://techroomage.com/*
 *://techzhiggy.com/*
 *://teddit.ggc-project.de/*
@@ -10814,7 +10834,6 @@
 *://toreosa.green/*
 *://tortortor.pw/*
 *://toscode.gitee.com/*
-*://tousu.in/*
 *://toutiao.io/*
 *://touxiang.oicq88.com/*
 *://tp50.com/*
@@ -11974,6 +11993,7 @@
 *://www.jamogram.com/*
 *://www.javacodegeeks.com/*
 *://www.javaer101.com/*
+*://www.javafixing.com/*
 *://www.javanx.cn/*
 *://www.javascriptc.com/*
 *://www.javashuo.com/*
@@ -12412,7 +12432,6 @@
 *://www.qfjhb.cn/*
 *://www.qh24.com/*
 *://www.qhdsnyb.com/*
-*://www.qi-u.com/*
 *://www.qianchusai.com/*
 *://www.qianmu.org/*
 *://www.qibomb.com/*
@@ -13129,6 +13148,7 @@
 *://xnfy.xingning.gov.cn/*
 *://xqdj.hahnbacher-fotos.de/*
 *://xrdv.rpa-cee.de/*
+*://xstack.us/*
 *://xsyfs.com/*
 *://xtech.nikkei.com/*
 *://xtrojan.net/*
