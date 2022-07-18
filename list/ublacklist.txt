@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2022-07-17 03:11:45
-# Total count: 13322
+# Version: 2022-07-18 03:09:15
+# Total count: 13351
 
 
 ! C&J Marketing
@@ -256,6 +256,7 @@
 *://*.1333337.com/*
 *://*.1344q2x.cn/*
 *://*.136hh.com/*
+*://*.1377003.com/*
 *://*.137wl.cn/*
 *://*.138usa.com/*
 *://*.139dy.cn/*
@@ -555,6 +556,8 @@
 *://*.388625.com/*
 *://*.38953h.cn/*
 *://*.392623.com/*
+*://*.3955013.com/*
+*://*.3997025.com/*
 *://*.3adfo7.cn/*
 *://*.3agtl2.cn/*
 *://*.3balao.com/*
@@ -580,6 +583,7 @@
 *://*.3li.cc/*
 *://*.3n3nhv4.cn/*
 *://*.3pennycinema.buzz/*
+*://*.3pppys.com/*
 *://*.3rxing.org/*
 *://*.3sideslive.buzz/*
 *://*.3sikvwo.cn/*
@@ -890,6 +894,7 @@
 *://*.62az.cn/*
 *://*.62veuu.cn/*
 *://*.634001.com/*
+*://*.63458cp.com/*
 *://*.6351juanchi.cn/*
 *://*.635df.cn/*
 *://*.636862.com/*
@@ -900,6 +905,7 @@
 *://*.64tianwang.com/*
 *://*.652951.com/*
 *://*.652zh.cn/*
+*://*.6532088.com/*
 *://*.655dj.com/*
 *://*.657981.com/*
 *://*.658990.com/*
@@ -974,6 +980,7 @@
 *://*.73ss.cn/*
 *://*.741963.com/*
 *://*.74koj8y.cn/*
+*://*.7511156.com/*
 *://*.755hunqing.com/*
 *://*.75q.net/*
 *://*.75yy.com/*
@@ -1172,6 +1179,7 @@
 *://*.97oxford.buzz/*
 *://*.980pj.cn/*
 *://*.98248.loan/*
+*://*.985ys.com/*
 *://*.987yy.cn/*
 *://*.9897sf.com/*
 *://*.98ffn.cn/*
@@ -2567,6 +2575,7 @@
 *://*.dc120.com.cn/*
 *://*.dc755wn.cn/*
 *://*.dcchildcustody.buzz/*
+*://*.dcep676.com/*
 *://*.dd13.tv/*
 *://*.ddccaa.com/*
 *://*.dddzywq.cn/*
@@ -2608,8 +2617,10 @@
 *://*.devk-agentur.buzz/*
 *://*.deyu1688.com/*
 *://*.dfjdtz.com/*
+*://*.dfkre.com/*
 *://*.dflkj.top/*
 *://*.dfrzlc.com/*
+*://*.dfskw.top/*
 *://*.dg4567.com/*
 *://*.dgcxjsy.com/*
 *://*.dgdaheng.cn/*
@@ -2940,6 +2951,7 @@
 *://*.eqy5ym6.cn/*
 *://*.er3561.cn/*
 *://*.erdie826.com/*
+*://*.ergie.top/*
 *://*.ericacarrclasses.com/*
 *://*.erigd.com/*
 *://*.erjiinfo.com/*
@@ -3060,6 +3072,7 @@
 *://*.fciwifi.com/*
 *://*.fdccpw.com/*
 *://*.fdctop.cn/*
+*://*.fdf42.com/*
 *://*.fdjm99.com/*
 *://*.fdmwcl4.cn/*
 *://*.fdtwgg.com/*
@@ -3260,6 +3273,7 @@
 *://*.fuwang6494.cn/*
 *://*.fuwann00.cn/*
 *://*.fuweidn.com/*
+*://*.fuwuqiceping.com/*
 *://*.fuwuqizhijia.com/*
 *://*.fvcity.com/*
 *://*.fvf6073.cn/*
@@ -3370,6 +3384,7 @@
 *://*.getapp.com/*
 *://*.getdocs.org/*
 *://*.getintopc.today/*
+*://*.getit01.com/*
 *://*.getool.com/*
 *://*.geyinban.net/*
 *://*.gfart.cn/*
@@ -3880,6 +3895,7 @@
 *://*.holsbyror.buzz/*
 *://*.holtqel.cn/*
 *://*.homedo.com/*
+*://*.homedt.net/*
 *://*.homefindernow.buzz/*
 *://*.homefindersint.buzz/*
 *://*.homes-condos-nj-real-estate-agent.buzz/*
@@ -4557,6 +4573,7 @@
 *://*.jus065o.cn/*
 *://*.jushengseo.com/*
 *://*.jusoso.com/*
+*://*.justinjeffrey.com/*
 *://*.juwymg.cn/*
 *://*.juzhekooo.com/*
 *://*.jvagf.cn/*
@@ -4679,6 +4696,7 @@
 *://*.kesicqh.cn/*
 *://*.kesma.cn/*
 *://*.ketingtc.com/*
+*://*.kewenba.com/*
 *://*.kexinfood.com/*
 *://*.key.dog/*
 *://*.keygenwin.com/*
@@ -4877,6 +4895,8 @@
 *://*.ldc11.com/*
 *://*.ldc99.com/*
 *://*.ldjljmh.cn/*
+*://*.ldkwi.top/*
+*://*.ldlgzs.com/*
 *://*.ldnpslv.cn/*
 *://*.ldoda.cn/*
 *://*.ldofi24.cn/*
@@ -5341,6 +5361,7 @@
 *://*.mingliupiaofang.com/*
 *://*.mingrenze.com/*
 *://*.minijiaju.com/*
+*://*.minimalathletics.com/*
 *://*.minimidimaxidress.com/*
 *://*.minitool.com/*
 *://*.mintcx.com/*
@@ -5903,6 +5924,7 @@
 *://*.panpans.cn/*
 *://*.paoniu360.com/*
 *://*.papa78.com/*
+*://*.paperbert.com/*
 *://*.paradacreativa.es/*
 *://*.partwu.com.cn/*
 *://*.partyd.cc/*
@@ -6037,6 +6059,7 @@
 *://*.pm5ehlh.cn/*
 *://*.pml0v.cn/*
 *://*.pmtt.cc/*
+*://*.pn9y.com/*
 *://*.pnelwjz.cn/*
 *://*.pnih1wn.cn/*
 *://*.pns8.cn/*
@@ -6800,6 +6823,7 @@
 *://*.shengyis.com/*
 *://*.shenkehan.com/*
 *://*.shenlisy.com/*
+*://*.shenmedaquan.com/*
 *://*.shenmedouyou.xyz/*
 *://*.shenyun.com/*
 *://*.shenyunperformingarts.org/*
@@ -7025,6 +7049,7 @@
 *://*.solutions-team.buzz/*
 *://*.somjj.com/*
 *://*.songhepx.com/*
+*://*.songketop.com/*
 *://*.songnidianqi.cn/*
 *://*.songshouji.cn/*
 *://*.sop5fzr.cn/*
@@ -7337,6 +7362,7 @@
 *://*.techwrestler.com/*
 *://*.tedabg.com/*
 *://*.tee-verkauf.buzz/*
+*://*.tee25.com/*
 *://*.teenagebabes.buzz/*
 *://*.teengurls.buzz/*
 *://*.teenpornoclub.buzz/*
@@ -8644,6 +8670,7 @@
 *://*.yantaifushi.com.cn/*
 *://*.yao51.com/*
 *://*.yaohuwh.com/*
+*://*.yaowenming.com/*
 *://*.yapingguo.cn/*
 *://*.yascs.com/*
 *://*.yaseng.cn/*
@@ -9775,6 +9802,7 @@
 *://devdreamz.com/*
 *://develop.sogou88812345.com/*
 *://developer.aliyun.com/articlezt/*
+*://developer.aliyun.com/ask/*
 *://developer.ibm.com/*
 *://developer.intuit.com/*
 *://developercommunity.visualstudio.com/*
@@ -10321,6 +10349,7 @@
 *://m.systemcity.cn/*
 *://m.tcjd360.com/*
 *://m.tj-book.com/*
+*://m.toutiao.com/*
 *://m.wandoujia.com/*
 *://m.weibo.cn/*
 *://m.weimob.com/*
