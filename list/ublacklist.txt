@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2022-07-21 03:10:34
-# Total count: 13355
+# Version: 2022-07-22 03:16:00
+# Total count: 13356
 
 
 ! C&J Marketing
@@ -4219,6 +4219,7 @@
 *://*.iocp.cn/*
 *://*.ioeduc.com/*
 *://*.ioffeer.buzz/*
+*://*.ioiox.com/*
 *://*.iownyour.biz/*
 *://*.ipcnpdu.cn/*
 *://*.ipeizi.xyz/*
