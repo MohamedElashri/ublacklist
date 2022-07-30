@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2022-07-29 03:21:47
-# Total count: 13258
+# Version: 2022-07-30 03:11:47
+# Total count: 13285
 
 
 ! C&J Marketing
@@ -435,6 +435,7 @@
 *://*.2587862.com/*
 *://*.25cr2ni4w.com/*
 *://*.25umb5.cn/*
+*://*.2612610.com/*
 *://*.26178.com.cn/*
 *://*.268382.com/*
 *://*.26981998.cn/*
@@ -904,6 +905,7 @@
 *://*.652951.com/*
 *://*.652zh.cn/*
 *://*.6532088.com/*
+*://*.6532099.com/*
 *://*.655dj.com/*
 *://*.657981.com/*
 *://*.658990.com/*
@@ -1265,6 +1267,7 @@
 *://*.abbotpottery.buzz/*
 *://*.abbyjd.com/*
 *://*.abbyychina.com/*
+*://*.abcgonglue.com/*
 *://*.abcpowerwash.buzz/*
 *://*.abcsou.cc/*
 *://*.abitibimining.buzz/*
@@ -1362,6 +1365,7 @@
 *://*.aijda3.me/*
 *://*.aijfa0.me/*
 *://*.aijiahexie.com/*
+*://*.aijiayong.com/*
 *://*.aijka2.me/*
 *://*.ailinshe.com/*
 *://*.aim-direct.buzz/*
@@ -1992,6 +1996,7 @@
 *://*.bxaih.com/*
 *://*.bxari.com/*
 *://*.bxsh4ba.cn/*
+*://*.bxtt.cc/*
 *://*.by2n2y7.cn/*
 *://*.byadd.com/*
 *://*.byadg.cn/*
@@ -2114,6 +2119,7 @@
 *://*.centrimediline.buzz/*
 *://*.century21realtor.buzz/*
 *://*.centurysun.cn/*
+*://*.ceospacela.com/*
 *://*.ceramic-industry.buzz/*
 *://*.cerist.dz/*
 *://*.cesdnet.com/*
@@ -2641,6 +2647,7 @@
 *://*.dhyjpkc.com/*
 *://*.dianchengstone.com/*
 *://*.dianferguson.buzz/*
+*://*.dianhuahuiyi.com.cn/*
 *://*.diaochezulingongsi.com/*
 *://*.diaopai99.com/*
 *://*.diaosizhainan.com/*
@@ -2793,6 +2800,7 @@
 *://*.dy268.cn/*
 *://*.dycok.com/*
 *://*.dyfpme.com/*
+*://*.dyfwdq.com/*
 *://*.dyhcfm.com/*
 *://*.dyhmled.com/*
 *://*.dyn0sxu.cn/*
@@ -2967,6 +2975,7 @@
 *://*.esuteru.com/*
 *://*.etbot.net/*
 *://*.ete68e1.cn/*
+*://*.eternalelectronics.com/*
 *://*.eternie-labs.net/*
 *://*.etf-world.buzz/*
 *://*.etfdep.cn/*
@@ -3065,7 +3074,9 @@
 *://*.fciwifi.com/*
 *://*.fdccpw.com/*
 *://*.fdctop.cn/*
+*://*.fdf35.com/*
 *://*.fdf42.com/*
+*://*.fdf58.com/*
 *://*.fdjm99.com/*
 *://*.fdmwcl4.cn/*
 *://*.fdtwgg.com/*
@@ -3175,6 +3186,7 @@
 *://*.forsenergy.com/*
 *://*.forstenet.com/*
 *://*.forwin11.com/*
+*://*.fountainhead-game.com/*
 *://*.fox.com/*
 *://*.fox10phoenix.com/*
 *://*.fox13memphis.com/*
@@ -3681,6 +3693,7 @@
 *://*.happy1801.com/*
 *://*.harrysurplus.buzz/*
 *://*.hashbet.casino/*
+*://*.hastynews.com/*
 *://*.hawaii-jewelry.buzz/*
 *://*.haxituan.com/*
 *://*.hb0027.cn/*
@@ -4106,6 +4119,7 @@
 *://*.ib4banks.buzz/*
 *://*.ibaobaoche.com/*
 *://*.ibeenker.com/*
+*://*.ibestchoice.com/*
 *://*.ibozhe.com/*
 *://*.icam8.com/*
 *://*.icanopen.com/*
@@ -4244,6 +4258,7 @@
 *://*.itchosun.buzz/*
 *://*.itecnote.com/*
 *://*.iteramos.com/*
+*://*.itermail.com/*
 *://*.itigic.com/*
 *://*.itmpi-journal.buzz/*
 *://*.itranslater.com/*
@@ -4472,6 +4487,7 @@
 *://*.jnzcyl.com/*
 *://*.jnzczdh.com/*
 *://*.jnzffz.com/*
+*://*.joanne-kelly.com/*
 *://*.job00531.cn/*
 *://*.job929.com/*
 *://*.jobdlrp.cn/*
@@ -4767,6 +4783,7 @@
 *://*.koubeiblog.com/*
 *://*.kozykatskorner.buzz/*
 *://*.kpgbq.com/*
+*://*.kpjyz.com/*
 *://*.kpk91o0.cn/*
 *://*.kpraise.com/*
 *://*.kq68.cn/*
@@ -5119,6 +5136,7 @@
 *://*.luping.net.cn/*
 *://*.luqinblog.com/*
 *://*.lure168.cn/*
+*://*.luriestudio.com/*
 *://*.luton-china.com/*
 *://*.lutonjixie.com/*
 *://*.luxifeier.com/*
@@ -5198,6 +5216,7 @@
 *://*.magarfid.com/*
 *://*.magarom.com/*
 *://*.magelinesc.com/*
+*://*.maggie-siff.com/*
 *://*.magicalcn.com/*
 *://*.maguro.cn/*
 *://*.mai14.com/*
@@ -5332,6 +5351,7 @@
 *://*.miaolaiche.com/*
 *://*.miaomu806.com/*
 *://*.miaomutv.com/*
+*://*.miaook.com/*
 *://*.miaoshux.org/*
 *://*.miaoyun668.cn/*
 *://*.michaellakrajicek.buzz/*
@@ -5383,6 +5403,7 @@
 *://*.mn55.cn/*
 *://*.mn61.cn/*
 *://*.mnbhyna.cn/*
+*://*.mnkan.com/*
 *://*.mnsf.net/*
 *://*.mnykexv.cn/*
 *://*.mo-dmp.buzz/*
@@ -5856,6 +5877,7 @@
 *://*.otcrong.com/*
 *://*.otrjobmatch.com/*
 *://*.otu80jn.cn/*
+*://*.oudebaosw.com/*
 *://*.ouiot.com/*
 *://*.ouliandianqi.cn/*
 *://*.ouqin2018.com/*
@@ -6505,6 +6527,7 @@
 *://*.rjqyl.com/*
 *://*.rjwhylgo.cn/*
 *://*.rjzmayy.cn/*
+*://*.rjzzq.com/*
 *://*.rkcywlu.cn/*
 *://*.rkgpc.date/*
 *://*.rkncfrx.cn/*
@@ -6684,6 +6707,7 @@
 *://*.scholarad.com/*
 *://*.schox-iplaw.buzz/*
 *://*.schrannenhallemuenchen.buzz/*
+*://*.scificonduit.com/*
 *://*.scjddk.com/*
 *://*.scjiatai.com/*
 *://*.scjtsf.com/*
@@ -6861,6 +6885,7 @@
 *://*.shsuny.cn/*
 *://*.shtaxi.com/*
 *://*.shtianbao.com/*
+*://*.shtopchamber.com/*
 *://*.shtrimen.com/*
 *://*.shtuniu.com/*
 *://*.shtuojie.com/*
@@ -7628,6 +7653,7 @@
 *://*.tzhejie.com/*
 *://*.tzm8.cn/*
 *://*.tzqfmy.com/*
+*://*.tzxzsh.com/*
 *://*.tzz6tgi.cn/*
 *://*.tzzgcm.com/*
 *://*.u0b9um3.cn/*
@@ -9165,6 +9191,7 @@
 *://*.ziyouzhanshi.cn/*
 *://*.ziyuanhu.com/*
 *://*.ziyuzhilian.cn/*
+*://*.zizhuzhishi.com/*
 *://*.zj3kbg.cn/*
 *://*.zj4u.cn/*
 *://*.zjbspe.com/*
