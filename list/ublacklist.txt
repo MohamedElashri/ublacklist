@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2022-08-10 02:40:16
-# Total count: 13295
+# Version: 2022-08-11 02:55:07
+# Total count: 13278
 
 
 ! C&J Marketing
@@ -1515,6 +1515,7 @@
 *://*.app-good.com/*
 *://*.app.3987.com/*
 *://*.appike.com/*
+*://*.apple.com/(*bid429047995*)
 *://*.appleroses.buzz/*
 *://*.applerp.cn/*
 *://*.appleseedconsulting.buzz/*
@@ -5302,6 +5303,7 @@
 *://*.mediatagtw.com/*
 *://*.medistaryn.com/*
 *://*.medium.com/*
+*://*.medium.com/@Pinterest_Engineering
 *://*.medmalrx.com/*
 *://*.meetthebookworld.com/*
 *://*.mefdjl.cn/*
@@ -6481,6 +6483,7 @@
 *://*.rebatesu.com/*
 *://*.recalll.co/*
 *://*.rechigroup.com/*
+*://*.reddit.com/r/Pinterest/
 *://*.redeszone.net/*
 *://*.redspicks.buzz/*
 *://*.redsunbaby.cn/*
@@ -9516,6 +9519,7 @@
 *://app.yipee.cc/*
 *://app.youfa.coms.hk/*
 *://app.zol.com.cn/*
+*://apps.microsoft.com/store/detail/9PFHDSF91B9R*
 *://archive.80zx.com/*
 *://archive.md/*
 *://archive.ph/*
@@ -10092,11 +10096,11 @@
 *://indasoftware.com/*
 *://inf.news/*
 *://inkworker.com/*
+*://instagram.com/pinterest/
 *://instagram.iiilab.com/*
 *://intellipaat.com/*
 *://intercompras.com/*
 *://investfundhjl.web.app/*
-*://investor.pinterestinc.com/*
 *://io04.com/*
 *://ios.developreference.com/*
 *://ipkm.schuetzenbedarf-baur.de/*
@@ -10545,6 +10549,7 @@
 *://pic.k0w0m.com/*
 *://pinasy.com/*
 *://pjcq8.com/*
+*://play.google.com/store/apps/details?id=com.pinterest*
 *://playdemic.helpshift.com/*
 *://polaxiong.com/*
 *://pop0726.github.io/*
@@ -11675,6 +11680,7 @@
 *://www.f513.com/*
 *://www.f5nunu.co/*
 *://www.facebook.com/*
+*://www.facebook.com/PinterestUK/
 *://www.fangfaku.net/*
 *://www.fanjinyan.com/*
 *://www.faqcode4u.com/*
@@ -12376,26 +12382,7 @@
 *://www.ping-jia.net/*
 *://www.pingwest.com/*
 *://www.pinlue.com/*
-*://www.pinterest.at/*
-*://www.pinterest.ca/*
-*://www.pinterest.ch/*
-*://www.pinterest.cl/*
-*://www.pinterest.co.kr/*
-*://www.pinterest.co.uk/*
-*://www.pinterest.com.au/*
-*://www.pinterest.com.mx/*
 *://www.pinterest.com/*
-*://www.pinterest.de/*
-*://www.pinterest.dk/*
-*://www.pinterest.es/*
-*://www.pinterest.fr/*
-*://www.pinterest.ie/*
-*://www.pinterest.it/*
-*://www.pinterest.nz/*
-*://www.pinterest.ph/*
-*://www.pinterest.pt/*
-*://www.pinterest.ru/*
-*://www.pinterestcareers.com/*
 *://www.pites.cc/*
 *://www.playes.net/*
 *://www.plus2net.com/*
@@ -13266,6 +13253,7 @@
 /.linkedin.\../
 /.mp3.\../
 /.pinterest.\../
+/.pinterest\.*/
 /.proxy.\../
 /.rarbg.\../
 /.recovery.\../
@@ -13287,11 +13275,6 @@
 /it-swarm.*/
 /m\.[\w]{5,6}\.[\w]{6,7}\.(?:site|vip).*/
 @*://*.tspweb.com/*
-^(?=.*\bapps.apple.com\b)(?=.*\bid429047995\b).*$
-https://play.google.com/store/apps/details?id=com.pinterest*
-https://www.amazon.com/Pinterest-Inc/dp/B008XG1X18
-https://www.instagram.com/pinterest/
-https://www.microsoft.com/en-us/p/pinterest/9pfhdsf91b9r
 title/.*\s-\s.*知识网/
 title/.*\s-\s小.*百科网/
 title/.*_一键访问国外网站/
