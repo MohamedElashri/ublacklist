@@ -2,9 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2022-08-12 03:02:35
-# Total count: 13278
-
+# Version: 2022-08-13 02:54:32
+# Total count: 13248
 
 ! C&J Marketing
 ! Content Farm
@@ -199,6 +198,7 @@
 *://*.1004usa.buzz/*
 *://*.1008-6.cn/*
 *://*.100860.com/*
+*://*.100ke.cc/*
 *://*.1010host.buzz/*
 *://*.1018272.cn/*
 *://*.101dh.com/*
@@ -531,6 +531,7 @@
 *://*.360du.net.cn/*
 *://*.360mdb.com/*
 *://*.360norm.com/*
+*://*.361shipin.com/*
 *://*.361t.org/*
 *://*.36457.cn/*
 *://*.365dxpt.com/*
@@ -1481,7 +1482,6 @@
 *://*.anqu998.com/*
 *://*.anrezg.com/*
 *://*.answacode.com/*
-*://*.answeright.com/*
 *://*.answers.gethuman.com/*
 *://*.antarcticshop.com/*
 *://*.anthonyspage.buzz/*
@@ -1568,8 +1568,6 @@
 *://*.asians-xxx.buzz/*
 *://*.ask.helplib.com/*
 *://*.ask.todgo.com/*
-*://*.askdev.info/*
-*://*.askdev.io/*
 *://*.asklight.cn/*
 *://*.asklobster.com/*
 *://*.askraft.buzz/*
@@ -1886,7 +1884,6 @@
 *://*.blitz-tipp.buzz/*
 *://*.bljt1x2.cn/*
 *://*.blog.jiecaoba.cn/*
-*://*.blogmepost.com/*
 *://*.blom7o0.cn/*
 *://*.blu.gd.cn/*
 *://*.bluebox3d.com/*
@@ -2012,7 +2009,6 @@
 *://*.bzsjxyc.com/*
 *://*.bzwyl.com/*
 *://*.bzxzedu.com/*
-*://*.c-sharpcorner.com/*
 *://*.c1280.cn/*
 *://*.c1314c.com/*
 *://*.c2fope7.cn/*
@@ -2294,7 +2290,6 @@
 *://*.coddagn.cn/*
 *://*.code-adviser.com/*
 *://*.code-examples.net/*
-*://*.code-examples.net/*
 *://*.code.i-harness.com/*
 *://*.codeantenna.com/*
 *://*.codebug.vip/*
@@ -2302,14 +2297,11 @@
 *://*.codeday.me/*
 *://*.codefaq.info/*
 *://*.codeflow.site/*
-*://*.codeflow.site/*
-*://*.codegrepper.com/*
 *://*.codehero.jp/*
 *://*.codeleading.com/*
 *://*.codenong.com/*
 *://*.codeprj.com/*
 *://*.coder.work/*
-*://*.coderedirect.com/*
 *://*.codesoftchina.com/*
 *://*.codetd.com/*
 *://*.codewdw.com/*
@@ -2474,7 +2466,6 @@
 *://*.cy-hl.com/*
 *://*.cy0734.com/*
 *://*.cy938.com/*
-*://*.cyberciti.biz/*
 *://*.cyhjjc.com/*
 *://*.cyshangji.com/*
 *://*.czag88.com/*
@@ -3060,7 +3051,6 @@
 *://*.fanslive.cn/*
 *://*.fantasy-gifts.buzz/*
 *://*.fanzhitech.com/*
-*://*.farath.com/*
 *://*.fastenerinventories.buzz/*
 *://*.fastso.cn/*
 *://*.fatnvc.cn/*
@@ -3380,7 +3370,6 @@
 *://*.gebvrl0.cn/*
 *://*.geek-share.com/*
 *://*.geekbing.com/*
-*://*.geeksforgeeks.org/*
 *://*.gegoods.com/*
 *://*.geiso.cn/*
 *://*.gelanbao.cn/*
@@ -3424,10 +3413,6 @@
 *://*.girlboy.cn/*
 *://*.git2get.com/*
 *://*.gitanswer.com/*
-*://*.gitcode.net/*
-*://*.githubmemory.com/*
-*://*.gitmemory.cn*
-*://*.gitmemory.com/*
 *://*.gitmemory.com/*
 *://*.gittxgd.cn/*
 *://*.gizchina.it/*
@@ -4164,6 +4149,7 @@
 *://*.igdjvjf.cn/*
 *://*.igdmcwn.cn/*
 *://*.igetintopc.com/*
+*://*.igiftidea.com/*
 *://*.igrapoker.buzz/*
 *://*.igservizi.buzz/*
 *://*.iguomu.com/*
@@ -4218,7 +4204,6 @@
 *://*.installcrack.net/*
 *://*.int.bet/*
 *://*.integratedpaperservice.buzz/*
-*://*.intellipaat.com/*
 *://*.intellisys-haiti.buzz/*
 *://*.internet-masters.buzz/*
 *://*.internetshoppingusa.buzz/*
@@ -4245,8 +4230,6 @@
 *://*.isdce.com/*
 *://*.iskeke.com/*
 *://*.island-magic.buzz/*
-*://*.ispycode.com/*
-*://*.issueexplorer.com/*
 *://*.issueexplorer.com/*
 *://*.it-mure.jp.net/*
 *://*.it.findeen.com/*
@@ -4316,7 +4299,6 @@
 *://*.jalsys.com/*
 *://*.jamyi.com/*
 *://*.javacodeqa.cc/*
-*://*.javaer101.com/*
 *://*.javaer101.com/*
 *://*.javaroad.cn/*
 *://*.javashuo.com/*
@@ -6034,7 +6016,6 @@
 *://*.pintech.net.cn/*
 *://*.pinterest.co.kr/*
 *://*.pinterest.com/*
-*://*.pinterest.com/*
 *://*.pinxia.cc/*
 *://*.pinzuowang.com/*
 *://*.piqiuda.com/*
@@ -6125,8 +6106,6 @@
 *://*.programgo.com/*
 *://*.programmer.group/*
 *://*.programmersought.com/*
-*://*.programmersought.com/*
-*://*.programmerstart.com/*
 *://*.programminghunter.com/*
 *://*.progsoft.net/*
 *://*.projectbackpack.org/*
@@ -6219,7 +6198,6 @@
 *://*.qastack.com.br/*
 *://*.qastack.com.de/*
 *://*.qastack.com.ua/*
-*://*.qastack.com/*
 *://*.qastack.fr/*
 *://*.qastack.id/*
 *://*.qastack.in.th/*
@@ -6337,6 +6315,7 @@
 *://*.qoieru.cn/*
 *://*.qopsgl.cn/*
 *://*.qp13.cn/*
+*://*.qpb2b.com/*
 *://*.qpovzcn.cn/*
 *://*.qppxjoh.cn/*
 *://*.qpup.cc/*
@@ -6499,7 +6478,6 @@
 *://*.renniboix.loan/*
 *://*.rentals-bg.buzz/*
 *://*.repinku.com/*
-*://*.reposhub.com/*
 *://*.resoleusa.buzz/*
 *://*.resolutionrealtyinc.buzz/*
 *://*.retainedvscontingent.buzz/*
@@ -6552,7 +6530,6 @@
 *://*.robbceleb.buzz/*
 *://*.robco-enterprises.buzz/*
 *://*.robertjutras.buzz/*
-*://*.roboflow.ai/*
 *://*.rockero.com.py/*
 *://*.rocksearch.cc/*
 *://*.rockymtnloghomes.buzz/*
@@ -6561,6 +6538,7 @@
 *://*.roism.cn/*
 *://*.roldanmc.buzz/*
 *://*.rolia.net/*
+*://*.rollingfhr.xyz/*
 *://*.romancestop.buzz/*
 *://*.rongduansi.com/*
 *://*.ronghuipin.com/*
@@ -7132,17 +7110,11 @@
 *://*.ssxdpc.cn/*
 *://*.sszyqz.com/*
 *://*.st89.cn/*
-*://*.stackanswers.net/*
 *://*.stackask.cn/*
 *://*.stackoom.com/*
-*://*.stackoom.com/*
-*://*.stackovernet.com/*
 *://*.stackovernet.com/*
 *://*.stackovernet.xyz/*
-*://*.stackovernet.xyz/*
 *://*.stackoverrun.com/*
-*://*.stackoverrun.com/*
-*://*.stackshare.io/*
 *://*.stanaback.buzz/*
 *://*.standfordiabetes.com/*
 *://*.star-walk.buzz/*
@@ -7189,6 +7161,7 @@
 *://*.superchanges.buzz/*
 *://*.superclubs.com.cn/*
 *://*.supermobileqa.com/*
+*://*.superweb999.com/*
 *://*.supremeppe.buzz/*
 *://*.surf4gifts.buzz/*
 *://*.surprise8.com/*
@@ -7306,7 +7279,6 @@
 *://*.t8lqlve.cn/*
 *://*.ta308hg.cn/*
 *://*.tableta-android.com/*
-*://*.tabnine.com/*
 *://*.taczag.cn/*
 *://*.tagamet.cn/*
 *://*.taianfucai.com/*
@@ -7422,7 +7394,6 @@
 *://*.theshakerinn.buzz/*
 *://*.theshuggahpies.com/*
 *://*.thesurfsiders.buzz/*
-*://*.thetopsites.net/*
 *://*.thevelvetheaven.buzz/*
 *://*.thewordcracker.com/*
 *://*.thhsc.com/*
@@ -7616,7 +7587,6 @@
 *://*.turnoffthelights.com/*
 *://*.tusfam.com/*
 *://*.tutorialink.com/*
-*://*.tutorialspoint.com/*
 *://*.tuvanduhoc.buzz/*
 *://*.tuwends.com/*
 *://*.tuxcanfly.me/*
@@ -7684,7 +7654,6 @@
 *://*.ubebtoe.cn/*
 *://*.ubestnews.com/*
 *://*.ubksrjk.cn/*
-*://*.ubuntugeeks.com/*
 *://*.uc135.com/*
 *://*.ucgbji0.cn/*
 *://*.ucomcn.com/*
@@ -7879,6 +7848,7 @@
 *://*.voidcc.com/*
 *://*.voidcn.com/*
 *://*.volprixreduit.buzz/*
+*://*.volvootofinans.com/*
 *://*.voorp.com/*
 *://*.vouchergains.co.uk/*
 *://*.vpfwzjt.cn/*
@@ -7916,7 +7886,6 @@
 *://*.w0z4z1p.cn/*
 *://*.w16r8ba.cn/*
 *://*.w1iy510.cn/*
-*://*.w3schools.com/*
 *://*.w4bl.com/*
 *://*.w6g5lqk.cn/*
 *://*.w6wb90q.cn/*
@@ -9302,6 +9271,7 @@
 *://*.zwz365.com/*
 *://*.zx001.com.cn/*
 *://*.zx2xyw2.cn/*
+*://*.zx75551.com/*
 *://*.zxbx.awejp.top/*
 *://*.zxitg.com/*
 *://*.zxj1i5r.cn/*
@@ -13253,7 +13223,6 @@
 /.linkedin.\../
 /.mp3.\../
 /.pinterest.\../
-/.pinterest\.*/
 /.proxy.\../
 /.rarbg.\../
 /.recovery.\../
@@ -13275,6 +13244,7 @@
 /it-swarm.*/
 /m\.[\w]{5,6}\.[\w]{6,7}\.(?:site|vip).*/
 @*://*.tspweb.com/*
+title/.* - 小.(百科 | 知识) 网$/404: Not Found/.pinterest\.*/
 title/.*\s-\s.*知识网/
 title/.*\s-\s小.*百科网/
 title/.*_一键访问国外网站/
