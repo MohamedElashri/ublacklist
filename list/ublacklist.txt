@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2022-08-19 03:16:12
-# Total count: 13254
+# Version: 2022-08-20 03:07:20
+# Total count: 13268
 
 ! C&J Marketing
 ! Content Farm
@@ -513,6 +513,7 @@
 *://*.33376.xyz/*
 *://*.3383927.cn/*
 *://*.33jj.com/*
+*://*.33lc.org/*
 *://*.33spa.com/*
 *://*.33tr5f.cn/*
 *://*.3407001.com/*
@@ -558,6 +559,7 @@
 *://*.38953h.cn/*
 *://*.392623.com/*
 *://*.3955013.com/*
+*://*.3955017.com/*
 *://*.3997025.com/*
 *://*.3adfo7.cn/*
 *://*.3agtl2.cn/*
@@ -895,6 +897,7 @@
 *://*.62az.cn/*
 *://*.62veuu.cn/*
 *://*.634001.com/*
+*://*.63458799.com/*
 *://*.63458cp.com/*
 *://*.6351juanchi.cn/*
 *://*.635df.cn/*
@@ -1622,6 +1625,7 @@
 *://*.azhahf.com/*
 *://*.aznpic.com/*
 *://*.azp26eh.cn/*
+*://*.b00h.com/*
 *://*.b0dngi0.cn/*
 *://*.b0plkxe.cn/*
 *://*.b14kz8n.cn/*
@@ -4907,6 +4911,7 @@
 *://*.legfinz.buzz/*
 *://*.legrandpiege.buzz/*
 *://*.lehu66.cn/*
+*://*.lehuotuan.com/*
 *://*.leifengtv.com/*
 *://*.leilei18.cn/*
 *://*.leinuoda68.cn/*
@@ -5428,6 +5433,7 @@
 *://*.moxisq.com/*
 *://*.mozartkuss.buzz/*
 *://*.mozhimi.com/*
+*://*.mozzinovo.club/*
 *://*.mp3rss.cn/*
 *://*.mp7wswm.cn/*
 *://*.mpbitex.cn/*
@@ -7508,6 +7514,7 @@
 *://*.torrentz-proxy.com/*
 *://*.toudijia.com/*
 *://*.tousu.in/*
+*://*.toutiao.com/search/*
 *://*.toutiao.com/search?keyword=*
 *://*.touyanmo.com/*
 *://*.touyinghome.com/*
@@ -7733,6 +7740,7 @@
 *://*.uwin100.com/*
 *://*.uwkjznp.cn/*
 *://*.uwqwgx.cn/*
+*://*.ux6.com/*
 *://*.uyeqnnv.cn/*
 *://*.uygb0pc.cn/*
 *://*.uzaixlx.cn/*
@@ -8063,6 +8071,7 @@
 *://*.win10set.com/*
 *://*.windows-1.com/*
 *://*.windows8downloads.com/*
+*://*.windowsphoneinfo.com/*
 *://*.windycityburbs.buzz/*
 *://*.winetours-france.buzz/*
 *://*.winourway.cn/*
@@ -8574,6 +8583,7 @@
 *://*.xuesw.net/*
 *://*.xuezhuandaosu.cn/*
 *://*.xujianhong.com/*
+*://*.xujun.org/*
 *://*.xumanshu.com/*
 *://*.xunlongyb.com/*
 *://*.xuwmmlh.cn/*
@@ -9824,6 +9834,7 @@
 *://dq.tieba.com/*
 *://dricho.com/*
 *://dsj51.com/*
+*://dtuto.com/*
 *://duanku.pai-hang-bang.cn/*
 *://dun.163.com/*
 *://duonaolive.com/*
@@ -10303,6 +10314,7 @@
 *://m.shbingluo.com/*
 *://m.sichuanxiaochi123.com/*
 *://m.sina.com.hk/*
+*://m.sohu.com/*
 *://m.suning.com/*
 *://m.systemcity.cn/*
 *://m.tcjd360.com/*
@@ -11240,6 +11252,7 @@
 *://www.apizl.com/*
 *://www.appannie.com/*
 *://www.appchina.com/*
+*://www.appsloveworld.com/*
 *://www.aprendotodo.com/*
 *://www.aps-2.com/*
 *://www.arhivo.com/*
@@ -12411,6 +12424,7 @@
 *://www.qu02.com/*
 *://www.quanmaimai.com/*
 *://www.quanmama.com/*
+*://www.querythreads.com/*
 *://www.quyu.net/*
 *://www.qw123.net/*
 *://www.qwbm.com/*
