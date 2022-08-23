@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2022-08-22 03:23:07
-# Total count: 13268
+# Version: 2022-08-23 03:31:43
+# Total count: 13275
 
 ! C&J Marketing
 ! Content Farm
@@ -1385,6 +1385,7 @@
 *://*.airsatddt.com/*
 *://*.airtimeaudio.buzz/*
 *://*.aisatoyscn.com/*
+*://*.aiseesoft.com/*
 *://*.aituche.com/*
 *://*.aizgu.com/*
 *://*.aiznh.com/*
@@ -1702,6 +1703,7 @@
 *://*.baomuxy.com/*
 *://*.baozhiku.com/*
 *://*.bar-edge.buzz/*
+*://*.barber-klipp.com/*
 *://*.barcode-label.com.cn/*
 *://*.bare-fox.com/*
 *://*.bargcoz.cn/*
@@ -4190,6 +4192,7 @@
 *://*.imccar.com/*
 *://*.imengstar.com/*
 *://*.imindmap.cc/*
+*://*.imooc.com/wenda/*
 *://*.imore.com/*
 *://*.imxtk.com/*
 *://*.imzx9e7.cn/*
@@ -4215,6 +4218,7 @@
 *://*.ioeduc.com/*
 *://*.ioffeer.buzz/*
 *://*.ioiox.com/*
+*://*.ios.im/*
 *://*.iownyour.biz/*
 *://*.ipcnpdu.cn/*
 *://*.ipeizi.xyz/*
@@ -7128,6 +7132,7 @@
 *://*.starbytecomputers.com/*
 *://*.starterstory.com/*
 *://*.state-savings.buzz/*
+*://*.statestpizza.com/*
 *://*.stayhomebiz.buzz/*
 *://*.stclairsupply.buzz/*
 *://*.stcymy.cn/*
@@ -7299,6 +7304,7 @@
 *://*.talygc.com/*
 *://*.tandeclub.com/*
 *://*.tanghtine.com/*
+*://*.taobao49.com/*
 *://*.taociok.cn/*
 *://*.taocms.org/*
 *://*.taododo.cn/*
@@ -7677,6 +7683,7 @@
 *://*.uibulo.com/*
 *://*.uidtp.com/*
 *://*.ujiaoshou.com/*
+*://*.ujjainyoga.com/*
 *://*.ujnvxj6.cn/*
 *://*.uk.com/*
 *://*.ukbu5pa.cn/*
