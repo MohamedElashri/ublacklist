@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2022-08-23 03:31:43
-# Total count: 13275
+# Version: 2022-08-24 03:32:38
+# Total count: 13308
 
 ! C&J Marketing
 ! Content Farm
@@ -9524,6 +9524,7 @@
 *://auto.epochtimes.com/*
 *://autosalon.tokyo/*
 *://awesomeopensource.com/*
+*://aws.amazon.com/*
 *://ay5ia.dqeca.com/*
 *://ayjz.juergen-schmitz-consulting.de/*
 *://azadxeber.net/*
@@ -9955,6 +9956,7 @@
 *://gdeadoogle.appspot.com/*
 *://gdjuhong.com/*
 *://gear-net.com/*
+*://geek.digiasset.org/*
 *://geinou-summary666.com/*
 *://geko.cloud/*
 *://genroq.jp/*
@@ -9986,6 +9988,7 @@
 *://gitmemory.com/*
 *://gitplanet.com/*
 *://gjgp.mikeprange.de/*
+*://globe-brasserie-city.fr/*
 *://go.coder55.com/*
 *://go2think.com/*
 *://golangrepo.com/*
@@ -9997,6 +10000,7 @@
 *://greyhoundbastards.com/*
 *://guangzhoubaozhuang.1688.com/*
 *://guides-ones.gitbook.io/*
+*://guides.com.tn/*
 *://guides.ucf.edu/*
 *://gumroad.com/*
 *://gundvd.com/*
@@ -10575,6 +10579,7 @@
 *://qa-stack.pl/*
 *://qa.1r1g.com/*
 *://qa.icopy.site/*
+*://qa.wujigu.com/*
 *://qapicks.com/*
 *://qastack.cn/*
 *://qastack.co.in/*
@@ -10624,6 +10629,7 @@
 *://read01.com/*
 *://read678.com/*
 *://reader.epubee.com/*
+*://recenja.odszkodowania-kontakt.pl/*
 *://reddit.fun/*
 *://regiaodecister.pt/*
 *://registry.terraform.io/*
@@ -10641,6 +10647,7 @@
 *://rubese.net/*
 *://runebook.dev/*
 *://runxinzhi.com/*
+*://rzeszow-angielski.pl/*
 *://s.3d4w.com/*
 *://s.weibo.com/*
 *://sa.sogou.com/*
@@ -10860,6 +10867,7 @@
 *://uqseo.com/*
 *://urlx.nak-giessen-wieseck.de/*
 *://urqx.denisemed.de/*
+*://usenetfilesjlbomdo.za.com/*
 *://usenetsoftsbcgdys.netlify.app/*
 *://utouchapp.com/*
 *://uvidelkino.ru/*
@@ -11096,6 +11104,7 @@
 *://www.51dongshi.com/*
 *://www.51huandian.com/*
 *://www.51mimu.com/*
+*://www.51vj.cn/*
 *://www.51xzqz.com/*
 *://www.51ygw.com/*
 *://www.520xiazai.com/*
@@ -11135,6 +11144,7 @@
 *://www.6parkbbs.com/*
 *://www.6parknews.com/*
 *://www.6tuba.com/*
+*://www.7200500.com/*
 *://www.733mh.com/*
 *://www.741963.com/*
 *://www.760cf.com/*
@@ -11376,6 +11386,7 @@
 *://www.cctsuzhou.cn/*
 *://www.cdbao.net/*
 *://www.cdglsy.com/*
+*://www.cdgtzyxx.com/*
 *://www.cdkangrui.com/*
 *://www.cdtaogang.top/*
 *://www.cdweikebaba.xin/*
@@ -11417,6 +11428,8 @@
 *://www.chsi.com.cn/*
 *://www.chusan.com/*
 *://www.cifnews.com/*
+*://www.clinicmed.net/*
+*://www.cloudbility.com/*
 *://www.cloudbooklet.com/*
 *://www.cloudlead.cn/*
 *://www.cloudsigma.com/*
@@ -11517,6 +11530,7 @@
 *://www.dama123.com/*
 *://www.dandian.net/*
 *://www.dangliu.net/*
+*://www.daoshengshu.com/*
 *://www.dapaizixun.com/*
 *://www.darentang.org/*
 *://www.dashencg.com/*
@@ -11567,6 +11581,7 @@
 *://www.djjiuoeb.com/*
 *://www.djjlseo.com/*
 *://www.djnecn.com/*
+*://www.djnegroup.com/*
 *://www.dn010.com/*
 *://www.dnf4f.com/*
 *://www.dngswin10.com/*
@@ -11620,6 +11635,7 @@
 *://www.e-learn.cn/*
 *://www.e-nikah.com/*
 *://www.e5a5x.com/*
+*://www.earsandears.com/*
 *://www.easck.com/*
 *://www.easemob.com/*
 *://www.easyatm.com.tw/*
@@ -11636,6 +11652,7 @@
 *://www.edurt.com/*
 *://www.eduvalue.cn/*
 *://www.eeq8.com/*
+*://www.eet-china.com/*
 *://www.eia.gov/*
 *://www.ejdz.cn/*
 *://www.elastic.co/*
@@ -11723,6 +11740,7 @@
 *://www.gameoto.com/*
 *://www.gameres.com/*
 *://www.gan-ren.com/*
+*://www.gaoxiaojob.com/*
 *://www.gdboxinda.com/*
 *://www.gdsdws.com/*
 *://www.geci345.com/*
@@ -11839,6 +11857,7 @@
 *://www.hokedoor.com/*
 *://www.hongkiat.com/*
 *://www.hongsoft.net/*
+*://www.hongsweb.com/*
 *://www.hongyazi.org/*
 *://www.hostarr.com/*
 *://www.hostingcouponspot.com/*
@@ -12008,6 +12027,7 @@
 *://www.jiayi-qd.com/*
 *://www.jiazi.wang/*
 *://www.jiemengla.com/*
+*://www.jijyun.cn/*
 *://www.jilaxzone.com/*
 *://www.jinan110.com/*
 *://www.jingbeihuashi.com/*
@@ -12116,6 +12136,7 @@
 *://www.learnfk.com/*
 *://www.learnfuture.com/*
 *://www.lebgame.com/*
+*://www.lehuotuan.com/*
 *://www.leinuokj.com/*
 *://www.lengku114.com/*
 *://www.lervor.com/*
@@ -12267,6 +12288,7 @@
 *://www.nbyoho.com/*
 *://www.ncbi.nlm.nih.gov/*
 *://www.nczydx.com/*
+*://www.neeq.com.cn/*
 *://www.netize.net/*
 *://www.neuf.tv/*
 *://www.nevadatomorrow.org/*
@@ -12292,12 +12314,14 @@
 *://www.noobyard.com/*
 *://www.nowcoder.com/*
 *://www.nrct.net/*
+*://www.nucleustechnologies.com/*
 *://www.nuget.org/*
 *://www.nuomiphp.com/*
 *://www.nxhh.net/*
 *://www.nxwyy.com/*
 *://www.nz998.com/*
 *://www.o-uccino.jp/*
+*://www.o2ojs.com/*
 *://www.odoo.com/*
 *://www.oend.net/*
 *://www.offers.com/*
@@ -12312,6 +12336,7 @@
 *://www.omicsclass.com/*
 *://www.oneclthealth.org/*
 *://www.oneho.cn/*
+*://www.onemary.com/*
 *://www.oneplusnews.com/*
 *://www.onesl.com/*
 *://www.onlinedown.net/*
@@ -12371,6 +12396,7 @@
 *://www.plus888.com/*
 *://www.pmcaff.com/*
 *://www.pnstudy.com/*
+*://www.pokerbstr.co/*
 *://www.polaxiong.com/*
 *://www.positioniseverything.net/*
 *://www.powds.com/*
@@ -12456,6 +12482,7 @@
 *://www.riji365.org/*
 *://www.rjsos.com/*
 *://www.rndlgch.com/*
+*://www.rokub.com/*
 *://www.rosenav.com/*
 *://www.royotech.com/*
 *://www.rstzjt.com/*
@@ -12489,6 +12516,7 @@
 *://www.sd173.com/*
 *://www.sdbeta.com/*
 *://www.sdifen.com/*
+*://www.sdyptlp.com/*
 *://www.sdzk.cn/*
 *://www.searchenginejournal.com/*
 *://www.secn.net/*
@@ -12511,6 +12539,7 @@
 *://www.shellfishsoft.com/*
 *://www.shenbo299.com/*
 *://www.shengchulai.com/*
+*://www.shenmedaquan.com/*
 *://www.shenqixiangsu.net/*
 *://www.shiguanbao.com/*
 *://www.shikin-support.buzz/*
@@ -12936,6 +12965,7 @@
 *://www.yiibai.com/*
 *://www.yijingying.com/*
 *://www.yijyi.com/*
+*://www.yingtwo.com/*
 *://www.yinyids.com/*
 *://www.yinzhuoei.com/*
 *://www.yiper.org/*
@@ -12952,6 +12982,7 @@
 *://www.ymw.cn/*
 *://www.ynkui.com/*
 *://www.ynp995.com/*
+*://www.yoqu.win/*
 *://www.youbokwwwu2bet.net/*
 *://www.youchuang365.com/*
 *://www.youyizzy.com/*
@@ -13026,6 +13057,7 @@
 *://www.zhipanyou.com/*
 *://www.zhipin.com/*
 *://www.zhishibo.com/*
+*://www.zhiyuanseo.com/*
 *://www.zhongjianghua.com/*
 *://www.zhufaner.com/*
 *://www.zhuici.net/*
@@ -13146,6 +13178,7 @@
 *://yuming.qxbbs.org/*
 *://yuncode.net/*
 *://yunsh.cc/*
+*://yuntue.com/*
 *://yutakanahibi.com/*
 *://yuyufirst.com/*
 *://ywcreations.com/*
