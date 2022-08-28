@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2022-08-27 03:27:02
-# Total count: 13309
+# Version: 2022-08-28 03:24:55
+# Total count: 13310
 
 ! C&J Marketing
 ! Content Farm
@@ -10598,6 +10598,7 @@
 *://qastack.net.bd/*
 *://qastack.ru/*
 *://qastack.vn/*
+*://qatop.pythonwood.com/*
 *://qayaboo.co/*
 *://qb.zuoyebang.com/*
 *://qcke.plameco-nett.de/*
