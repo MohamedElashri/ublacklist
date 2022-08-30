@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2022-08-29 03:35:21
-# Total count: 13310
+# Version: 2022-08-30 03:42:17
+# Total count: 13357
 
 ! C&J Marketing
 ! Content Farm
@@ -196,6 +196,7 @@
 *://*.1000lily.com/*
 *://*.1001yx.com/*
 *://*.1004usa.buzz/*
+*://*.1007171.com/*
 *://*.1008-6.cn/*
 *://*.100860.com/*
 *://*.100ke.cc/*
@@ -536,10 +537,12 @@
 *://*.361t.org/*
 *://*.36457.cn/*
 *://*.365dxpt.com/*
+*://*.365seal.com/*
 *://*.365town.cn/*
 *://*.366521.com/*
 *://*.366ro4o.cn/*
 *://*.366service.com/*
+*://*.369369.xyz/*
 *://*.369bt.cn/*
 *://*.36ho.com/*
 *://*.36kr.com/*
@@ -708,6 +711,7 @@
 *://*.4fjhqeu.cn/*
 *://*.4greatness.buzz/*
 *://*.4harley.buzz/*
+*://*.4hou.com/posts/*
 *://*.4hqn.com/*
 *://*.4ieg8xs.cn/*
 *://*.4jf947x.cn/*
@@ -973,6 +977,7 @@
 *://*.710dnuv.com/*
 *://*.71top.com/*
 *://*.71usrc.cn/*
+*://*.7200500.com/*
 *://*.720com.cn/*
 *://*.720exl.cn/*
 *://*.727823.com/*
@@ -1444,7 +1449,9 @@
 *://*.alrwov8.cn/*
 *://*.alsace-casino.buzz/*
 *://*.alsorsl.buzz/*
+*://*.altapps.net/*
 *://*.altierisauto.buzz/*
+*://*.amalur-madretierra.es/*
 *://*.amercoffee.buzz/*
 *://*.americankidswear.buzz/*
 *://*.amillionpoems.buzz/*
@@ -1746,6 +1753,7 @@
 *://*.beaniebiz.buzz/*
 *://*.beauty-flowers.buzz/*
 *://*.beauty-katsura.buzz/*
+*://*.beckers-willems.nl/*
 *://*.becreativeblog.com/*
 *://*.beebom.com/*
 *://*.beeeup.com/*
@@ -1819,6 +1827,7 @@
 *://*.binfun.cn/*
 *://*.bing.com/*
 *://*.bingdianhuanyuan.cn/*
+*://*.biobu.it/*
 *://*.biol02.cn/*
 *://*.biotradefair.buzz/*
 *://*.birra-club.buzz/*
@@ -2062,6 +2071,7 @@
 *://*.carucc.com/*
 *://*.cashregister.cn/*
 *://*.casinopier-waterworks.buzz/*
+*://*.casmokefreehousing.org/*
 *://*.castle-cctv.cn/*
 *://*.cb728.com/*
 *://*.cbbxk.com/*
@@ -2085,6 +2095,7 @@
 *://*.ccsearch.cc/*
 *://*.cctgou.com/*
 *://*.cctsuzhou.cn/*
+*://*.ccvic.com/*
 *://*.cdbqgzdl.com/*
 *://*.cdcooling.com/*
 *://*.cddexirui.com/*
@@ -2127,6 +2138,7 @@
 *://*.ceramic-industry.buzz/*
 *://*.cerist.dz/*
 *://*.cesdnet.com/*
+*://*.cetturismo.cl/*
 *://*.cf628.com/*
 *://*.cf6h0hw.cn/*
 *://*.cfadnc.org/*
@@ -2187,6 +2199,7 @@
 *://*.chinesepcb.cn/*
 *://*.chinesewords.org/*
 *://*.chip.de/*
+*://*.chiphell.com/*
 *://*.chirontechnologies.buzz/*
 *://*.chiroporn.buzz/*
 *://*.chkkkk.com/*
@@ -2256,6 +2269,7 @@
 *://*.clothw.com/*
 *://*.cloudsos.com.cn/*
 *://*.clqcqz.com/*
+*://*.clubhouse-club.site/*
 *://*.clubic.com/*
 *://*.clwdd.com/*
 *://*.cm0769.com/*
@@ -2595,6 +2609,7 @@
 *://*.dealabs.com/*
 *://*.dealproduct.cn/*
 *://*.decouhome.com/*
+*://*.dedeapps.com/*
 *://*.dedexiche.com/*
 *://*.defelsko.net.cn/*
 *://*.defkey.com/*
@@ -3177,7 +3192,9 @@
 *://*.fofa.so/*
 *://*.folkculturebh.org/*
 *://*.folxchina.cn/*
+*://*.fonelab.com/*
 *://*.fonepaw.com/*
+*://*.food-week.ru/*
 *://*.forbb.cn/*
 *://*.forgerynet.buzz/*
 *://*.formysql.com/*
@@ -3226,9 +3243,11 @@
 *://*.francispublications.buzz/*
 *://*.frat-movie.buzz/*
 *://*.freax.be/*
+*://*.frederique-davezac.fr/*
 *://*.free-lunwen.com/*
 *://*.freednewstimes.com/*
 *://*.freeguo.com/*
+*://*.freejobalerts24.com/*
 *://*.freejournal.info/*
 *://*.freesexvideosonline.buzz/*
 *://*.frg70jg.cn/*
@@ -3492,6 +3511,7 @@
 *://*.goulanyaozhai.com.cn/*
 *://*.gouma.org/*
 *://*.gouo.cn/*
+*://*.gov-civil-leiria.pt/*
 *://*.gp5vllt.cn/*
 *://*.gpoint.co.jp/*
 *://*.gpuhiyk.cn/*
@@ -3553,6 +3573,7 @@
 *://*.gumtdi3.cn/*
 *://*.guochangxi.com/*
 *://*.guoguofarm.cn/*
+*://*.guoguofen.com/*
 *://*.guojinds.com/*
 *://*.guojixiangqidesuanfen.isap2000.com/*
 *://*.guoleke.com/*
@@ -3781,6 +3802,7 @@
 *://*.herotu.com/*
 *://*.heww.cc/*
 *://*.hexielaw.com/*
+*://*.heyloadsmmkr.ru.com/*
 *://*.heyma2.com/*
 *://*.heyuanheng.com/*
 *://*.hezhisw.com/*
@@ -4183,6 +4205,7 @@
 *://*.ilzhrmn.cn/*
 *://*.im1pxi.cn/*
 *://*.ima-cn.cn/*
+*://*.imacso.com/*
 *://*.image.haosou.com/*
 *://*.image.so.com/*
 *://*.imageinfo.cn/*
@@ -4475,6 +4498,7 @@
 *://*.jnqsbz.com/*
 *://*.jntgzsg.cn/*
 *://*.jnup.cc/*
+*://*.jnw.cc/*
 *://*.jnzcyl.com/*
 *://*.jnzczdh.com/*
 *://*.jnzffz.com/*
@@ -4719,6 +4743,7 @@
 *://*.kingsman8.com/*
 *://*.kingstayhotel.cn/*
 *://*.kingtaisei.com/*
+*://*.kissbaidu.com/*
 *://*.kisyou.cn/*
 *://*.kitelinef.com/*
 *://*.kittiss.cn/*
@@ -4953,11 +4978,13 @@
 *://*.lhl8.cn/*
 *://*.lhz8.cn/*
 *://*.liamharrington.buzz/*
+*://*.liangliangmama.com/blogs/news/*
 *://*.liangmir.cn/*
 *://*.lianyi0898.com/*
 *://*.lianyigcsl.com/*
 *://*.liao521.com/*
 *://*.libertyquiltshop.buzz/*
+*://*.libhunt.com/*
 *://*.libinlipin.com/*
 *://*.licenseapps.com/*
 *://*.lichengjk.com/*
@@ -4973,6 +5000,7 @@
 *://*.lightsources.cn/*
 *://*.lihengfur.com/*
 *://*.likebl.com/*
+*://*.liliang.info/*
 *://*.lilouvideos.com/*
 *://*.lilyid.com/*
 *://*.lindberg-import.buzz/*
@@ -5401,7 +5429,9 @@
 *://*.mnykexv.cn/*
 *://*.mo-dmp.buzz/*
 *://*.moaera.com/*
+*://*.mobile2day.com/*
 *://*.mobilephoneslive.com/*
+*://*.modb.pro/*
 *://*.modelosquetarojas.buzz/*
 *://*.modoaydinlatma.buzz/*
 *://*.moe.am/*
@@ -5506,6 +5536,7 @@
 *://*.mxianhuo.com/*
 *://*.mxr8.cn/*
 *://*.my-olli.com/*
+*://*.my-pmu.com/*
 *://*.my.opera.com/*
 *://*.my0546.com/*
 *://*.my697.com/*
@@ -5518,6 +5549,7 @@
 *://*.myjurlique.buzz/*
 *://*.mylifeblog.cn/*
 *://*.mylovesy.com/*
+*://*.mymac.info/*
 *://*.mymyjtf.com/*
 *://*.mynameinlights.buzz/*
 *://*.myperfecttan.buzz/*
@@ -6074,6 +6106,8 @@
 *://*.poid7.cn/*
 *://*.poiui.top/*
 *://*.poketoys.buzz/*
+*://*.poldomu.pl/*
+*://*.poloniabeaulieu.fr/*
 *://*.pomdapi-shoes.buzz/*
 *://*.pond-view.buzz/*
 *://*.ponvn.cn/*
@@ -6106,6 +6140,7 @@
 *://*.precision-printing.buzz/*
 *://*.premier-net.buzz/*
 *://*.premieredomain.buzz/*
+*://*.prestigelublin.eu/*
 *://*.prg8.cn/*
 *://*.prinevillesda.org/*
 *://*.priyiuc.cn/*
@@ -6233,6 +6268,7 @@
 *://*.qcwxps.com/*
 *://*.qd.58.com/*
 *://*.qdabr0c.cn/*
+*://*.qdcypf.com/*
 *://*.qddcd.com/*
 *://*.qdhuacuhui.com/*
 *://*.qdjuboshi.com/*
@@ -6640,6 +6676,7 @@
 *://*.s8h4bp7.cn/*
 *://*.s8zo23x.cn/*
 *://*.s900f.com/*
+*://*.sa123.cc/*
 *://*.sa5f8o7.cn/*
 *://*.saasworthy.com/*
 *://*.sab-riga.buzz/*
@@ -6849,6 +6886,7 @@
 *://*.shjunting.com/*
 *://*.shkxsy.cn/*
 *://*.shldbf.com/*
+*://*.shluqu.cn/*
 *://*.shmx518.com/*
 *://*.shoeku.com/*
 *://*.shop2046.com/*
@@ -6883,6 +6921,7 @@
 *://*.shuaigetian.cn/*
 *://*.shuangsan.cn/*
 *://*.shujinger.com/*
+*://*.shumashidai.com/*
 *://*.shunanjy.com/*
 *://*.shunlixidi.com/*
 *://*.shuzaos.com/*
@@ -7522,6 +7561,7 @@
 *://*.tousu.in/*
 *://*.toutiao.com/search/*
 *://*.toutiao.com/search?keyword=*
+*://*.toutiao.io/*
 *://*.touyanmo.com/*
 *://*.touyinghome.com/*
 *://*.toyif.cn/*
@@ -7872,6 +7912,7 @@
 *://*.vqqf.cc/*
 *://*.vqtddz.cn/*
 *://*.vsb08zc.cn/*
+*://*.vsbuys.com/*
 *://*.vsgood.com/*
 *://*.vtiorio.com/*
 *://*.vtoyq.com/*
@@ -7971,6 +8012,8 @@
 *://*.webrobb.buzz/*
 *://*.websajts.buzz/*
 *://*.websgj.com/*
+*://*.website-problem.info/*
+*://*.websiterating.com/*
 *://*.websou.cc/*
 *://*.weckspace.com/*
 *://*.wedlockphotography.buzz/*
@@ -8015,6 +8058,7 @@
 *://*.wenwen.m.sogou.com/*
 *://*.wenyanet.com/*
 *://*.wepost.com.my/*
+*://*.westack.live/*
 *://*.westsectionclub.com/*
 *://*.weswift.cn/*
 *://*.wetasia.buzz/*
@@ -8645,6 +8689,7 @@
 *://*.y6u3l8z.cn/*
 *://*.y7v058i.cn/*
 *://*.y8833.cn/*
+*://*.y8freegame.com/*
 *://*.y8x70fy.cn/*
 *://*.y99nr6w.cn/*
 *://*.y9c7fja.cn/*
@@ -10272,6 +10317,7 @@
 *://m.abctbh.com/*
 *://m.ablwp.com/*
 *://m.agyay.com/*
+*://m.aliyun.com/*
 *://m.ccdswl.com/*
 *://m.ccidnet.com/*
 *://m.cnmmv.com/*
@@ -10348,6 +10394,7 @@
 *://m.yxdwj.com/*
 *://m.yzlqzx.xyz/*
 *://m.zcool.com.cn/*
+*://m.zhihejia.com/*
 *://m.zhuangku.com/*
 *://mac.macxf.com/*
 *://macaro-ni.jp/*
