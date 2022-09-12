@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2022-09-11 03:31:26
-# Total count: 13448
+# Version: 2022-09-12 03:48:43
+# Total count: 13460
 
 ! C&J Marketing
 ! Content Farm
@@ -476,6 +476,7 @@
 *://*.2hay.buzz/*
 *://*.2izr31t.cn/*
 *://*.2lndd3z.cn/*
+*://*.2maka.com/*
 *://*.2match2.buzz/*
 *://*.2mikes.buzz/*
 *://*.2optrip.com/*
@@ -1347,6 +1348,7 @@
 *://*.actioncamfilms.buzz/*
 *://*.actorssupplies.buzz/*
 *://*.actuaireonline.buzz/*
+*://*.actualidadiphone.com/*
 *://*.actuarygarden.com/*
 *://*.acuolea.xyz/*
 *://*.acvu.cn/*
@@ -2782,6 +2784,7 @@
 *://*.domy365.com/*
 *://*.don-mar.buzz/*
 *://*.dongchangmotors.buzz/*
+*://*.dongchedi.com/tag/*
 *://*.dongdaima.com/*
 *://*.dongfangeb.com/*
 *://*.donglian640.com/*
@@ -4067,6 +4070,7 @@
 *://*.htd-shop.cn/*
 *://*.htdzzk.com.cn/*
 *://*.htl8.com/*
+*://*.html.cn/*
 *://*.htmlwdw.com/*
 *://*.htsc100.com/*
 *://*.htv9o3g.cn/*
@@ -5408,6 +5412,7 @@
 *://*.meimeite.com/*
 *://*.meiniuba.com/*
 *://*.meirhome.com/*
+*://*.meirikeji.com/*
 *://*.meirongbala.com/*
 *://*.meisearch.cc/*
 *://*.meitan8.cn/*
@@ -5500,6 +5505,7 @@
 *://*.mnsf.net/*
 *://*.mnykexv.cn/*
 *://*.mo-dmp.buzz/*
+*://*.mo08.biz/*
 *://*.moaera.com/*
 *://*.mobile2day.com/*
 *://*.mobilephoneslive.com/*
@@ -8262,6 +8268,7 @@
 *://*.woou0nl.cn/*
 *://*.wopsgh.cn/*
 *://*.wordford.com/*
+*://*.wordpress.com/*
 *://*.worldphim.com/*
 *://*.worldseries13.buzz/*
 *://*.worldtradeglobal.buzz/*
@@ -9148,6 +9155,7 @@
 *://*.z6zzz.com/*
 *://*.z7np5o7.cn/*
 *://*.z7obq3f.cn/*
+*://*.za.com/*
 *://*.za5.cc/*
 *://*.za60.cn/*
 *://*.zaataritravel.buzz/*
@@ -9262,6 +9270,7 @@
 *://*.zhixiangbaozhuang.net/*
 *://*.zhixinlu.com/*
 *://*.zhiyintucao.xyz/*
+*://*.zhizhiguan.com/*
 *://*.zhizhusou.com/*
 *://*.zhj818.com/*
 *://*.zhjfood.com/*
@@ -9753,6 +9762,7 @@
 *://brd2a.com/*
 *://breakfast.reviewiki.com/*
 *://brightchanging.com/*
+*://briteming.blogspot.com/*
 *://broadas.com/*
 *://brrmn.com/*
 *://brwhn.com/*
@@ -10581,6 +10591,7 @@
 *://neilpatel.com/*
 *://neuf.tv/*
 *://neutrikmall.com/*
+*://new.qq.com/omn/*
 *://newbedev.com/*
 *://news.558idc.com/*
 *://news.66wz.com/*
@@ -10669,6 +10680,7 @@
 *://phppro.net.cutestat.com/*
 *://pic.bclt168.com/*
 *://pic.k0w0m.com/*
+*://pic.sogou.com/pic/searchList.jsp?*
 *://pinasy.com/*
 *://pjcq8.com/*
 *://play.google.com/store/apps/details?id=com.pinterest*
