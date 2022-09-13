@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2022-09-12 03:48:43
-# Total count: 13460
+# Version: 2022-09-13 03:43:47
+# Total count: 13466
 
 ! C&J Marketing
 ! Content Farm
@@ -9711,6 +9711,7 @@
 *://bestbitlvcild.sa.com/*
 *://bestofcpp.com/*
 *://bestpractice.bmj.com/*
+*://bestrustcrates.com/*
 *://bg-mania.jp/*
 *://bggfx.com/*
 *://bianmawd.cc/*
@@ -9878,6 +9879,7 @@
 *://coderedirect.com/*
 *://coderoad.ru/*
 *://codertw.com/*
+*://codesti.com/*
 *://codingdict.com/*
 *://codingnote.cc/*
 *://codingwithmanny.medium.com/*
@@ -9907,6 +9909,7 @@
 *://crxhome.org/*
 *://crzmjf.com/*
 *://csharp.hotexamples.com/*
+*://curatedgo.com/*
 *://cx.17house.com/*
 *://cxybb.com/*
 *://cxywk.com/*
@@ -10115,6 +10118,7 @@
 *://giskaa.com/*
 *://git2get.com/*
 *://gitanswer.com/*
+*://gitanswer.net/*
 *://giters.com/*
 *://github-wiki-see.page/*
 *://github.innominds.com/*
@@ -10241,7 +10245,7 @@
 *://ishiker.com/*
 *://iskeke.com/*
 *://isolution.pro/*
-*://issueexplorer.com/*
+*://issueantenna.com/*
 *://issuehint.com/*
 *://it-kyujin.jp/*
 *://it.wenda123.org/*
@@ -10323,6 +10327,7 @@
 *://kakakusearch.com/*
 *://kalacloud.com/*
 *://kalasearch.cn/*
+*://kandi.openweaver.com/*
 *://kantie.org/*
 *://kao-bo.com/*
 *://kaworu.jpn.org/*
@@ -10796,6 +10801,7 @@
 *://rubese.net/*
 *://runebook.dev/*
 *://runxinzhi.com/*
+*://rustrepo.com/*
 *://rzeszow-angielski.pl/*
 *://s.3d4w.com/*
 *://s.weibo.com/*
