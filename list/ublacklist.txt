@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2022-09-14 03:38:00
-# Total count: 13466
+# Version: 2022-09-15 03:44:47
+# Total count: 13467
 
 ! C&J Marketing
 ! Content Farm
@@ -12805,6 +12805,7 @@
 *://www.tfzx.net/*
 *://www.tgidrinks.com/*
 *://www.theatrelucdonat.re/*
+*://www.thecodeteacher.com/*
 *://www.thegoddessofbeauty562.com/*
 *://www.thepaper.cn/*
 *://www.thinbug.com/*
