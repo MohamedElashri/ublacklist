@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2022-09-19 03:48:06
-# Total count: 13468
+# Version: 2022-09-20 03:36:49
+# Total count: 13470
 
 ! C&J Marketing
 ! Content Farm
@@ -9880,6 +9880,7 @@
 *://coderoad.ru/*
 *://codertw.com/*
 *://codesti.com/*
+*://codeutility.org/*
 *://codingdict.com/*
 *://codingnote.cc/*
 *://codingwithmanny.medium.com/*
@@ -10949,6 +10950,7 @@
 *://techacademy.jp/*
 *://techdocs.broadcom.com/*
 *://techhelpnotes.com/*
+*://techinplanet.com/*
 *://techroomage.com/*
 *://techzhiggy.com/*
 *://teddit.ggc-project.de/*
