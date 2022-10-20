@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2022-10-19 03:37:57
-# Total count: 13510
+# Version: 2022-10-20 03:32:19
+# Total count: 13523
 
 ! C&J Marketing
 ! Content Farm
@@ -2461,6 +2461,7 @@
 *://*.crackorg.com/*
 *://*.crackpropc.com/*
 *://*.cracxdl.com/*
+*://*.craffts.com/*
 *://*.craftswomyn.buzz/*
 *://*.crawley-haskins.buzz/*
 *://*.creationwh.com/*
@@ -2732,6 +2733,7 @@
 *://*.dict.hjenglish.com/*
 *://*.didibeile.com/*
 *://*.didong100.com/*
+*://*.digidash.in/*
 *://*.digital-mouse.buzz/*
 *://*.digital-transfers.buzz/*
 *://*.diguaax.com/*
@@ -4042,6 +4044,7 @@
 *://*.howietech.com/*
 *://*.howsou.com/*
 *://*.howtoip.com/*
+*://*.howtopapa.com/*
 *://*.hozyayka.org/*
 *://*.hozz.cn/*
 *://*.hpapt.cn/*
@@ -5126,6 +5129,7 @@
 *://*.liuhuohuyu.com/*
 *://*.liuhyshow.com/*
 *://*.liuliangtopp.com/*
+*://*.liupan.org/*
 *://*.liuyusem.com/*
 *://*.live1234.com.cn/*
 *://*.livebroadcast.cn/*
@@ -5465,6 +5469,7 @@
 *://*.mh33.cn/*
 *://*.mh4u.org/*
 *://*.mh96.cn/*
+*://*.mhaohuo.com/*
 *://*.mhk5rkt.cn/*
 *://*.mhona.buzz/*
 *://*.mhradio.org/*
@@ -5829,6 +5834,7 @@
 *://*.no54hagleyroad.buzz/*
 *://*.nodep2p.com/*
 *://*.noiseofmax.net/*
+*://*.nokibar.com/*
 *://*.nomurlar.com/*
 *://*.nong.09086.cn/*
 *://*.nonglidqw.com/*
@@ -5967,6 +5973,7 @@
 *://*.oneho.cn/*
 *://*.oneworld99.com/*
 *://*.ongetpi.cn/*
+*://*.onitroad.com/*
 *://*.onitwh.cn/*
 *://*.online-green.buzz/*
 *://*.online-tech-tips.com/*
@@ -6311,6 +6318,7 @@
 *://*.pyk696.com/*
 *://*.pyk868.com/*
 *://*.pyn9.com/*
+*://*.pythontechworld.com/*
 *://*.pythonwd.com/*
 *://*.pzdyj.com/*
 *://*.pzhfly.cn/*
@@ -7058,6 +7066,7 @@
 *://*.sinochemlyg.cn/*
 *://*.sinoma-yzhgs.cn/*
 *://*.sipotech.com/*
+*://*.sirhow.com/*
 *://*.sitehonor.com/*
 *://*.sitenb.com/*
 *://*.sitevalue.net/*
@@ -7835,6 +7844,7 @@
 *://*.ukbu5pa.cn/*
 *://*.ukp76oa.cn/*
 *://*.ulkhmiim.cn/*
+*://*.ultimate-communications.com/*
 *://*.ultraiso.net/*
 *://*.umd5eld.cn/*
 *://*.umonmall.com/*
@@ -8118,6 +8128,7 @@
 *://*.webfootmedia.buzz/*
 *://*.webholland.buzz/*
 *://*.weblanguage.cn/*
+*://*.weblihost.com/*
 *://*.webrobb.buzz/*
 *://*.websajts.buzz/*
 *://*.websgj.com/*
@@ -8129,6 +8140,7 @@
 *://*.wefunwe.com/*
 *://*.weiaizu.com/*
 *://*.weibaoju.com/*
+*://*.weibo.com/a/hot/*
 *://*.weida9.com/*
 *://*.weidik.com/*
 *://*.weidujt.com/*
@@ -8955,6 +8967,7 @@
 *://*.yinxwl.cn/*
 *://*.yinyids.com/*
 *://*.yinzaoan.cn/*
+*://*.yinzdian.com/*
 *://*.yiper.cn/*
 *://*.yipinkirin.com/*
 *://*.yipinrong.com/*
