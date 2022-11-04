@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2022-11-03 03:00:03
-# Total count: 13525
+# Version: 2022-11-04 03:06:40
+# Total count: 13533
 
 ! C&J Marketing
 ! Content Farm
@@ -2335,6 +2335,7 @@
 *://*.cmegxmx.cn/*
 *://*.cmen.cc/*
 *://*.cmgfiledepot.buzz/*
+*://*.cmm3d.com/*
 *://*.cmnjmy.com/*
 *://*.cmoa43r.cn/*
 *://*.cmsay.com/*
@@ -5331,6 +5332,9 @@
 *://*.machao56.com/*
 *://*.machbbs.com/*
 *://*.machow2.com/*
+*://*.macsc.com/*
+*://*.macxf.com/*
+*://*.macz.com/*
 *://*.madeingali.com/*
 *://*.madhyamgram.buzz/*
 *://*.madisonbrowne.buzz/*
@@ -6142,6 +6146,7 @@
 *://*.photoproxi.buzz/*
 *://*.photosyu.com/*
 *://*.photozoomchina.com/*
+*://*.php.cn/*
 *://*.phphqc.cc/*
 *://*.phpqaw.cc/*
 *://*.phqyauh.cn/*
@@ -6164,6 +6169,7 @@
 *://*.pintformation.com/*
 *://*.pinxia.cc/*
 *://*.pinzuowang.com/*
+*://*.pipecraft.net/*
 *://*.piqiuda.com/*
 *://*.pitalitobicentenario.com/*
 *://*.pitlochrygolfclub.buzz/*
@@ -7746,6 +7752,7 @@
 *://*.tujour.com/*
 *://*.tumblr.com/*
 *://*.tumlls.xyz/*
+*://*.tumpik.com/*
 *://*.tuokehj.com/*
 *://*.turf-seed-china.buzz/*
 *://*.turnoffthelights.com/*
@@ -8079,6 +8086,7 @@
 *://*.wanaijiu.com/*
 *://*.wanda883.cn/*
 *://*.wangleju.com/*
+*://*.wangluotizi.com/*
 *://*.wangshuai.net/*
 *://*.wangyanni.cn/*
 *://*.wangyou888.com/*
