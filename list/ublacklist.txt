@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2022-11-06 02:59:46
-# Total count: 13533
+# Version: 2022-11-07 02:58:37
+# Total count: 13523
 
 ! C&J Marketing
 ! Content Farm
@@ -1563,7 +1563,6 @@
 *://*.aoyoutao.com/*
 *://*.ap8o2.cn/*
 *://*.apartmentcenters.buzz/*
-*://*.ape-ask.com/*
 *://*.apk-new.com/*
 *://*.apkfun.com/*
 *://*.apkhr.com/*
@@ -7715,7 +7714,6 @@
 *://*.trustradius.com/*
 *://*.trvhyxw.cn/*
 *://*.trw9n5h.cn/*
-*://*.try2explore.com/*
 *://*.tryshift.com/*
 *://*.tsfx.cc/*
 *://*.tsltw.com/*
@@ -9921,7 +9919,6 @@
 *://codejzy.com/*
 *://codeleading.com/*
 *://coder-question.com/*
-*://coder-solution-es.com/*
 *://coder.gay/*
 *://coderoad.ru/*
 *://codertw.com/*
@@ -10396,7 +10393,6 @@
 *://kj808.com/*
 *://kjch.ebaohui.cn/*
 *://kknews.cc/*
-*://knews.vip/*
 *://know.sciwk.com/*
 *://koenjapan.com/*
 *://komono.me/*
@@ -10881,7 +10877,6 @@
 *://seo.maro6.com/*
 *://seo.quxingdong.com/*
 *://seodesignchicago.com/*
-*://serveanswer.com/*
 *://set.duoyuan-chemical.com/*
 *://sgjarts.com/*
 *://sgub.kerstinraphahn.de/*
@@ -10978,7 +10973,6 @@
 *://sxcpsjapp.org/*
 *://sydjt.com/*
 *://syntaxfix.com/*
-*://sysadminde.com/*
 *://syshizhi.com/*
 *://t.codebug.vip/*
 *://tagsqa.com/*
@@ -10997,7 +10991,6 @@
 *://techacademy.jp/*
 *://techdocs.broadcom.com/*
 *://techhelpnotes.com/*
-*://techinplanet.com/*
 *://techroomage.com/*
 *://techzhiggy.com/*
 *://teddit.ggc-project.de/*
@@ -12160,7 +12153,6 @@
 *://www.ispsd2015.com/*
 *://www.issuehub.io/*
 *://www.it-mure.jp.net/*
-*://www.it-roy-ru.com/*
 *://www.it-swarm-fr.com/*
 *://www.it-swarm-ja.com/*
 *://www.it-swarm-ja.tech/*
@@ -12809,7 +12801,6 @@
 *://www.ssmdpx.cn/*
 *://www.stackfinder.ru/*
 *://www.stacknoob.com/*
-*://www.stackubuntu.com/*
 *://www.stateofflintkids.com/*
 *://www.stuff-japan.com/*
 *://www.stylutionusa.com/*
@@ -13124,7 +13115,6 @@
 *://www.xsf63.com/*
 *://www.xsjphoto.com/*
 *://www.xspdf.com/*
-*://www.xsprogram.com/*
 *://www.xtfeed.cn/*
 *://www.xtoolsoft.com/*
 *://www.xue51.com/*
