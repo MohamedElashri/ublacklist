@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2022-11-21 02:52:17
-# Total count: 13198
+# Version: 2022-11-28 02:35:12
+# Total count: 13225
 
 ! C&J Marketing
 ! Content Farm
@@ -9506,6 +9506,7 @@
 *://118.122.142.36/*
 *://118.193.38.103/*
 *://119.97.222.79/*
+*://120.27.149.66/*
 *://120.79.180.193/*
 *://120.79.19.203/*
 *://121.43.42.175/*
@@ -9925,6 +9926,7 @@
 *://doc.xuwenliang.com/*
 *://docs-aliyun.cn-hangzhou.oss.aliyun-inc.com/*
 *://docs-im.easemob.com/*
+*://docs.ksyun.com/*
 *://docs.landingbj.com/*
 *://docs.laravel-dojo.com/*
 *://docs.microsoft.com/*
@@ -10021,6 +10023,7 @@
 *://forum.butian.net/*
 *://forum.iask.ca/*
 *://fpgtm.com/*
+*://freedomzfub.netlify.app/*
 *://freetribe.me/*
 *://frldm.com/*
 *://fsqyjt88.com/*
@@ -10175,6 +10178,7 @@
 *://it.wenda123.org/*
 *://itbilu.com/*
 *://itecnote.com/*
+*://itecnotes.com/*
 *://itectec.com/*
 *://item.jd.com/*
 *://iter01.com/*
@@ -10494,6 +10498,7 @@
 *://news.znds.com/*
 *://ngp.70c6nb.cn/*
 *://ni.cafegatto.com/*
+*://nibes.cn/*
 *://nicesou.cc/*
 *://ninja-smile.com/*
 *://nitomotor.com/*
@@ -10747,6 +10752,7 @@
 *://sunnyshushu.com/*
 *://super-unix.com/*
 *://support.ariba.com/*
+*://support.cloudflare.com/*
 *://support.microsoft.com/*
 *://sur.ly/*
 *://suwav2ray.com/*
@@ -11029,6 +11035,7 @@
 *://www.360doc.com/*
 *://www.360kuai.com/*
 *://www.360mdb.com/*
+*://www.361shipin.com/*
 *://www.365jz.com/*
 *://www.365keke.com/*
 *://www.365seal.com/*
@@ -11082,6 +11089,7 @@
 *://www.52maicong.com/*
 *://www.52pjb.net/*
 *://www.52tourism.com/*
+*://www.5339901.com/*
 *://www.54jqr.com/*
 *://www.5577.com/*
 *://www.55jf.com/*
@@ -11100,6 +11108,7 @@
 *://www.60oi.com/*
 *://www.626523.com/*
 *://www.626978.com/*
+*://www.6532099.com/*
 *://www.684758.com/*
 *://www.686232.com/*
 *://www.6cu.com/*
@@ -11112,6 +11121,7 @@
 *://www.733mh.com/*
 *://www.741963.com/*
 *://www.760cf.com/*
+*://www.7661551.com/*
 *://www.7701238.com/*
 *://www.7711182.com/*
 *://www.77aigo.com/*
@@ -11146,6 +11156,7 @@
 *://www.8xia.com/*
 *://www.912688.com/*
 *://www.91ajs.com/*
+*://www.91bianli.com/*
 *://www.91flac.com/*
 *://www.91pitu.com/*
 *://www.91rjz.com/*
@@ -11368,6 +11379,7 @@
 *://www.chaoxz.com/*
 *://www.chaxue.org/*
 *://www.chegg.com/*
+*://www.chemspider.com/*
 *://www.chengchuanren.com/*
 *://www.chenweiliang.com/*
 *://www.chepinnet.com/*
@@ -11634,6 +11646,7 @@
 *://www.f2qu.com/*
 *://www.f513.com/*
 *://www.f5nunu.co/*
+*://www.f773.com/*
 *://www.facebook.com/*
 *://www.facebook.com/PinterestUK/
 *://www.fangfaku.net/*
@@ -11643,9 +11656,11 @@
 *://www.fashiontrendcenters.com/*
 *://www.fast8.com/*
 *://www.fastchina.net/*
+*://www.fb99778.com/*
 *://www.fcbqg.com/*
 *://www.fck688.com/*
 *://www.fdbtech.com/*
+*://www.fdf39.com/*
 *://www.fdf42.com/*
 *://www.fdf60.com/*
 *://www.fdzbfjc.com/*
@@ -11655,6 +11670,7 @@
 *://www.ffffgggga.com/*
 *://www.file-extension.info/*
 *://www.finanziata.buzz/*
+*://www.finclip.com/*
 *://www.findbestopensource.com/*
 *://www.fitid.buzz/*
 *://www.fixbbs.com/*
@@ -11665,6 +11681,7 @@
 *://www.fly63.com/*
 *://www.flynsarmy.com/*
 *://www.fobgavin.com/*
+*://www.folkstalk.com/*
 *://www.forbooks.xyz/*
 *://www.foxmac.com/*
 *://www.freakchicken.xyz/*
@@ -11808,6 +11825,7 @@
 *://www.hongyazi.org/*
 *://www.hostarr.com/*
 *://www.hostingcouponspot.com/*
+*://www.hostinggrizzly.com/*
 *://www.hostloc.com/*
 *://www.hostloc.men/*
 *://www.hotbak.net/*
@@ -11912,6 +11930,7 @@
 *://www.itbestwish.com/*
 *://www.itbiancheng.com/*
 *://www.itdaan.com/*
+*://www.itdaan.ex1.https.443.ipv6.faw.com.cn/*
 *://www.iteblog.com/*
 *://www.iteye.com/*
 *://www.ithome.com/*
@@ -12112,6 +12131,7 @@
 *://www.liyege.cn/*
 *://www.lizhi.io/*
 *://www.ljineng.com/*
+*://www.lmcjl.com/*
 *://www.lmlphp.com/*
 *://www.lmonkey.com/*
 *://www.lmubbs.com/*
@@ -12156,6 +12176,7 @@
 *://www.manongjc.com/*
 *://www.maoyidan.com/*
 *://www.mapxl.buzz/*
+*://www.marketingforce.com/*
 *://www.masyers.com/*
 *://www.matbakhe.com/*
 *://www.mazhenyu.com/*
@@ -12237,6 +12258,7 @@
 *://www.nfsfashin.co/*
 *://www.ngui.cc/*
 *://www.nhooo.com/*
+*://www.niaoyun.com/*
 *://www.ninadz.com/*
 *://www.nj118114.cn/*
 *://www.njqg.net/*
@@ -12369,6 +12391,7 @@
 *://www.qingnang.net/*
 *://www.qingtingip.com/*
 *://www.qinhaisenlin.com/*
+*://www.qinziheng.com/*
 *://www.qiquanji.com/*
 *://www.qishunwang.net/*
 *://www.qiusuoweb.com/*
@@ -12463,6 +12486,7 @@
 *://www.shadu.net.cn/*
 *://www.shangmayuan.com/*
 *://www.shangyexinzhi.com/*
+*://www.shaoxing.com.cn/*
 *://www.share2downloads.com/*
 *://www.shbjbwx.com/*
 *://www.shejiedu.com/*
@@ -12609,6 +12633,7 @@
 *://www.topide.com/*
 *://www.topjianli.com/*
 *://www.tops.hk/*
+*://www.toutiao.com/*
 *://www.townwu.com/*
 *://www.tpxhm.com/*
 *://www.tpyyes.com/*
@@ -12926,6 +12951,7 @@
 *://www.yujianlong.com/*
 *://www.yuncentry.com/*
 *://www.yundongfang.com/*
+*://www.yunkew.net/*
 *://www.yunmeibeijing.com/*
 *://www.yunpanjingling.com/*
 *://www.yunqiao-hz.com/*
@@ -12999,6 +13025,7 @@
 *://www.znds.com/*
 *://www.znj.com/*
 *://www.znsjw.com/*
+*://www.zongscan.com/*
 *://www.zoo.team/*
 *://www.zou114.net/*
 *://www.zrahh.com/*
