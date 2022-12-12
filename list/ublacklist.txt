@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2022-12-05 02:17:12
-# Total count: 13225
+# Version: 2022-12-12 02:20:35
+# Total count: 13246
 
 ! C&J Marketing
 ! Content Farm
@@ -305,6 +305,7 @@
 *://*.1753235.cn/*
 *://*.176buy.com/*
 *://*.178cj.com/*
+*://*.17bigdata.com/*
 *://*.17dhs.cn/*
 *://*.17fuyou.com/*
 *://*.17junlin.com/*
@@ -813,6 +814,7 @@
 *://*.52hnncw.com/*
 *://*.52huitang.com/*
 *://*.52huiyijia.com/*
+*://*.52sbl.cn/*
 *://*.52station.com/*
 *://*.52tfutr.cn/*
 *://*.52wbt.com/*
@@ -2364,6 +2366,7 @@
 *://*.code-adviser.com/*
 *://*.code-examples.net/*
 *://*.code.i-harness.com/*
+*://*.code2s.com/*
 *://*.codeantenna.com/*
 *://*.codebug.vip/*
 *://*.codeczz.com/*
@@ -2816,6 +2819,7 @@
 *://*.draffinenterprises.buzz/*
 *://*.dreamscapesmud.buzz/*
 *://*.dresource.cn/*
+*://*.driedpeel.com/*
 *://*.dropsdai.com/*
 *://*.drtz88.com/*
 *://*.ds60.cn/*
@@ -3553,6 +3557,7 @@
 *://*.gnmw.com.cn/*
 *://*.gntqruo.cn/*
 *://*.gnwxcy.com/*
+*://*.go-travels.com/*
 *://*.go168vip.com/*
 *://*.goangel.cn/*
 *://*.gobaishi.com/*
@@ -4026,6 +4031,7 @@
 *://*.houtaiyun.com/*
 *://*.howietech.com/*
 *://*.howsou.com/*
+*://*.howtl.com/*
 *://*.howtoip.com/*
 *://*.howtopapa.com/*
 *://*.hozyayka.org/*
@@ -4771,6 +4777,7 @@
 *://*.kbck.tzrui.top/*
 *://*.kbie4ab.cn/*
 *://*.kbkb7.com/*
+*://*.kbpp.org/*
 *://*.kbrswkj.com/*
 *://*.kcd663.cn/*
 *://*.kcexvop.cn/*
@@ -4951,6 +4958,7 @@
 *://*.label-america.buzz/*
 *://*.lacasajaguar.buzz/*
 *://*.lace11111.com/*
+*://*.lacomparacion.com/*
 *://*.lady513.com/*
 *://*.ladydaigou.com/*
 *://*.laehgkg.cn/*
@@ -5111,6 +5119,7 @@
 *://*.livefilestore.cn/*
 *://*.liveidc.cn/*
 *://*.living-sun.com/*
+*://*.liweiliang.com/*
 *://*.liwu.bi/*
 *://*.liyacxq.com/*
 *://*.liyazy.com/*
@@ -5547,6 +5556,7 @@
 *://*.moviescome.com/*
 *://*.mowangpapa.com/*
 *://*.moxisq.com/*
+*://*.moyens.net/*
 *://*.mozartkuss.buzz/*
 *://*.mozhimi.com/*
 *://*.mozzinovo.club/*
@@ -5958,6 +5968,7 @@
 *://*.open.com.hk/*
 *://*.opris.chengjinzm.com/*
 *://*.optoviki.buzz/*
+*://*.opython.com/*
 *://*.oqgeyvg.cn/*
 *://*.oqlgb.com/*
 *://*.oqyeiaw.cn/*
@@ -6113,6 +6124,7 @@
 *://*.photozoomchina.com/*
 *://*.php.cn/*
 *://*.phphqc.cc/*
+*://*.phpmianshi.com/*
 *://*.phpqaw.cc/*
 *://*.phqyauh.cn/*
 *://*.phxgmy.com/*
@@ -6397,6 +6409,7 @@
 *://*.qifakeji.com/*
 *://*.qifuxuan.com/*
 *://*.qikan519.com/*
+*://*.qilin668.com/*
 *://*.qingdaosailing.com/*
 *://*.qingkeyy.com/*
 *://*.qingshi8.cn/*
@@ -7222,6 +7235,7 @@
 *://*.ssffw.com/*
 *://*.ssghxl.com/*
 *://*.ssglnkyy.com/*
+*://*.sshce.com/*
 *://*.ssiatvh.cn/*
 *://*.ssjxhy.com/*
 *://*.ssl.bet/*
@@ -7615,6 +7629,7 @@
 *://*.tomatoesweb.com/*
 *://*.toms2013.com/*
 *://*.tomzx.com/*
+*://*.tongbu.com/*
 *://*.tongfengqu.com/*
 *://*.tonghejiu.com/*
 *://*.tongpixie.com/*
@@ -7769,6 +7784,7 @@
 *://*.u4j2nj.cn/*
 *://*.u4paxdt.cn/*
 *://*.u6i6rao.cn/*
+*://*.u72.net/*
 *://*.u8588.com/*
 *://*.u8nqbfs.cn/*
 *://*.ua648vk.cn/*
@@ -7802,6 +7818,7 @@
 *://*.uk.com/*
 *://*.ukbu5pa.cn/*
 *://*.ukp76oa.cn/*
+*://*.ulidc.com/*
 *://*.ulkhmiim.cn/*
 *://*.ultimate-communications.com/*
 *://*.ultraiso.net/*
@@ -8037,6 +8054,7 @@
 *://*.wan8cfd.cn/*
 *://*.wanaijiu.com/*
 *://*.wanda883.cn/*
+*://*.wandouip.com/*
 *://*.wangleju.com/*
 *://*.wangluotizi.com/*
 *://*.wangshuai.net/*
@@ -9225,6 +9243,7 @@
 *://*.zhai168.cn/*
 *://*.zhajun.com/*
 *://*.zhandou666.cn/*
+*://*.zhangbj.com/*
 *://*.zhangyg.com/*
 *://*.zhanso.cn/*
 *://*.zhao188.com/*
@@ -9293,10 +9312,12 @@
 *://*.zhugecar.com/*
 *://*.zhuhaiclub.com/*
 *://*.zhuichaguoji.org/*
+*://*.zhuji.gd/*
 *://*.zhunar18.com/*
 *://*.zhuohuisz.com/*
 *://*.zhuoweihr.com/*
 *://*.zhutigm.com/*
+*://*.zhuxianfei.com/*
 *://*.zhuxuekeji.com/*
 *://*.zhuyimei.cn/*
 *://*.zhwy360.com/*
