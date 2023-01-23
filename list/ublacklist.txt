@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2023-01-16 01:32:16
-# Total count: 13287
+# Version: 2023-01-23 01:33:02
+# Total count: 13288
 
 ! C&J Marketing
 ! Content Farm
@@ -10319,7 +10319,6 @@
 *://kjch.ebaohui.cn/*
 *://kknews.cc/*
 *://know.sciwk.com/*
-*://kotaeta.com/*
 *://koubei.baidu.com/*
 *://ks745.com/*
 *://ksctec.com/*
@@ -10328,6 +10327,7 @@
 *://kuaisusou.cc/*
 *://kuoe.vip-erfolgscoach.de/*
 *://kw7h1.com/*
+*://kzen.dev/*
 *://ladybug.top/*
 *://laravel.p2hp.com/*
 *://laraveldaily.com/*
@@ -12595,6 +12595,7 @@
 *://www.softwarevouchers.com/*
 *://www.sohu.com/a/*
 *://www.sojson.com/blog/*
+*://www.solveforum.com/*
 *://www.solves.com.cn/*
 *://www.solvusoft.com/*
 *://www.somanba.cn/*
