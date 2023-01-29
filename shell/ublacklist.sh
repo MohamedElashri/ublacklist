@@ -19,6 +19,8 @@ curl -o i13.txt https://raw.githubusercontent.com/arosh/ublacklist-stackoverflow
 curl -o i14.txt https://raw.githubusercontent.com/NotJustAHippo/ublacklist/main/sitestoblock.txt
 curl -o i15.txt https://raw.githubusercontent.com/nonPointer/uBlacklist-Subscription/master/blacklist.txt
 curl -o i16.txt https://raw.githubusercontent.com/lbydev/uBlacklist/master/blacklist.txt
+curl -o i17.txt https://raw.githubusercontent.com/DejavuMoe/dejavu-personal-black-lists/master/spam-junk.list
+curl -o i18.txt https://raw.githubusercontent.com/DejavuMoe/dejavu-personal-black-lists/master/spam-deny.list
 
 # Start Merge and Duplicate Removal
 cat i*.txt > merge.txt
