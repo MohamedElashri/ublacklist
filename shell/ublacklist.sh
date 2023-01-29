@@ -1,5 +1,5 @@
 #!/bin/bash
-#cd shell/src
+cd shell/src
 
 
 # Loop over links.txt file which contain all the links to curl instead of hardcoding them
@@ -12,7 +12,7 @@
     echo $counter
     echo $line
     echo " "
-  done < src/sources.txt
+  done < sources.txt
  echo "Done"
 
 # Start Merge and Duplicate Removal
@@ -29,7 +29,7 @@ num=`cat tmmp.txt | wc -l`
 # Start Add title and date
 echo "# Version: `date +"%Y-%m-%d %H:%M:%S"`" >> tpdate.txt
 echo "# Total count: $num" >> tpdate.txt
-cat src/title.dd tpdate.txt tmmp.txt > final.txt
+cat title.dd tpdate.txt tmmp.txt > final.txt
 
 mv final.txt ../ublacklist.txt
 rm *.txt
