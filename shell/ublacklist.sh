@@ -32,6 +32,6 @@ echo "# Total count: $num" >> tpdate.txt
 cat title.dd tpdate.txt tmmp.txt > final.txt
 
 mv final.txt ../ublacklist.txt
-rm !(sources.txt) *.txt
+find . -name '*.txt' | grep -v sources.txt | xargs rm
 cd ../
 exit
