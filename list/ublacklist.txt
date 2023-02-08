@@ -2,5 +2,5 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2023-02-06 01:32:00
+# Version: 2023-02-08 03:27:39
 # Total count: 0
