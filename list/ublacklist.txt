@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2023-02-08 03:34:16
-# Total count: 14117
+# Version: 2023-02-13 01:33:36
+# Total count: 14122
 
 ! C&J Marketing
 ! Content Farm
@@ -10190,6 +10190,7 @@
 *://context.reverso.net/*
 *://coonon.com/*
 *://copyfuture.com/*
+*://copyprogramming.com/*
 *://core.ac.uk/*
 *://coupbox.com/*
 *://course.scutisam.com/*
@@ -13518,7 +13519,7 @@
 *://zzyyo.com/*
 *@*.cf
 *@*.ga
-*@*.gq*@airfountain.cfd
+*@*.gq*@glucofortdiabetescares.life
 *@*.ml
 *@*.tk
 *@0815.ru
@@ -13545,6 +13546,7 @@
 *@9ox.net
 *@a-bc.net
 *@agedmail.com
+*@airfountain.cfd
 *@ama-trade.de
 *@amilegit.com
 *@amiri.net
@@ -13740,6 +13742,7 @@
 *@lifebyfood.com
 *@link2mail.net
 *@litedrop.com
+*@livechatjobs.life
 *@lol.ovpn.to
 *@lolfreak.net
 *@lookugly.com
@@ -13869,6 +13872,7 @@
 *@owlpic.com
 *@pancakemail.com
 *@pcusers.otherinbox.com
+*@pianoforallpro.life
 *@pjjkp.com
 *@plexolan.de
 *@poczta.onet.pl
@@ -13925,6 +13929,7 @@
 *@sogetthis.com
 *@solvemail.info
 *@soodonims.com
+*@southwestairlinessurvey.life
 *@spam4.me
 *@spamail.de
 *@spamarrest.com
