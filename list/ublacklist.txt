@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2023-02-13 01:33:36
-# Total count: 14122
+# Version: 2023-02-20 01:33:07
+# Total count: 14116
 
 ! C&J Marketing
 ! Content Farm
@@ -1686,10 +1686,10 @@
 *://*.askraft.buzz/*
 *://*.asnn.cc/*
 *://*.asp.cx/*
+*://*.assignmenter.com/*
 *://*.asspunk.iteye.com/*
 *://*.assurancesmeilleur.buzz/*
 *://*.asylan.com/*
-*://*.athabasca-foto.com/*
 *://*.athletessolution.buzz/*
 *://*.atlanticecon.buzz/*
 *://*.atlanticpharmacyla.buzz/*
@@ -2448,7 +2448,6 @@
 *://*.code-adviser.com/*
 *://*.code-examples.net/*
 *://*.code.i-harness.com/*
-*://*.code2s.com/*
 *://*.codeantenna.com/*
 *://*.codebug.vip/*
 *://*.codeczz.com/*
@@ -2690,6 +2689,7 @@
 *://*.daimaqa.com/*
 *://*.daimazxw.com/*
 *://*.dainifei.info/*
+*://*.daixieessay.com/*
 *://*.daiyun787.cn/*
 *://*.daka111.cn/*
 *://*.dakashoutu.com/*
@@ -2950,6 +2950,7 @@
 *://*.dubaipga.buzz/*
 *://*.dublinpages.buzz/*
 *://*.duboot.com/*
+*://*.duewriting.com/*
 *://*.duhuimall.com/*
 *://*.duield.cn/*
 *://*.dumoba.com/*
@@ -2957,6 +2958,7 @@
 *://*.duobiji.com/*
 *://*.duonao.cc/*
 *://*.duosf.org.cn/*
+*://*.duotin.com/*
 *://*.duqingming.com/*
 *://*.durenzhe.com/*
 *://*.dushi0375.com/*
@@ -3024,6 +3026,7 @@
 *://*.eastmay.cn/*
 *://*.eastonhotel.cn/*
 *://*.eastwoodpaper.buzz/*
+*://*.eastwriting.com/*
 *://*.easyfootage.com/*
 *://*.easyrecoverychina.com/*
 *://*.eatash.com/*
@@ -6050,7 +6053,6 @@
 *://*.nsh8.cn/*
 *://*.nsyr3xc.cn/*
 *://*.ntbdvalve.com/*
-*://*.ntcdoon.org/*
 *://*.ntdtv.com//*
 *://*.ntfsformac.cc/*
 *://*.ntfsformac.cn/*
@@ -6072,6 +6074,7 @@
 *://*.nv4sat.cn/*
 *://*.nvohcio.cn/*
 *://*.nvotent.cn/*
+*://*.nweon.com/*
 *://*.nwuja.com/*
 *://*.nwzx.cc/*
 *://*.nxk3.com/*
@@ -6250,7 +6253,6 @@
 *://*.pai81.com/*
 *://*.paiguitar.com/*
 *://*.paihangtop.com/*
-*://*.pakostnici.com/*
 *://*.palicaishi.com/*
 *://*.pan.haoii123.com/*
 *://*.pan.yini.me/*
@@ -7224,10 +7226,12 @@
 *://*.shoubar.cn/*
 *://*.shoucangzx.com/*
 *://*.shoujifbb.com/*
+*://*.shoujishu.com/*
 *://*.shouldiremoveit.com/*
 *://*.shoulu6.com/*
 *://*.shoushu5551.cn/*
 *://*.show8d.com/*
+*://*.showmetech.com.br/*
 *://*.shrinktunnel.cn/*
 *://*.shrmwl.com/*
 *://*.shronghong.com/*
@@ -8159,6 +8163,7 @@
 *://*.v1cw96b.cn/*
 *://*.v28x0f0.cn/*
 *://*.v2athyh.cn/*
+*://*.v2ex.com/amp/*
 *://*.v4my0o4.cn/*
 *://*.v58ehd.cn/*
 *://*.v5v0.cn/*
@@ -8361,6 +8366,7 @@
 *://*.wangzhisai.com/*
 *://*.wanlansoft.cn/*
 *://*.wanniya.com/*
+*://*.wanshifu.com/*
 *://*.wantsad.com/*
 *://*.wanxi520.com/*
 *://*.wanzi163.com/*
@@ -8586,6 +8592,7 @@
 *://*.wopsgh.cn/*
 *://*.wordford.com/*
 *://*.wordpress.com/*
+*://*.workessay.com/*
 *://*.worldphim.com/*
 *://*.worldseries13.buzz/*
 *://*.worldtradeglobal.buzz/*
@@ -10155,7 +10162,6 @@
 *://cn.voidcc.com/*
 *://cn.wondershare.com/*
 *://cn846.com/*
-*://cndgn.com/*
 *://cnkth.liugushan.com/*
 *://cnls8.com/*
 *://cnzhx.net/*
@@ -10167,7 +10173,6 @@
 *://codehero.jp/*
 *://codejzy.com/*
 *://codeleading.com/*
-*://coder.gay/*
 *://coderoad.ru/*
 *://codertw.com/*
 *://codesti.com/*
@@ -10236,7 +10241,6 @@
 *://developercommunity.visualstudio.com/*
 *://developers.youzanyun.com/*
 *://developpaper.com/*
-*://devfixes.com/*
 *://dfuw.redandgold.de/*
 *://dgdkgs2.com/*
 *://dguun.com/*
@@ -10277,7 +10281,6 @@
 *://download.csdn.net/*
 *://dq.tieba.com/*
 *://dsj51.com/*
-*://dtuto.com/*
 *://duanku.pai-hang-bang.cn/*
 *://dun.163.com/*
 *://duonaolive.com/*
@@ -10322,7 +10325,6 @@
 *://eshuow.com/*
 *://esm.esspoc.cn/*
 *://essaymin.com/*
-*://etsoutdoors.com/*
 *://eu.fwbdl.com/*
 *://evelyn4ever.top/*
 *://events.laravel-dojo.com/*
@@ -10506,7 +10508,6 @@
 *://iskeke.com/*
 *://isolution.pro/*
 *://issueantenna.com/*
-*://issuecloser.com/*
 *://issuehint.com/*
 *://it.wenda123.org/*
 *://itbilu.com/*
@@ -10924,7 +10925,6 @@
 *://pythontechworld.com/*
 *://qa-stack.pl/*
 *://qa.1r1g.com/*
-*://qa.icopy.site/*
 *://qa.wujigu.com/*
 *://qastack.cn/*
 *://qastack.co.in/*
@@ -10942,7 +10942,6 @@
 *://qastack.net.bd/*
 *://qastack.ru/*
 *://qastack.vn/*
-*://qatop.pythonwood.com/*
 *://qayaboo.co/*
 *://qb.zuoyebang.com/*
 *://qcke.plameco-nett.de/*
@@ -11096,7 +11095,6 @@
 *://syntaxfix.com/*
 *://syshizhi.com/*
 *://t.codebug.vip/*
-*://tagsqa.com/*
 *://tangshijianfei.com/*
 *://tao.hooos.com/*
 *://taojinpu.cn/*
@@ -11160,8 +11158,6 @@
 *://twagoda.com/*
 *://twww.wahmbeckerheide.de/*
 *://ub4.com/*
-*://ubuntu.buildwebhost.com/*
-*://ubuntuaa.com/*
 *://ubuntubin.com/*
 *://ubuntuqa.com/*
 *://uiiiuiii.com/*
@@ -11200,7 +11196,6 @@
 *://w.andrewareoff.com/*
 *://w.caseinjp.com/*
 *://w37fhy.cn/*
-*://waldorf-am-see.org/*
 *://wangdoc.com/*
 *://wantubizhi.com/*
 *://wap.52pk.com/*
@@ -11268,7 +11263,6 @@
 *://wntzx.cn/*
 *://workit.cc/*
 *://world.taobao.com/*
-*://wp-qa.com/*
 *://wpjian.com/*
 *://wpjob.weixiaoduo.com/*
 *://wpsousuo.cn/*
@@ -11984,8 +11978,6 @@
 *://www.facebook.com/PinterestUK/
 *://www.fangfaku.net/*
 *://www.fanjinyan.com/*
-*://www.faqcode4u.com/*
-*://www.faqcodes.com/*
 *://www.fashiontrendcenters.com/*
 *://www.fast8.com/*
 *://www.fastchina.net/*
@@ -12056,7 +12048,6 @@
 *://www.getbackpacking365.com/*
 *://www.getit01.com/*
 *://www.ggzha.com/*
-*://www.ghcc.net/*
 *://www.ghost123.com/*
 *://www.ghzssj.com/*
 *://www.ginafiroa.co/*
@@ -12608,7 +12599,6 @@
 *://www.nrct.net/*
 *://www.nucleustechnologies.com/*
 *://www.nuget.org/*
-*://www.nuomiphp.com/*
 *://www.nxhh.net/*
 *://www.nxwyy.com/*
 *://www.nz998.com/*
@@ -12936,7 +12926,6 @@
 *://www.tfzx.net/*
 *://www.tgidrinks.com/*
 *://www.theatrelucdonat.re/*
-*://www.thecodeteacher.com/*
 *://www.thegoddessofbeauty562.com/*
 *://www.thepaper.cn/*
 *://www.thinbug.com/*
@@ -13519,7 +13508,7 @@
 *://zzyyo.com/*
 *@*.cf
 *@*.ga
-*@*.gq*@glucofortdiabetescares.life
+*@*.gq*@facebookmail.com
 *@*.ml
 *@*.tk
 *@0815.ru
@@ -13681,6 +13670,7 @@
 *@giantmail.de
 *@girlsundertheinfluence.com
 *@gishpuppy.com
+*@glucofortdiabetescares.life
 *@gmial.com
 *@goemailgo.com
 *@gotmail.net
@@ -13757,6 +13747,7 @@
 *@mail.coinex.com
 *@mail.mezimages.net
 *@mail.oscs1024.com
+*@mail.peertube.vip
 *@mail.zp.ua
 *@mail1a.de
 *@mail21.cc
@@ -13896,6 +13887,7 @@
 *@rmqkr.net
 *@royal.net
 *@rtrtr.com
+*@ryokowifirouter.monster
 *@s0ny.net
 *@safe-mail.net
 *@safersignup.de
@@ -13928,6 +13920,7 @@
 *@sofimail.com
 *@sogetthis.com
 *@solvemail.info
+*@sonusdiabetessecret.life
 *@soodonims.com
 *@southwestairlinessurvey.life
 *@spam4.me
@@ -14023,6 +14016,7 @@
 *@trashymail.com
 *@trialmail.de
 *@trillianpro.com
+*@twilio.com
 *@twinmail.de
 *@tyldd.com
 *@uggsrock.com
