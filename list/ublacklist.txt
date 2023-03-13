@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2023-03-06 01:34:32
-# Total count: 14119
+# Version: 2023-03-13 01:32:09
+# Total count: 14122
 
 ! C&J Marketing
 ! Content Farm
@@ -13507,6 +13507,7 @@
 *://zzpr0371.com/*
 *://zzyyo.com/*
 *@*.cf
+*@*.digital
 *@*.ga
 *@*.gq*@instahardtonic.life
 *@*.life
@@ -13657,6 +13658,7 @@
 *@filzmail.com
 *@fivemail.de
 *@fleckens.hu
+*@fortnitesurvey.digital
 *@fotostrana.ru
 *@frapmail.com
 *@friendlymail.co.uk
@@ -13699,6 +13701,7 @@
 *@hidemail.de
 *@hidzz.com
 *@hmamail.com
+*@homedepotsurvey.digital
 *@hopemail.biz
 *@ieh-mail.de
 *@ikbenspamvrij.nl
