@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2023-03-13 01:32:09
-# Total count: 14122
+# Version: 2023-03-20 01:32:09
+# Total count: 14129
 
 ! C&J Marketing
 ! Content Farm
@@ -218,6 +218,7 @@
 *://*.109912.com/*
 *://*.10fbbs.com/*
 *://*.10hrz79.cn/*
+*://*.10jqka.com.cn/*
 *://*.10kedou.com/*
 *://*.10p18o.cn/*
 *://*.10tsdg4.cn/*
@@ -2901,6 +2902,7 @@
 *://*.dormgoodies.buzz/*
 *://*.doufuuii.com/*
 *://*.dounaite.com/*
+*://*.douyin.com/zhuanti/*
 *://*.douyinluansha.cn/*
 *://*.dovov.com/*
 *://*.down.tech.sina.com.cn/*
@@ -3386,6 +3388,7 @@
 *://*.folkculturebh.org/*
 *://*.folkstalk.com/*
 *://*.folxchina.cn/*
+*://*.fonedog.com/*
 *://*.fonelab.com/*
 *://*.fonepaw.com/*
 *://*.food-week.ru/*
@@ -3864,6 +3867,7 @@
 *://*.gzhecha.com/*
 *://*.gzhlqy.com/*
 *://*.gzhsqs.com/*
+*://*.gzhttp.com/*
 *://*.gzhysh.com/*
 *://*.gzjtxf666.com/*
 *://*.gzjyhzx.com/*
@@ -6639,6 +6643,7 @@
 *://*.qingshi8.cn/*
 *://*.qingyunl.com/*
 *://*.qinianqing.com/*
+*://*.qiniu.com/qfans/*
 *://*.qiongbaba.net/*
 *://*.qiongwengc.cn/*
 *://*.qipaiyizi.easywin666.com/*
@@ -7764,6 +7769,7 @@
 *://*.tenglangvpn.com/*
 *://*.tengxinzs.com/*
 *://*.tenjiao.net/*
+*://*.tenorshare.cn/*
 *://*.tenorshare.com/*
 *://*.termicasolar.net/*
 *://*.test.jwxlschool.com/*
@@ -8303,6 +8309,7 @@
 *://*.vqtddz.cn/*
 *://*.vsb08zc.cn/*
 *://*.vsbuys.com/*
+*://*.vsdiffer.com/*
 *://*.vsgood.com/*
 *://*.vshare.com/*
 *://*.vsimpower.com/*
