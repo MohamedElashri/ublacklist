@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2023-04-10 01:31:05
-# Total count: 14129
+# Version: 2023-04-17 01:31:14
+# Total count: 14135
 
 ! C&J Marketing
 ! Content Farm
@@ -1530,6 +1530,7 @@
 *://*.amww.cc/*
 *://*.amyspastasauce.com/*
 *://*.amzalborz.com/*
+*://*.an1.com/*
 *://*.an700.com/*
 *://*.analplug.cn/*
 *://*.ancestryworldtree.buzz/*
@@ -1598,6 +1599,7 @@
 *://*.apkcombo.com/*
 *://*.apkcor.com/*
 *://*.apkcrusher.com/*
+*://*.apkcunk.com/*
 *://*.apkdone.com/*
 *://*.apkfolks.com/*
 *://*.apkfun.com/*
@@ -1607,6 +1609,8 @@
 *://*.apkgk.com/*
 *://*.apkhr.com/*
 *://*.apkkite.com/*
+*://*.apkloli.com/*
+*://*.apkmirror.com/*
 *://*.apkmodhere.com/*
 *://*.apkmodo.net/*
 *://*.apkmody.com/*
@@ -2444,6 +2448,7 @@
 *://*.cnvhair.com/*
 *://*.cnxiangyan.com/*
 *://*.cocgemsgenerator.com/*
+*://*.cocmodapk.download/*
 *://*.cocservers.net/*
 *://*.coddagn.cn/*
 *://*.code-adviser.com/*
@@ -4767,6 +4772,7 @@
 *://*.joanne-kelly.com/*
 *://*.job00531.cn/*
 *://*.job929.com/*
+*://*.jobbharti.net/*
 *://*.jobdlrp.cn/*
 *://*.jobs99.cn/*
 *://*.jobtagtw.com/*
