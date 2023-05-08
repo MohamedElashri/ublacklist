@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2023-05-01 01:31:34
-# Total count: 14135
+# Version: 2023-05-08 01:31:48
+# Total count: 14140
 
 ! C&J Marketing
 ! Content Farm
@@ -784,6 +784,7 @@
 *://*.51cto.com/topic/*
 *://*.51gole.com/*
 *://*.51huanzu.com/*
+*://*.51offer.com/*
 *://*.51p1.com/*
 *://*.51qkk.com/*
 *://*.51shuibao.cn/*
@@ -1429,6 +1430,7 @@
 *://*.ahyunshan.com/*
 *://*.aichi-kasugai.buzz/*
 *://*.aier0917.com/*
+*://*.aifengbei.com/*
 *://*.aiguojx.cn/*
 *://*.aihejin.com/*
 *://*.aijda3.me/*
@@ -7217,6 +7219,7 @@
 *://*.shiai4444.com/*
 *://*.shichenghb.com/*
 *://*.shiftdell.com/*
+*://*.shihuishuo.com/*
 *://*.shijiaxiang.cn/*
 *://*.shikin-support.buzz/*
 *://*.shimaozs.com/*
@@ -8298,6 +8301,7 @@
 *://*.vo656yq.cn/*
 *://*.voidcc.com/*
 *://*.voidcn.com/*
+*://*.volcengine.com/theme/*
 *://*.volprixreduit.buzz/*
 *://*.volvootofinans.com/*
 *://*.voorp.com/*
@@ -14121,6 +14125,7 @@
 /falundafa\.+/
 /it-swarm.*/
 /m\.[\w]{5,6}\.[\w]{6,7}\.(?:site|vip).*/
+@*://*.aws.amazon.com/*
 @*://*.tspweb.com/*
 https://huifu.wondershare.cn/repair/*
 or
