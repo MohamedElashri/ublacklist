@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2023-05-08 01:31:48
-# Total count: 14140
+# Version: 2023-05-15 01:31:51
+# Total count: 14150
 
 ! C&J Marketing
 ! Content Farm
@@ -4133,6 +4133,7 @@
 *://*.hmyds.com/*
 *://*.hmyecrk.cn/*
 *://*.hnajbcj.cn/*
+*://*.hnce.org/*
 *://*.hndongda.com/*
 *://*.hnebook.com/*
 *://*.hnfangkeyi.com/*
@@ -4850,6 +4851,7 @@
 *://*.judongneng.com/*
 *://*.juejin.cn/s/*
 *://*.jueshi.in/*
+*://*.jugomobile.com/*
 *://*.juhebbs.com/*
 *://*.juhu123.com/*
 *://*.jujia9.com/*
@@ -7236,6 +7238,7 @@
 *://*.shopbn.cn/*
 *://*.shopee.com.my/*
 *://*.shopvil.com/*
+*://*.shopwtn.com/*
 *://*.shosjj.com/*
 *://*.shoubar.cn/*
 *://*.shoucangzx.com/*
@@ -7931,6 +7934,7 @@
 *://*.touchtapplay.com/*
 *://*.toudijia.com/*
 *://*.tousu.in/*
+*://*.toutiao.com/keyword/*
 *://*.toutiao.com/search/*
 *://*.toutiao.com/search?keyword=*
 *://*.toutiao.io/*
@@ -13697,6 +13701,7 @@
 *@gotmail.net
 *@gotmail.org
 *@gotti.otherinbox.com
+*@grabo.bg
 *@great-host.in
 *@greensloth.com
 *@grr.la
@@ -13720,6 +13725,7 @@
 *@hmamail.com
 *@homedepotsurvey.digital
 *@hopemail.biz
+*@hs-bremerhaven.de
 *@ieh-mail.de
 *@ikbenspamvrij.nl
 *@imails.info
@@ -13845,6 +13851,7 @@
 *@mytempmail.com
 *@mytrashmail.com
 *@nabuma.com
+*@necrophiliaporn.top
 *@neomailbox.com
 *@nepwk.com
 *@nervmich.net
@@ -13891,6 +13898,7 @@
 *@politikerclub.de
 *@poofy.org
 *@pookmail.com
+*@primeraescuela.com
 *@privacy.net
 *@privatdemail.net
 *@proxymail.eu
@@ -13898,6 +13906,7 @@
 *@putthisinyourspamdatabase.com
 *@qq.com
 *@quickinbox.com
+*@raajje.mv
 *@rcpt.at
 *@reallymymail.com
 *@realtyalerts.ca
@@ -14126,6 +14135,7 @@
 /it-swarm.*/
 /m\.[\w]{5,6}\.[\w]{6,7}\.(?:site|vip).*/
 @*://*.aws.amazon.com/*
+@*://*.joyk.com/*
 @*://*.tspweb.com/*
 https://huifu.wondershare.cn/repair/*
 or
