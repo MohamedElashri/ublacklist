@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2023-05-15 01:31:51
-# Total count: 14150
+# Version: 2023-05-22 01:32:46
+# Total count: 14188
 
 ! C&J Marketing
 ! Content Farm
@@ -194,6 +194,7 @@
 *://*.0w9jvg6.cn/*
 *://*.0xjdhj.cn/*
 *://*.0y4peu.cn/*
+*://*.1-thepiratebay.org/*
 *://*.1000lily.com/*
 *://*.1001yx.com/*
 *://*.1004usa.buzz/*
@@ -258,6 +259,10 @@
 *://*.1314108.com/*
 *://*.1333336.com/*
 *://*.1333337.com/*
+*://*.1337x.pages.dev/*
+*://*.1337x.sbs/*
+*://*.1337x.tw/*
+*://*.1337xxx.to/*
 *://*.1344q2x.cn/*
 *://*.136hh.com/*
 *://*.1377003.com/*
@@ -2891,6 +2896,9 @@
 *://*.docgord.buzz/*
 *://*.docteur-joseph.buzz/*
 *://*.docway.net/*
+*://*.dodi-repacks-site.org/*
+*://*.dodi-repacks.download/*
+*://*.dodirepacks.com/*
 *://*.dodsonfineart.buzz/*
 *://*.dofe.com.cn/*
 *://*.dolchul.buzz/*
@@ -3347,6 +3355,13 @@
 *://*.fish996.com/*
 *://*.fishdes.buzz/*
 *://*.fishdm.com/*
+*://*.fitgirl-repack.com/*
+*://*.fitgirl-repacks-site.org/*
+*://*.fitgirl-repacks.cc/*
+*://*.fitgirl-repacks.proxy2link.com/*
+*://*.fitgirl-repacks.vip/*
+*://*.fitgirl-repacks.website/*
+*://*.fitgirlrepacks.co/*
 *://*.fitid.buzz/*
 *://*.fitzfirst.buzz/*
 *://*.fivecoloursearth.buzz/*
@@ -5427,6 +5442,7 @@
 *://*.lucky8vip.com/*
 *://*.luckybai.com/*
 *://*.luckyfourleafclover.buzz/*
+*://*.luckypatchers.net/*
 *://*.lucobelt.com/*
 *://*.luetgebrune.buzz/*
 *://*.luguang.net.cn/*
@@ -6377,6 +6393,8 @@
 *://*.pinzuowang.com/*
 *://*.pipecraft.net/*
 *://*.piqiuda.com/*
+*://*.pirateproxy-bay.com/*
+*://*.pirateproxy.space/*
 *://*.pitalitobicentenario.com/*
 *://*.pitlochrygolfclub.buzz/*
 *://*.piwnb1x.cn/*
@@ -6485,6 +6503,7 @@
 *://*.proteome.cn/*
 *://*.protoolscrack.net/*
 *://*.proxxoo.com/*
+*://*.proxyrarbg.org/*
 *://*.prtfp35.cn/*
 *://*.psawis.com/*
 *://*.psb-hamburg.buzz/*
@@ -6816,6 +6835,11 @@
 *://*.raisu-engineering.buzz/*
 *://*.ran2000.buzz/*
 *://*.ranjgzo.cn/*
+*://*.rarbg.live/*
+*://*.rarbg.so/*
+*://*.rarbg2023.org/*
+*://*.rarbggo.to/*
+*://*.rarbgmirror.org/*
 *://*.rate-movie.com/*
 *://*.raven-industries.buzz/*
 *://*.raysch.com/*
@@ -6962,6 +6986,7 @@
 *://*.rtxmail.net/*
 *://*.rtz8.cn/*
 *://*.rtzt114.cn/*
+*://*.ru-tracker.org/*
 *://*.rubberflooring-gsa.buzz/*
 *://*.rubberflooringgsa.buzz/*
 *://*.ruigejgj.cn/*
@@ -6974,6 +6999,8 @@
 *://*.ruoxirihua.com/*
 *://*.rurqckv.cn/*
 *://*.rushouxw.com/*
+*://*.rutracker.guide/*
+*://*.rutracker.wiki/*
 *://*.rutrut.eu/*
 *://*.rvhvc27.cn/*
 *://*.rvnqxwk.cn/*
@@ -7810,6 +7837,15 @@
 *://*.themortgagebeyondnetwork.com/*
 *://*.theogreiner.buzz/*
 *://*.thepenguinsquad.buzz/*
+*://*.thepiratebay-us.org/*
+*://*.thepiratebay.cx/*
+*://*.thepiratebay1.to/*
+*://*.thepiratebay2.to/*
+*://*.thepiratebays.com/*
+*://*.thepiratebays.us/*
+*://*.thepirateproxies.org/*
+*://*.thepirates-bay.org/*
+*://*.thepìratebay.com/*
 *://*.therapist-list.buzz/*
 *://*.thermtecuk.buzz/*
 *://*.theshakerinn.buzz/*
@@ -7942,6 +7978,8 @@
 *://*.touyinghome.com/*
 *://*.toyif.cn/*
 *://*.toys007.com/*
+*://*.tpbaysproxy.com/*
+*://*.tpbproxypirate.com/*
 *://*.tpgimgm.cn/*
 *://*.tphqahr.cn/*
 *://*.tpiorg.com/*
