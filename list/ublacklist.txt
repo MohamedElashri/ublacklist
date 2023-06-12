@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2023-06-05 01:33:49
-# Total count: 14188
+# Version: 2023-06-12 01:33:00
+# Total count: 14189
 
 ! C&J Marketing
 ! Content Farm
@@ -8190,6 +8190,7 @@
 *://*.usbmaker.cn/*
 *://*.uscityline.buzz/*
 *://*.used-cnc-locator.buzz/*
+*://*.userbenchmark.com/*
 *://*.userserver.cn/*
 *://*.usevoucher.co.uk/*
 *://*.usloannet.buzz/*
