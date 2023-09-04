@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2023-08-28 01:25:13
-# Total count: 14210
+# Version: 2023-09-04 01:25:41
+# Total count: 14250
 
 ! C&J Marketing
 ! Content Farm
@@ -1639,7 +1639,6 @@
 *://*.app-good.com/*
 *://*.app.3987.com/*
 *://*.appike.com/*
-*://*.apple.com/(*bid429047995*)
 *://*.appleroses.buzz/*
 *://*.applerp.cn/*
 *://*.appleseedconsulting.buzz/*
@@ -5636,7 +5635,6 @@
 *://*.mediatagtw.com/*
 *://*.medistaryn.com/*
 *://*.medium.com/*
-*://*.medium.com/@Pinterest_Engineering
 *://*.medmalrx.com/*
 *://*.meetthebookworld.com/*
 *://*.mefdjl.cn/*
@@ -6390,14 +6388,62 @@
 *://*.picis.cn/*
 *://*.pigfun.cn/*
 *://*.piletoys.cn/*
+*://*.pin.it/*
+*://*.pinimg.com/*
 *://*.pinkiyy.com/*
 *://*.pinkypink.org/*
 *://*.pinonplaza.buzz/*
 *://*.pinpaici.com/*
 *://*.pintech.net.cn/*
+*://*.pinterest.at/*
+*://*.pinterest.be/*
+*://*.pinterest.ca/*
+*://*.pinterest.ch/*
+*://*.pinterest.cl/*
+*://*.pinterest.co.at/*
+*://*.pinterest.co.in/*
 *://*.pinterest.co.kr/*
+*://*.pinterest.co.nz/*
+*://*.pinterest.co.uk/*
+*://*.pinterest.co/*
+*://*.pinterest.com.au/*
+*://*.pinterest.com.bo/*
+*://*.pinterest.com.ec/*
+*://*.pinterest.com.mx/*
+*://*.pinterest.com.pe/*
+*://*.pinterest.com.py/*
+*://*.pinterest.com.uy/*
+*://*.pinterest.com.vn/*
 *://*.pinterest.com/*
+*://*.pinterest.de/*
+*://*.pinterest.dk/*
+*://*.pinterest.ec/*
+*://*.pinterest.es/*
+*://*.pinterest.fr/*
+*://*.pinterest.hu/*
+*://*.pinterest.id/*
+*://*.pinterest.ie/*
+*://*.pinterest.in/*
+*://*.pinterest.info/*
+*://*.pinterest.it/*
+*://*.pinterest.jp/*
+*://*.pinterest.kr/*
+*://*.pinterest.mx/*
+*://*.pinterest.nl/*
+*://*.pinterest.nz/*
+*://*.pinterest.pe/*
+*://*.pinterest.ph/*
+*://*.pinterest.pt/*
+*://*.pinterest.ru/*
+*://*.pinterest.se/*
+*://*.pinterest.th/*
+*://*.pinterest.tw/*
+*://*.pinterest.uk/*
+*://*.pinterest.vn/*
+*://*.pinterst.com/*
 *://*.pintformation.com/*
+*://*.pintrest.com/*
+*://*.pintrist.com/*
 *://*.pinxia.cc/*
 *://*.pinzuowang.com/*
 *://*.pipecraft.net/*
@@ -6876,7 +6922,6 @@
 *://*.rebatesu.com/*
 *://*.recalll.co/*
 *://*.rechigroup.com/*
-*://*.reddit.com/r/Pinterest/
 *://*.redeszone.net/*
 *://*.redian.news/*
 *://*.redspicks.buzz/*
@@ -10049,7 +10094,6 @@
 *://app.yipee.cc/*
 *://app.youfa.coms.hk/*
 *://app.zol.com.cn/*
-*://apps.microsoft.com/store/detail/9PFHDSF91B9R*
 *://archive.80zx.com/*
 *://artez.org.cn/*
 *://article.docway.net/*
@@ -10571,7 +10615,6 @@
 *://indasoftware.com/*
 *://inf.news/*
 *://inkworker.com/*
-*://instagram.com/pinterest/
 *://instagram.iiilab.com/*
 *://intellipaat.com/*
 *://intercompras.com/*
@@ -10969,7 +11012,6 @@
 *://pic.sogou.com/pic/searchList.jsp?*
 *://pinasy.com/*
 *://pjcq8.com/*
-*://play.google.com/store/apps/details?id=com.pinterest*
 *://playdemic.helpshift.com/*
 *://polaxiong.com/*
 *://pop0726.github.io/*
@@ -12056,7 +12098,6 @@
 *://www.f5nunu.co/*
 *://www.f773.com/*
 *://www.facebook.com/*
-*://www.facebook.com/PinterestUK/
 *://www.fangfaku.net/*
 *://www.fanjinyan.com/*
 *://www.fashiontrendcenters.com/*
@@ -14213,4 +14254,3 @@ title/.*有限公司官网/
 title/小.(百科|知识)网/
 zwakiza05@gmail.com
 404: Not Found*://*/so.php
-404: Not Found404: Not Found/.pinterest\.*/
