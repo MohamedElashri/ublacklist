@@ -2,7 +2,7 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2023-09-04 01:25:41
+# Version: 2023-09-11 01:25:53
 # Total count: 14250
 
 ! C&J Marketing
@@ -14253,4 +14253,4 @@ title/.*【点击一次就可以出国】/
 title/.*有限公司官网/
 title/小.(百科|知识)网/
 zwakiza05@gmail.com
-404: Not Found*://*/so.php
+404: Not Found*://dosc.mccn.fun/*
