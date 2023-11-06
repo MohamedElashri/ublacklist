@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2023-10-30 01:26:27
-# Total count: 12052
+# Version: 2023-11-06 01:28:11
+# Total count: 12064
 
 ! C&J Marketing
 ! Content Farm
@@ -1464,6 +1464,7 @@
 *://*.atsit.in/*
 *://*.attentionone.buzz/*
 *://*.attjp4.cn/*
+*://*.atwebpages.com/*
 *://*.atziv3.cn/*
 *://*.aufzug-roesler.buzz/*
 *://*.aunn.cc/*
@@ -1733,6 +1734,7 @@
 *://*.blybx.com/*
 *://*.bm0766.com/*
 *://*.bmfnib.cn/*
+*://*.bmhysw.com/*
 *://*.bmnn.cc/*
 *://*.bmq8.com/*
 *://*.bmw8830.com/*
@@ -2365,6 +2367,7 @@
 *://*.ddxy0790.com/*
 *://*.de-babywinkel.buzz/*
 *://*.dealabs.com/*
+*://*.dealmoon.co.uk/top/*
 *://*.dealproduct.cn/*
 *://*.debian8.com/*
 *://*.decouhome.com/*
@@ -2739,6 +2742,7 @@
 *://*.exotips.com/*
 *://*.experts-exchange.com/*
 *://*.express.co.uk/*
+*://*.extrabux.com/*
 *://*.extreme-mac.buzz/*
 *://*.eyewated.com/*
 *://*.eyuth.com/*
@@ -3162,6 +3166,7 @@
 *://*.globalpharmagrupocofares.buzz/*
 *://*.glqhdz.cn/*
 *://*.glqxga.com/*
+*://*.glxyjqx.com/*
 *://*.glynook.cn/*
 *://*.glzbxs.com/*
 *://*.gm0j5xn.cn/*
@@ -3885,6 +3890,7 @@
 *://*.it4nextgen.com/*
 *://*.it5120.com/*
 *://*.italgrip.buzz/*
+*://*.itamtech.com/catalogsearch/*
 *://*.itaotaotao.com/*
 *://*.itcentralstation.com/*
 *://*.itchosun.buzz/*
@@ -4048,6 +4054,7 @@
 *://*.jinxw.cn/*
 *://*.jiotzpg.cn/*
 *://*.jipai.cc/*
+*://*.jiqiren999.com/*
 *://*.jirouxx.com/*
 *://*.jishuabao.com/*
 *://*.jishuwen.com/*
@@ -4184,6 +4191,7 @@
 *://*.jushengseo.com/*
 *://*.justinjeffrey.com/*
 *://*.juwymg.cn/*
+*://*.juyifx.cn/*
 *://*.juzhekooo.com/*
 *://*.jvagf.cn/*
 *://*.jvhzq9c.cn/*
@@ -4699,6 +4707,7 @@
 *://*.lutonjixie.com/*
 *://*.luxifeier.com/*
 *://*.luxuewang.com/*
+*://*.luyouqi.com/*
 *://*.lvhuagc.com/*
 *://*.lvtu78.com/*
 *://*.lvyoucloud.com/*
@@ -7073,6 +7082,7 @@
 *://*.vddr.cc/*
 *://*.vdohuwai.com/*
 *://*.vdto.cc/*
+*://*.vectormagic.com/*
 *://*.vegaschina.cn/*
 *://*.vemate.com/*
 *://*.veqwwe.cn/*
@@ -7756,6 +7766,7 @@
 *://*.xygoogou.com/*
 *://*.xygxhm.com/*
 *://*.xyj2006.com/*
+*://*.xyjqxi.com/*
 *://*.xykjsqg.com/*
 *://*.xypcxl.com/*
 *://*.xysdjz.com/*
@@ -9154,6 +9165,7 @@
 *://myservice.joannawoodartist.com/*
 *://n.znds.com/*
 *://nadc.china-vo.org/*
+*://nani.baidu.com/*
 *://nbatqn.com/*
 *://ne0matrix.com/*
 *://neatlifecoco.com/*
