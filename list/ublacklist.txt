@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2024-03-01 01:25:21
-# Total count: 12086
+# Version: 2024-04-01 01:26:18
+# Total count: 12104
 
 ! C&J Marketing
 ! Content Farm
@@ -1217,6 +1217,7 @@
 *://*.adlerseeds.buzz/*
 *://*.admin8844.cn/*
 *://*.adobeforum.buzz/*
+*://*.adoncn.com/*
 *://*.adsourceone.buzz/*
 *://*.adui5.cn/*
 *://*.adultbets.buzz/*
@@ -1385,6 +1386,7 @@
 *://*.anydeskchina.cn/*
 *://*.anysearch.cc/*
 *://*.anysm.cn/*
+*://*.anyviewer.com/*
 *://*.aodumm.cn/*
 *://*.aoeset.cn/*
 *://*.aorta-ad.cn/*
@@ -1953,6 +1955,7 @@
 *://*.cerist.dz/*
 *://*.cesdnet.com/*
 *://*.cetturismo.cl/*
+*://*.ceyicm.cn/*
 *://*.cf628.com/*
 *://*.cf6h0hw.cn/*
 *://*.cfe-eutax.buzz/*
@@ -2313,6 +2316,7 @@
 *://*.dafn.cc/*
 *://*.dafuhua.com/*
 *://*.dafx.cc/*
+*://*.daimafans.com/*
 *://*.daimajiaoliu.com/*
 *://*.daimaqa.com/*
 *://*.daimazxw.com/*
@@ -2802,6 +2806,7 @@
 *://*.fantasy-gifts.buzz/*
 *://*.fanzhitech.com/*
 *://*.fastenerinventories.buzz/*
+*://*.fastestvpn.com/*
 *://*.fatnvc.cn/*
 *://*.fazhiyanjiu.cn/*
 *://*.fb99778.com/*
@@ -3860,6 +3865,7 @@
 *://*.infinite-visions.buzz/*
 *://*.infonerve.com/*
 *://*.informatique-mania.com/*
+*://*.informer.com/*
 *://*.inkworker.com/*
 *://*.inndulgehotel.buzz/*
 *://*.innerloop-prod.buzz/*
@@ -4140,6 +4146,7 @@
 *://*.jouhom.com/*
 *://*.joy-life.cn/*
 *://*.joyfulcelebrationsinc.buzz/*
+*://*.joyoshare.com/*
 *://*.jp62.cn/*
 *://*.jpdwj.com/*
 *://*.jphlw.com/*
@@ -4585,6 +4592,7 @@
 *://*.linhwaa.com/*
 *://*.link4399.cn/*
 *://*.linksou.cc/*
+*://*.linuxpack.net/*
 *://*.linuxprobe.com/*
 *://*.linyuanfs.com/*
 *://*.liqijmg.com/*
@@ -4858,6 +4866,7 @@
 *://*.medmalrx.com/*
 *://*.meetthebookworld.com/*
 *://*.mefdjl.cn/*
+*://*.mefj.com.cn/*
 *://*.megavolt67.ru/*
 *://*.mehanltd.buzz/*
 *://*.meiao168.com/*
@@ -4950,6 +4959,7 @@
 *://*.mnbhyna.cn/*
 *://*.mnkan.com/*
 *://*.mnsf.net/*
+*://*.mnxcc.com/*
 *://*.mnykexv.cn/*
 *://*.mo-dmp.buzz/*
 *://*.mo08.biz/*
@@ -6133,6 +6143,7 @@
 *://*.saasworthy.com/*
 *://*.sab-riga.buzz/*
 *://*.sad21.cn/*
+*://*.safetydetectives.com/*
 *://*.safetyks.com/*
 *://*.safx.cc/*
 *://*.sailintyre.com/*
@@ -6157,6 +6168,7 @@
 *://*.sanxingduii.com/*
 *://*.sanzda.com/*
 *://*.saoweb.cn/*
+*://*.saoyu.com/*
 *://*.sartoriamoderna.com/*
 *://*.sas0cqp.cn/*
 *://*.sat-more.buzz/*
@@ -6317,6 +6329,7 @@
 *://*.shosjj.com/*
 *://*.shoubar.cn/*
 *://*.shoucangzx.com/*
+*://*.shoujide.com/*
 *://*.shoujifbb.com/*
 *://*.shoujishu.com/*
 *://*.shouldiremoveit.com/*
@@ -6728,6 +6741,7 @@
 *://*.techpout.com/*
 *://*.techresearchonline.com/*
 *://*.techspot.com/*
+*://*.techtarget.com/*
 *://*.techtudo.com.br/*
 *://*.tedabg.com/*
 *://*.tee-verkauf.buzz/*
@@ -6863,6 +6877,7 @@
 *://*.top0718.com/*
 *://*.topbestalternatives.com/*
 *://*.toplawfirm.cn/*
+*://*.topvpnguides.com/*
 *://*.topwoody.buzz/*
 *://*.toqjngk.cn/*
 *://*.toriphile.buzz/*
@@ -7015,6 +7030,7 @@
 *://*.uk.com/*
 *://*.ukbu5pa.cn/*
 *://*.ukp76oa.cn/*
+*://*.ukplanking.com/*
 *://*.ulidc.com/*
 *://*.ulkhmiim.cn/*
 *://*.ultimate-communications.com/*
@@ -7223,6 +7239,7 @@
 *://*.wall-designers.buzz/*
 *://*.wallmama.com/*
 *://*.wallstechnology.buzz/*
+*://*.wallvpn.com/*
 *://*.wallzhihu.com/*
 *://*.walterwolf2.cn/*
 *://*.waltrip-enterprises.buzz/*
@@ -7764,6 +7781,7 @@
 *://*.xujianhong.com/*
 *://*.xujun.org/*
 *://*.xumanshu.com/*
+*://*.xunihao.org/*
 *://*.xunlongyb.com/*
 *://*.xuwmmlh.cn/*
 *://*.xvcoc.com/*
