@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2024-05-01 01:27:02
-# Total count: 10130
+# Version: 2024-06-01 01:27:28
+# Total count: 10142
 
 ! C&J Marketing
 ! Content Farm
@@ -1082,6 +1082,7 @@
 *://*.95eo.com/*
 *://*.971700.com/*
 *://*.973web.buzz/*
+*://*.97444.cn/*
 *://*.975hus.cn/*
 *://*.97hs.com/*
 *://*.97oxford.buzz/*
@@ -1522,6 +1523,7 @@
 *://*.badosi.com/*
 *://*.baibeisc.com/*
 *://*.baicaisd.com/*
+*://*.baidu.com/*
 *://*.baidu.com/s?word=*
 *://*.baifusy.com/*
 *://*.baike6.com/*
@@ -2499,6 +2501,7 @@
 *://*.dongmansoft.com/*
 *://*.dongtaiwang.com/*
 *://*.dormgoodies.buzz/*
+*://*.doubao.com/*
 *://*.doufuuii.com/*
 *://*.dounaite.com/*
 *://*.douyin.com/search/*
@@ -2576,6 +2579,7 @@
 *://*.dywig.cn/*
 *://*.dyxszx.com/*
 *://*.dyzxjp.com/*
+*://*.dz-x.net/*
 *://*.dz2022.cn/*
 *://*.dz2wqy1.cn/*
 *://*.dz69.cn/*
@@ -2700,6 +2704,7 @@
 *://*.ensou.cc/*
 *://*.enww.cc/*
 *://*.eodkieldt.cn/*
+*://*.eolink.com/*
 *://*.eoncon.com/*
 *://*.epcrs1j.cn/*
 *://*.epochweekly.com/*
@@ -2750,6 +2755,7 @@
 *://*.ewhae.buzz/*
 *://*.ewihfuu.cn/*
 *://*.ewonm.cn/*
+*://*.example-a.com/*
 *://*.excamtest.cn/*
 *://*.exdctol.cn/*
 *://*.exhibitcoupon.com/*
@@ -3115,6 +3121,7 @@
 *://*.gebvrl0.cn/*
 *://*.geek-share.com/*
 *://*.geekbing.com/*
+*://*.geekerline.com/*
 *://*.gegoods.com/*
 *://*.gelanbao.cn/*
 *://*.gene-therapeutix.buzz/*
@@ -3845,6 +3852,7 @@
 *://*.ikz0wke.cn/*
 *://*.ilandrover.com/*
 *://*.ilike109.com/*
+*://*.ilovewechat.com/*
 *://*.ilueu.cn/*
 *://*.ilzhrmn.cn/*
 *://*.im1pxi.cn/*
@@ -4148,6 +4156,7 @@
 *://*.jouhom.com/*
 *://*.joy-life.cn/*
 *://*.joyfulcelebrationsinc.buzz/*
+*://*.joyk.com/*
 *://*.joyoshare.com/*
 *://*.jp62.cn/*
 *://*.jpdwj.com/*
@@ -4503,6 +4512,7 @@
 *://*.lct1688.com/*
 *://*.lcvjet.buzz/*
 *://*.lcyama.com/*
+*://*.lcydcp.com/*
 *://*.lcz888.com/*
 *://*.ld969.com/*
 *://*.ldc0.com/*
@@ -5523,7 +5533,7 @@
 *://*.picis.cn/*
 *://*.piletoys.cn/*
 *://*.pin.it/*
-*://*.pinimg.com/*
+*://*.pinimg.com/**://*.yelp.com/*
 *://*.pinkiyy.com/*
 *://*.pinkypink.org/*
 *://*.pinonplaza.buzz/*
@@ -6299,6 +6309,7 @@
 *://*.shengyis.com/*
 *://*.shenkehan.com/*
 *://*.shenlisy.com/*
+*://*.shenlongbbs.com/*
 *://*.shenmedaquan.com/*
 *://*.shenmedouyou.xyz/*
 *://*.shenyun.com/*
@@ -7060,6 +7071,7 @@
 *://*.uptodown.com/*
 *://*.upucan.com/*
 *://*.upweibo.com/*
+*://*.upx8.com/*
 *://*.upyyagsl.cn/*
 *://*.urgnkky.cn/*
 *://*.urontz.com/*
@@ -7379,6 +7391,7 @@
 *://*.whynnn.com/*
 *://*.whytcf.com/*
 *://*.whyzbr.com/*
+*://*.widede.com/*
 *://*.wihvf3.cn/*
 *://*.wiilgz.com/*
 *://*.wiixin.com/*
@@ -7907,7 +7920,6 @@
 *://*.yelp.com.tr/*
 *://*.yelp.com.tw/*
 *://*.yelp.com.ua/*
-*://*.yelp.com/*
 *://*.yelp.hk/*
 *://*.yelp.in/*
 *://*.yelp.is/*
