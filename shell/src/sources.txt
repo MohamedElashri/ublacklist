@@ -4,9 +4,6 @@ https://raw.githubusercontent.com/rjaus/ublacklist-yelp/main/ublacklist-yelp.txt
 https://raw.githubusercontent.com/h-matsuo/uBlacklist-subscription-for-developer/master/list.txt
 https://raw.githubusercontent.com/wdmpa/content-farm-list/main/uBlacklist.txt
 https://raw.githubusercontent.com/wdmpa/content-farm-list/main/uBlacklist/spam.txt
-https://raw.githubusercontent.com/PRiMENON/uBlacklist/master/list.txt
-https://raw.githubusercontent.com/mtgq/ublacklist-subscription/main/uBlacklist.txt
-https://raw.githubusercontent.com/DivineEngine/uBlacklist/master/blacklist.txt
 https://raw.githubusercontent.com/arosh/ublacklist-stackoverflow-translation/master/uBlacklist.txt
 https://raw.githubusercontent.com/NotJustAHippo/ublacklist/main/sitestoblock.txt
 https://raw.githubusercontent.com/nonPointer/uBlacklist-Subscription/master/blacklist.txt
