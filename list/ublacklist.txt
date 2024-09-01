@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2024-08-02 18:32:02
-# Total count: 20015
+# Version: 2024-09-01 01:28:31
+# Total count: 20055
 
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
@@ -1279,6 +1279,7 @@
 *://*.adzna.com/*
 *://*.aeg6.com/*
 *://*.aereolink.com.br/*
+*://*.aeroscroll.com/*
 *://*.aes-chile.cl/*
 *://*.aesml.com/*
 *://*.aestheticartistrymd.com/*
@@ -1328,6 +1329,7 @@
 *://*.ai-ui.ai/*
 *://*.ai-wiz.art/*
 *://*.ai.google/*
+*://*.ai.nero.com/*
 *://*.ai016.com/*
 *://*.ai4prompts.com/*
 *://*.aiallure.com/*
@@ -1369,10 +1371,12 @@
 *://*.ailinshe.com/*
 *://*.aim-direct.buzz/*
 *://*.aimade.art/*
+*://*.aimakerslab.io/*
 *://*.aimeimm.cn/*
 *://*.aimi.fm/*
 *://*.aimizn.com/*
 *://*.aimodels.org/*
+*://*.aimojo.io/*
 *://*.aimojo.pro/*
 *://*.aimons.xyz/*
 *://*.aing.railpage.com.au/*
@@ -1380,6 +1384,7 @@
 *://*.ainude.ai/*
 *://*.ainude.porn/*
 *://*.aioli.ai/*
+*://*.aipassportphotos.com/*
 *://*.aipicasso.app/*
 *://*.aipicasso.studio.site/*
 *://*.aipictors.com/*
@@ -1433,6 +1438,7 @@
 *://*.akhbara24.news/*
 *://*.akson-masaz.pl/*
 *://*.aktemedizin.com/*
+*://*.akuma.ai/*
 *://*.akuum.org/*
 *://*.akzxwzp.cn/*
 *://*.al-muhaidib.buzz/*
@@ -1444,6 +1450,7 @@
 *://*.alaefu.com/*
 *://*.alarmsbusiness.buzz/*
 *://*.albertrelogistics.buzz/*
+*://*.aleatory.ai/*
 *://*.alecran.buzz/*
 *://*.alfamet.com.ve/*
 *://*.alhedayacentre.ca/*
@@ -1458,6 +1465,7 @@
 *://*.all-mod-for-minecraft.blogspot.com/*
 *://*.all-mods.ru/*
 *://*.allaboutclassiccars.buzz/*
+*://*.allabtai.com/*
 *://*.allalta.buzz/*
 *://*.alldayconsumer.buzz/*
 *://*.allergiker-urlaub.buzz/*
@@ -1533,6 +1541,7 @@
 *://*.anhuijuxin.com/*
 *://*.animalimmobilizer.buzz/*
 *://*.animeai.app/*
+*://*.animeart.studio/*
 *://*.animegenius.ai/*
 *://*.animemaker.ai/*
 *://*.aninoo.com/*
@@ -1596,6 +1605,7 @@
 *://*.appintro.ai/*
 *://*.apple.com/apple-intelligence/*
 *://*.apple.com/us/app/ai-art-generator-hitpaw/id6444304300/*
+*://*.apple.com/us/app/pixai-ai-anime-art-generator/id6474528911/*
 *://*.appleroses.buzz/*
 *://*.applerp.cn/*
 *://*.appleseedconsulting.buzz/*
@@ -5164,6 +5174,7 @@
 *://*.computertest.cn/*
 *://*.configrouter.com/*
 *://*.congga.cn/*
+*://*.conoha.jp/ai/canvas/*
 *://*.conservationcubclub.com/*
 *://*.console.sbs/*
 *://*.contactform.dev/*
@@ -5176,6 +5187,8 @@
 *://*.cooll.pp.ua/*
 *://*.coolpotcc.com/*
 *://*.coolpreschool.com/*
+*://*.copilot.github.com/*
+*://*.copilot.microsoft.com/*
 *://*.copoen.cn/*
 *://*.copyfuture.com/*
 *://*.copyprogramming.com/*
@@ -5194,6 +5207,7 @@
 *://*.couronet.buzz/*
 *://*.coursebox.ai/*
 *://*.covers.ai/*
+*://*.cozybrushery.com/*
 *://*.cp0369.com/*
 *://*.cp0753.com/*
 *://*.cp356.cn/*
@@ -5236,6 +5250,7 @@
 *://*.crawfordtech.com/*
 *://*.crawley-haskins.buzz/*
 *://*.crcharter.com/*
+*://*.cre8tiveai.com/*
 *://*.creaitor.ai/*
 *://*.createporn.com/*
 *://*.creativitywith.ai/*
@@ -5426,6 +5441,7 @@
 *://*.davidsonandrade.buzz/*
 *://*.davinciai.art/*
 *://*.davinciface.com/*
+*://*.davy.ai/*
 *://*.daxd.cc/*
 *://*.day2play.pl/*
 *://*.dayb.cc/*
@@ -5482,6 +5498,7 @@
 *://*.deepfakesporn.com/*
 *://*.deepfloyd.ai/*
 *://*.deepfucks.com/*
+*://*.deepgram.com/*
 *://*.deeplearning.ai/*
 *://*.deepmode.ai/*
 *://*.deepnude-ai.com/*
@@ -5594,6 +5611,7 @@
 *://*.digitalmuses.ai/*
 *://*.diguaax.com/*
 *://*.dingzhi6.com/*
+*://*.dinosaur.org/*
 *://*.diollarrentacar.buzz/*
 *://*.dioys.com/*
 *://*.dirask.com/*
@@ -5658,6 +5676,7 @@
 *://*.domainelespailles.net/*
 *://*.domihp.com/*
 *://*.dominicanhighschool.com/*
+*://*.domoai.app/*
 *://*.domy365.com/*
 *://*.domyshoot.com/*
 *://*.don-mar.buzz/*
@@ -6003,6 +6022,7 @@
 *://*.evdbus.com/*
 *://*.eventidigitali.buzz/*
 *://*.everand.com/*
+*://*.everart.ai/*
 *://*.evilmaple.cn/*
 *://*.evlas.ru/*
 *://*.evolutionary.art/*
@@ -6652,6 +6672,7 @@
 *://*.godgames.ru/*
 *://*.godluck.cn/*
 *://*.godofprompt.ai/*
+*://*.goenhance.ai/*
 *://*.gofind.ai/*
 *://*.gofood365.com/*
 *://*.gogogm.com/*
@@ -10537,6 +10558,7 @@
 *://*.kafan.cn/*
 *://*.kafx.cc/*
 *://*.kahma.io/*
+*://*.kaiber.ai/*
 *://*.kaifa.nlhjj.com/*
 *://*.kaifa99.com/*
 *://*.kaifull.cn/*
@@ -10911,6 +10933,7 @@
 *://*.lightrun.com/*
 *://*.lightrun.com/answers/*
 *://*.lightsources.cn/*
+*://*.lightxeditor.com/*
 *://*.lihengfur.com/*
 *://*.likebl.com/*
 *://*.likecs.com/*
@@ -11319,6 +11342,7 @@
 *://*.merit.com/*
 *://*.mesalon.cn/*
 *://*.meshow100.com/*
+*://*.meshy.ai/*
 *://*.meta.ai/*
 *://*.metaphysic.ai/*
 *://*.metaroids.com/*
@@ -12344,6 +12368,7 @@
 *://*.pephop.ai/*
 *://*.peppababy.com/*
 *://*.perchance.org/*
+*://*.perfectcorp.com/*
 *://*.perhu.com/*
 *://*.persarea.com/*
 *://*.personalcreatiions.buzz/*
@@ -12460,6 +12485,7 @@
 *://*.pintrist.com/*
 *://*.pinzuowang.com/*
 *://*.pipecraft.net/*
+*://*.pipio.ai/*
 *://*.piqiuda.com/*
 *://*.pirotecniarecreativa.com/*
 *://*.pitlochrygolfclub.buzz/*
@@ -12659,6 +12685,7 @@
 *://*.prolitec.com/*
 *://*.promar1.buzz/*
 *://*.promeai.com/*
+*://*.promeai.pro/*
 *://*.promoworksnow.buzz/*
 *://*.prompt.quel.jp/*
 *://*.promptbase.com/*
@@ -14374,6 +14401,7 @@
 *://*.reddit.com/r/aivideo/*
 *://*.reddit.com/r/aiwars/*
 *://*.reddit.com/r/bard/*
+*://*.reddit.com/r/bigsleep/*
 *://*.reddit.com/r/civitai/*
 *://*.reddit.com/r/dalle2/*
 *://*.reddit.com/r/deepdream/*
@@ -14388,6 +14416,7 @@
 *://*.reddit.com/r/modpiracy4/*
 *://*.reddit.com/r/nightcafe/*
 *://*.reddit.com/r/nonutsnightmare/*
+*://*.reddit.com/r/promptsideas/*
 *://*.reddit.com/r/riffusion/*
 *://*.reddit.com/r/sdforall/*
 *://*.reddit.com/r/sexbotlovers/*
@@ -14402,6 +14431,7 @@
 *://*.redsunbaby.cn/*
 *://*.redveronica.buzz/*
 *://*.reevm.com/*
+*://*.reface.ai/*
 *://*.relocate-us.buzz/*
 *://*.remaker.ai/*
 *://*.remidt.no/*
@@ -15101,8 +15131,10 @@
 *://*.stableaiprompts.com/*
 *://*.stablecog.com/*
 *://*.stabledifffusion.com/*
+*://*.stablediffusion.fr/*
 *://*.stablediffusionaigenerator.com/*
 *://*.stablediffusionbot.com/*
+*://*.stablediffusionweb.com/*
 *://*.staccato.ai/*
 *://*.stackallflow.com/*
 *://*.stackanswers.net/*
@@ -15163,6 +15195,7 @@
 *://*.stork.ai/*
 *://*.stormcrow.dev/*
 *://*.stormi.ai/*
+*://*.story.com/*
 *://*.storybird.ai/*
 *://*.storyboardhero.ai/*
 *://*.storyteller.art/*
@@ -15199,6 +15232,7 @@
 *://*.suno.ai/*
 *://*.sunyuanxx.com/*
 *://*.suoluowan.com/*
+*://*.supagruen.github.io/StableDiffusion-CheatSheet/*
 *://*.super-unix.com/*
 *://*.superchanges.buzz/*
 *://*.superchefcarioca.com.br/*
@@ -15731,6 +15765,7 @@
 *://*.twitter.com/DeviantArt/*
 *://*.twitter.com/EMostaque/*
 *://*.twitter.com/EasonnLi/*
+*://*.twitter.com/Feral_Forest/*
 *://*.twitter.com/GAICommunity/*
 *://*.twitter.com/LearnAI_MJ/*
 *://*.twitter.com/LeonardoAi_/*
@@ -15771,6 +15806,7 @@
 *://*.twitter.com/thisislux/*
 *://*.twitter.com/toyxyz3/*
 *://*.twitter.com/ver_AI_/*
+*://*.twitter.com/watanaharumi/*
 *://*.twjpytg.com/*
 *://*.twm8.cn/*
 *://*.twr8.cn/*
@@ -15869,6 +15905,7 @@
 *://*.unansea.com/*
 *://*.unaoc.org/*
 *://*.unboundml.com/*
+*://*.undetectable.ai/*
 *://*.undetectablecontent.ai/*
 *://*.undress-ai.app/*
 *://*.undress.app/*
@@ -15904,6 +15941,7 @@
 *://*.upweibo.com/*
 *://*.upx8.com/*
 *://*.upyyagsl.cn/*
+*://*.urania.ai/*
 *://*.urgnkky.cn/*
 *://*.urontz.com/*
 *://*.urtasker.com/*
@@ -16503,6 +16541,7 @@
 *://*.x.com/DeviantArt/*
 *://*.x.com/EMostaque/*
 *://*.x.com/EasonnLi/*
+*://*.x.com/Feral_Forest/*
 *://*.x.com/GAICommunity/*
 *://*.x.com/LearnAI_MJ/*
 *://*.x.com/LeonardoAi_/*
@@ -16542,6 +16581,7 @@
 *://*.x.com/thisislux/*
 *://*.x.com/toyxyz3/*
 *://*.x.com/ver_AI_/*
+*://*.x.com/watanaharumi/*
 *://*.x00zca1.cn/*
 *://*.x0ixk4o.cn/*
 *://*.x1me8q.cn/*
