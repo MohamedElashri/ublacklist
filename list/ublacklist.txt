@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2024-09-01 01:28:31
-# Total count: 20055
+# Version: 2024-10-01 01:28:46
+# Total count: 20064
 
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
@@ -2521,6 +2521,7 @@
 *://*.codebug.vip/*
 *://*.coded3.com/*
 *://*.codeday.me/*
+*://*.codeease.net/*
 *://*.codefaq.info/*
 *://*.codefaq.ru/*
 *://*.codeflow.site/*
@@ -6078,6 +6079,7 @@
 *://*.fabricmods.com/*
 *://*.facebook.com/TheTiniestTiger/*
 *://*.facebook.com/cuteanimegirl99/*
+*://*.facecam.ai/*
 *://*.facecg.com/*
 *://*.faceplay.info/*
 *://*.facet.ai/*
@@ -6250,6 +6252,7 @@
 *://*.fls01.com/*
 *://*.fluffyfables.com/*
 *://*.flutterrepos.com/*
+*://*.fluxai.studio/*
 *://*.flvrclothing.com/*
 *://*.flx4.com/*
 *://*.flyocean.cn/*
@@ -10953,6 +10956,7 @@
 *://*.linkfang.org/*
 *://*.linksou.cc/*
 *://*.linuxadictos.com/*
+*://*.linuxcapable.com/*
 *://*.linuxfixes.com/*
 *://*.linuxpack.net/*
 *://*.linuxprobe.com/*
@@ -10972,6 +10976,7 @@
 *://*.liuliangtopp.com/*
 *://*.liupan.org/*
 *://*.liuyusem.com/*
+*://*.live-portrait.vercel.app/*
 *://*.live/*
 *://*.live3d.io/*
 *://*.liveapps.ai/*
@@ -10979,6 +10984,8 @@
 *://*.livefilestore.cn/*
 *://*.liveidc.cn/*
 *://*.livejupiter2.net/*
+*://*.liveportrait.app/*
+*://*.liveportrait.org/*
 *://*.living-sun.com/*
 *://*.liweiliang.com/*
 *://*.liwu.bi/*
@@ -15702,6 +15709,7 @@
 *://*.trvhyxw.cn/*
 *://*.trw9n5h.cn/*
 *://*.try2explore.com/*
+*://*.trycatchdebug.net/*
 *://*.tryellie.com/*
 *://*.tryhologram.art/*
 *://*.trynectar.ai/*
@@ -15860,6 +15868,7 @@
 *://*.uberduck.ai/*
 *://*.ubestnews.com/*
 *://*.ubksrjk.cn/*
+*://*.ubrand.com/*
 *://*.ubunlog.com/*
 *://*.ubuntu.buildwebhost.com/*
 *://*.ubuntuaa.com/*
