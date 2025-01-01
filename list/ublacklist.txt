@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2024-12-01 01:29:22
-# Total count: 20304
+# Version: 2025-01-01 01:28:36
+# Total count: 20385
 
 ! // Redbubble (standalone pins)
 ! // Redbubble Accounts
@@ -425,6 +425,7 @@
 *://*.2chmm.com/*
 *://*.2cute2care.buzz/*
 *://*.2dgyg2g.cn/*
+*://*.2do-3.com/*
 *://*.2fpzaix.cn/*
 *://*.2gg0gmn.cn/*
 *://*.2gx0rff.cn/*
@@ -1185,6 +1186,7 @@
 *://*.9valheim.net/*
 *://*.9wy2hpq.cn/*
 *://*.9xt399i.cn/*
+*://*.a-tm.co.jp/*
 *://*.a0300.cn/*
 *://*.a3atiyq.cn/*
 *://*.a3erf.com/*
@@ -1355,6 +1357,7 @@
 *://*.aicameo.com/*
 *://*.aichatting.net/*
 *://*.aichi-kasugai.buzz/*
+*://*.aicreate.com/*
 *://*.aidungeon.com/*
 *://*.aieasypic.com/*
 *://*.aier0917.com/*
@@ -1415,6 +1418,7 @@
 *://*.aishuaijiao.com/*
 *://*.aisixteen.com/*
 *://*.aisozai.com/*
+*://*.aistickr.com/*
 *://*.aistyle.art/*
 *://*.aitable.ai/*
 *://*.aitoolmall.com/*
@@ -1623,6 +1627,7 @@
 *://*.appsloveworld.com/*
 *://*.appspot.com/*
 *://*.appuals.com/*
+*://*.appypie.com/*
 *://*.apsd360.com/*
 *://*.apshengdun.com/*
 *://*.aptengli.com/*
@@ -1642,6 +1647,7 @@
 *://*.arealcat.com/*
 *://*.argentinaoutfitters.com/*
 *://*.argointernet.buzz/*
+*://*.ari2626.jp/*
 *://*.ariadnesthread.cn/*
 *://*.arip-photo.org/*
 *://*.arise.mx/*
@@ -1712,6 +1718,7 @@
 *://*.asgvas.cn/*
 *://*.asiannexus.buzz/*
 *://*.asians-xxx.buzz/*
+*://*.asiro.co.jp/*
 *://*.ask-dev.ru/*
 *://*.ask-ubuntu.ru/*
 *://*.ask.helplib.com/*
@@ -1783,6 +1790,7 @@
 *://*.axhdzip.cn/*
 *://*.axioncapitalmanagement.com/*
 *://*.axisworldent.buzz/*
+*://*.axxis.co.jp/*
 *://*.aymsw.com/*
 *://*.aymsz.com/*
 *://*.ayqzmp.com/*
@@ -1998,6 +2006,7 @@
 *://*.biol02.cn/*
 *://*.biotradefair.buzz/*
 *://*.birra-club.buzz/*
+*://*.bishokustyle.jp/*
 *://*.bisolsinus.buzz/*
 *://*.bisoqi.com/*
 *://*.bit86.cn/*
@@ -2075,6 +2084,7 @@
 *://*.blom7o0.cn/*
 *://*.bloomoon.art/*
 *://*.bluebirdvaluation.com/*
+*://*.bluebox.co.jp/*
 *://*.bluebox3d.com/*
 *://*.blueprint.ai/*
 *://*.blueshadow.art/*
@@ -2230,6 +2240,7 @@
 *://*.c9t87ml.cn/*
 *://*.cabanadoacaioficial.com.br/*
 *://*.cache.one/*
+*://*.cadbim-3dcg.jp/*
 *://*.cadriel.art/*
 *://*.cafegatto.com/*
 *://*.cahors-la.buzz/*
@@ -2269,6 +2280,7 @@
 *://*.car0559.com/*
 *://*.carbonai.art/*
 *://*.carboncopy.pro/*
+*://*.career-cloud.asia/*
 *://*.carptrix.com/*
 *://*.cartierwood.cn/*
 *://*.cartoluiza.buzz/*
@@ -2281,6 +2293,7 @@
 *://*.castle-cctv.cn/*
 *://*.catchconsole.com/*
 *://*.catwolf.org/*
+*://*.cave.co.jp/*
 *://*.cb728.com/*
 *://*.cbsshg.com/*
 *://*.cbt.sdmpsalatiga.sch.id/*
@@ -2361,6 +2374,7 @@
 *://*.cfyuele.com/*
 *://*.cg-corp.com/*
 *://*.cgdbior.cn/*
+*://*.cgdream.ai/*
 *://*.cgeas.org.cn/*
 *://*.cglhl.com/*
 *://*.cgsofts.com/*
@@ -2379,6 +2393,7 @@
 *://*.chashidai.cn/*
 *://*.chatai.com/*
 *://*.chatbase.co/*
+*://*.chatbot.com/*
 *://*.chatel-taxi.buzz/*
 *://*.chatgpt.com/*
 *://*.chatsimple.ai/*
@@ -2396,6 +2411,7 @@
 *://*.chengxuxf.com/*
 *://*.chenmanman.com/*
 *://*.chichi-pui.com/*
+*://*.chiiku-baby.jp/*
 *://*.childefish.com/*
 *://*.chilloutai.xyz/*
 *://*.china.cn/*
@@ -2434,7 +2450,9 @@
 *://*.chunleis.com/*
 *://*.chuntianty.com/*
 *://*.chwings.com/*
+*://*.ciciai.com/*
 *://*.ciibpsv.cn/*
+*://*.cinemacafe.net/*
 *://*.cintc.cn/*
 *://*.circus-square.buzz/*
 *://*.citizendium.org/*
@@ -5195,6 +5213,7 @@
 *://*.combinestronger.com/*
 *://*.comdevtech.buzz/*
 *://*.comedydouga.com/*
+*://*.comehome-web.jp/*
 *://*.comfy.icu/*
 *://*.comicsmaker.ai/*
 *://*.comoinstalarmodsminecraft.com.br/*
@@ -5231,6 +5250,7 @@
 *://*.corningfranklinhealth.buzz/*
 *://*.corporatediversions.buzz/*
 *://*.corporateheadshots.ai/*
+*://*.correc.co.jp/*
 *://*.cosni.cn/*
 *://*.coswayvalueclubth.buzz/*
 *://*.cotax.art/*
@@ -5250,6 +5270,7 @@
 *://*.cp669.cn/*
 *://*.cp891.cn/*
 *://*.cp9886.cn/*
+*://*.cpastudying.com/*
 *://*.cpgpv.cn/*
 *://*.cplusplusbug.info/*
 *://*.cq3t.com/*
@@ -5364,6 +5385,7 @@
 *://*.cxhlawyer.com/*
 *://*.cxjinshu.com/*
 *://*.cxmht.com/*
+*://*.cxo-works.com/*
 *://*.cxybb.com/*
 *://*.cxydev.cc/*
 *://*.cxygjd.com/*
@@ -5671,6 +5693,7 @@
 *://*.ditexas.cn/*
 *://*.dittin.ai/*
 *://*.diversitasfp.org/*
+*://*.dividable.net/*
 *://*.diwujiequ.com/*
 *://*.dixiedirectory.buzz/*
 *://*.diyishipu.com/*
@@ -5758,6 +5781,7 @@
 *://*.draffinenterprises.buzz/*
 *://*.draftlab.ai/*
 *://*.draonline.org/*
+*://*.drawever.com/*
 *://*.drawgpt.ai/*
 *://*.drawnudes.io/*
 *://*.dream.ai/*
@@ -6068,6 +6092,7 @@
 *://*.eventidigitali.buzz/*
 *://*.everand.com/*
 *://*.everart.ai/*
+*://*.every-day-is-a-new-day.com/*
 *://*.evilmaple.cn/*
 *://*.evlas.ru/*
 *://*.evolutionary.art/*
@@ -6084,6 +6109,7 @@
 *://*.exdctol.cn/*
 *://*.exe-craft.ru/*
 *://*.exefiles.com/*
+*://*.exidea.co.jp/*
 *://*.exotips.com/*
 *://*.experts-exchange.com/*
 *://*.express.co.uk/*
@@ -6143,6 +6169,7 @@
 *://*.fallfor.ai/*
 *://*.falmstfz.cn/*
 *://*.faltenglaettung.buzz/*
+*://*.famie.jp/*
 *://*.family-income.buzz/*
 *://*.familycomputerusa.buzz/*
 *://*.famousboards.com/*
@@ -6441,6 +6468,7 @@
 *://*.fuqfour.cn/*
 *://*.furenniao.com/*
 *://*.furenshoes.cn/*
+*://*.furusatohonpo.jp/*
 *://*.fuscin.com/*
 *://*.fuse12.buzz/*
 *://*.fushuokang.com/*
@@ -6502,6 +6530,7 @@
 *://*.gagadget.com/*
 *://*.gahongyun.com/*
 *://*.gaigify.com/*
+*://*.gaikonavi.com/*
 *://*.gajet.club/*
 *://*.galaxythecreative.blogspot.no/*
 *://*.galleri50.com/*
@@ -6596,6 +6625,7 @@
 *://*.genesus.com/*
 *://*.genie.art/*
 *://*.genmo.ai/*
+*://*.gentosha-go.com/*
 *://*.genzart.ai/*
 *://*.gerecippower.buzz/*
 *://*.geren-jianli.org/*
@@ -6607,6 +6637,7 @@
 *://*.getimg.ai/*
 *://*.getit01.com/*
 *://*.getmanifest.ai/*
+*://*.getmerlin.in/*
 *://*.getmod.ru/*
 *://*.getmynudes.com/*
 *://*.getnude.app/*
@@ -6756,6 +6787,7 @@
 *://*.gonctd.com/*
 *://*.gonganjz.com/*
 *://*.gongyige.com/*
+*://*.goodcoming.jp/*
 *://*.goodsucai.com/*
 *://*.goodvfx.com/*
 *://*.gooey.ai/*
@@ -6874,6 +6906,7 @@
 *://*.gy086.com/*
 *://*.gyhf88.com/*
 *://*.gyjhfz.com/*
+*://*.gyl.jp/*
 *://*.gymdjx.com/*
 *://*.gymeigou.com/*
 *://*.gymxdz.com/*
@@ -6943,6 +6976,7 @@
 *://*.hambzj.com/*
 *://*.hamproduce.com/*
 *://*.hamtap.com/*
+*://*.hanayome-susume.com/*
 *://*.handformkeramik.buzz/*
 *://*.handfreecn.com/*
 *://*.hani1688.com/*
@@ -7099,6 +7133,7 @@
 *://*.highligter.com/*
 *://*.highyuedu.com/*
 *://*.higithub.com/*
+*://*.hikari-flets.jp/*
 *://*.hil.su/*
 *://*.hiltonrobertson.buzz/*
 *://*.hippydyecowboy.buzz/*
@@ -7160,6 +7195,7 @@
 *://*.ho176.cn/*
 *://*.ho54.com/*
 *://*.hobbymaster.cn/*
+*://*.hoikushi10.xsrv.jp/*
 *://*.hokedoor.com/*
 *://*.holara.ai/*
 *://*.hollingsworthford.buzz/*
@@ -7192,8 +7228,10 @@
 *://*.hotel-britannic.buzz/*
 *://*.hotfe.org/*
 *://*.hotpot.ai/*
+*://*.hotstaff.co.jp/*
 *://*.hotsync.cn/*
 *://*.hourone.ai/*
+*://*.houserossa.co.jp/*
 *://*.houseword.com/*
 *://*.houtaiyun.com/*
 *://*.howietech.com/*
@@ -7224,6 +7262,7 @@
 *://*.hrsj1688.com/*
 *://*.hrsmc.cn/*
 *://*.hrssqj.cn/*
+*://*.hrtech-guide.co.jp/*
 *://*.hrwo5tt.cn/*
 *://*.hs06lwa.cn/*
 *://*.hs229.com/*
@@ -7276,6 +7315,7 @@
 *://*.hub.fastgit.org/*
 *://*.hubenben.cn/*
 *://*.hubicraft.com/*
+*://*.hubloom.jp/*
 *://*.hudep.com/*
 *://*.hugehunks.buzz/*
 *://*.huggingface.co/*
@@ -7413,6 +7453,7 @@
 *://*.idyllic.app/*
 *://*.iebuchln.cn/*
 *://*.iecmo.cn/*
+*://*.ietatelog.jp/*
 *://*.if4uwsn.cn/*
 *://*.if9377.com/*
 *://*.ifaj-congress.org/*
@@ -7436,6 +7477,7 @@
 *://*.ihlkt37.cn/*
 *://*.ihuank.com/*
 *://*.ihxmm.com/*
+*://*.iid.co.jp/*
 *://*.iil8ihq.cn/*
 *://*.iishome.cn/*
 *://*.iitjeepage.buzz/*
@@ -7449,6 +7491,7 @@
 *://*.ikioi2ch.net/*
 *://*.ikioi5ch.net/*
 *://*.ikkaro.com/*
+*://*.ikujisite.com/*
 *://*.ikz0wke.cn/*
 *://*.ilandrover.com/*
 *://*.iliad.ai/*
@@ -10451,6 +10494,8 @@
 *://*.jnzczdh.com/*
 *://*.jnzffz.com/*
 *://*.joanne-kelly.com/*
+*://*.job-up.work/*
+*://*.job.or.jp/*
 *://*.job00531.cn/*
 *://*.job929.com/*
 *://*.jobdlrp.cn/*
@@ -10544,6 +10589,7 @@
 *://*.jugomobile.com/*
 *://*.juhebbs.com/*
 *://*.jukangsw.com/*
+*://*.julius.ai/*
 *://*.julx.cn/*
 *://*.julysportcenter.com/*
 *://*.jumeistone.com/*
@@ -10595,6 +10641,7 @@
 *://*.jykexin.com/*
 *://*.jynews.net/*
 *://*.jysdzs.com/*
+*://*.jyuku-online.com/*
 *://*.jywlife.com/*
 *://*.jyx766d.cn/*
 *://*.jzcqs.com/*
@@ -10682,6 +10729,7 @@
 *://*.kejisen.com/*
 *://*.kelly99.buzz/*
 *://*.kemicloud.com/*
+*://*.kenkohub.jp/*
 *://*.kenneltbob.buzz/*
 *://*.kergi.top/*
 *://*.kesicqh.cn/*
@@ -10703,6 +10751,7 @@
 *://*.kicking.com/*
 *://*.kickscooter.ru/*
 *://*.kiiky.com/*
+*://*.kimono-girl.jp/*
 *://*.kimthewaitress.buzz/*
 *://*.kingkarltv.com/*
 *://*.kingminecraftmod.com/*
@@ -10841,6 +10890,7 @@
 *://*.kybellebourbon.buzz/*
 *://*.kybourbonbelle.buzz/*
 *://*.kyidu.com/*
+*://*.kyoto-ui.jp/*
 *://*.kyqzjx.com/*
 *://*.kzfripi.cn/*
 *://*.l4ryrow.cn/*
@@ -10855,6 +10905,7 @@
 *://*.lace11111.com/*
 *://*.lacomparacion.com/*
 *://*.lacrux.com/*
+*://*.lacuri.jp/*
 *://*.laddertechnologies.com/*
 *://*.lady513.com/*
 *://*.ladydaigou.com/*
@@ -11246,6 +11297,7 @@
 *://*.mabaoguo7.cn/*
 *://*.mabis.buzz/*
 *://*.machao56.com/*
+*://*.machiben.app/*
 *://*.macosrepo.com/*
 *://*.macsc.com/*
 *://*.macxf.com/*
@@ -11256,12 +11308,14 @@
 *://*.madeingali.com/*
 *://*.madhyamgram.buzz/*
 *://*.madisonbrowne.buzz/*
+*://*.madpenguin.org/*
 *://*.maecddp.cn/*
 *://*.magarfid.com/*
 *://*.magarom.com/*
 *://*.mage.space/*
 *://*.magelinesc.com/*
 *://*.magicalcn.com/*
+*://*.magichour.ai/*
 *://*.magicstudio.com/*
 *://*.magnetobrowsers.net/*
 *://*.magnific.ai/*
@@ -12104,6 +12158,7 @@
 *://*.noiseofmax.net/*
 *://*.nokibar.com/*
 *://*.nolo.ai/*
+*://*.nomadoya.ne.jp/*
 *://*.nomurlar.com/*
 *://*.nonglidqw.com/*
 *://*.nonlehui.com/*
@@ -12247,6 +12302,7 @@
 *://*.okbabyszx.com/*
 *://*.okecc5t.cn/*
 *://*.okhl4ak.cn/*
+*://*.oki-raku.net/*
 *://*.oksuro.com/*
 *://*.oktree.cn/*
 *://*.okungshoes.com/*
@@ -12356,6 +12412,7 @@
 *://*.oustv.com/*
 *://*.outfitanyone.app/*
 *://*.outofmemory.cn/*
+*://*.outside.no-limit.careers/*
 *://*.outsourceit.today/*
 *://*.ouub.cn/*
 *://*.ouyuing.com/*
@@ -12419,6 +12476,7 @@
 *://*.passio.ai/*
 *://*.passionss.buzz/*
 *://*.patience.ai/*
+*://*.patria-dc.com/*
 *://*.patriknorstrom.buzz/*
 *://*.patsnap.com/*
 *://*.pavlovadoco.com/*
@@ -12466,6 +12524,7 @@
 *://*.perchance.org/*
 *://*.perfectcorp.com/*
 *://*.perhu.com/*
+*://*.perplexity.ai/*
 *://*.persarea.com/*
 *://*.personalcreatiions.buzz/*
 *://*.personbiler.buzz/*
@@ -12602,6 +12661,7 @@
 *://*.pixels.com/featured/beautiful-chinese-dragon-lmzkone-narciso/*
 *://*.pixels.com/profiles/lm2kone/*
 *://*.pixelz.ai/*
+*://*.pixexid.com/*
 *://*.pixlr.com/*
 *://*.pixpa.com/*
 *://*.pixverse.ai/*
@@ -14657,6 +14717,7 @@
 *://*.reneelab.net/*
 *://*.renfas.com/*
 *://*.renliuhs.cn/*
+*://*.renoduce.com/*
 *://*.rentalbike-jasmine.com/*
 *://*.rentals-bg.buzz/*
 *://*.rephrase.ai/*
@@ -14669,7 +14730,9 @@
 *://*.reposhub.com/*
 *://*.rescale.com/*
 *://*.resemble.ai/*
+*://*.resemom.jp/*
 *://*.residenceduquai.com/*
+*://*.reskill.gakken.jp/*
 *://*.resoleusa.buzz/*
 *://*.resolutionrealtyinc.buzz/*
 *://*.resource-pack.com/*
@@ -14866,6 +14929,7 @@
 *://*.saishaicai.com/*
 *://*.sakana.ai/*
 *://*.sakoba.fr/*
+*://*.sakufuri.jp/*
 *://*.sakurabusters.buzz/*
 *://*.sal88.cn/*
 *://*.salk.edu/*
@@ -15109,9 +15173,11 @@
 *://*.shtuojie.com/*
 *://*.shuaigetian.cn/*
 *://*.shujinger.com/*
+*://*.shukatsu-career.co.jp/*
 *://*.shumashidai.com/*
 *://*.shunanjy.com/*
 *://*.shunlixidi.com/*
+*://*.shupro.net/*
 *://*.shuzaos.com/*
 *://*.shvod.cn/*
 *://*.shwrx.cn/*
@@ -15136,6 +15202,7 @@
 *://*.silitone.cn/*
 *://*.silobuy.com/*
 *://*.silver-country.buzz/*
+*://*.simple-wifi.jp/*
 *://*.simpleglobal.com/*
 *://*.simpleminecraft.ru/*
 *://*.simplesminecraft.blogspot.com.br/*
@@ -15213,6 +15280,7 @@
 *://*.smarttq.cn/*
 *://*.smartwriter.ai/*
 *://*.smexy.ai/*
+*://*.smiletemplates.com/search/images/*
 *://*.smokingrobot.ai/*
 *://*.smszh.com/*
 *://*.smxgsswzp.com/*
@@ -15262,8 +15330,10 @@
 *://*.songnidianqi.cn/*
 *://*.songshouji.cn/*
 *://*.sop5fzr.cn/*
+*://*.sora.com/*
 *://*.sorapix.ai/*
 *://*.sosocp.cn/*
+*://*.sougi-lab.com/*
 *://*.soulfun.ai/*
 *://*.soulgen.ai/*
 *://*.soulgen.net/*
@@ -15466,6 +15536,7 @@
 *://*.superreply.co/*
 *://*.superweb999.com/*
 *://*.supremeppe.buzz/*
+*://*.sure-i.co.jp/*
 *://*.surf4gifts.buzz/*
 *://*.surprise8.com/*
 *://*.survillance.buzz/*
@@ -15661,6 +15732,7 @@
 *://*.teamumwelt.buzz/*
 *://*.tech-in-japan.github.io/*
 *://*.tech-ja.netlify.app/*
+*://*.tech-shukatsu.com/*
 *://*.tech.wayne-chu.com/*
 *://*.techacademy.jp/*
 *://*.techacute.com/*
@@ -15851,6 +15923,7 @@
 *://*.todocraft.net/*
 *://*.todohealth.com/*
 *://*.togetmarried.buzz/*
+*://*.tohshin.co.jp/*
 *://*.tokp2wz.cn/*
 *://*.tokyo-bunka.com/*
 *://*.tokyominer.com/*
@@ -15861,6 +15934,7 @@
 *://*.tongxinr.com/*
 *://*.tongxinylw.com/*
 *://*.toolai.io/*
+*://*.toolbaz.com/*
 *://*.tooldirectory.ai/*
 *://*.toolify.ai/*
 *://*.toolpilot.ai/*
@@ -15934,6 +16008,7 @@
 *://*.trycatchdebug.net/*
 *://*.tryellie.com/*
 *://*.tryhologram.art/*
+*://*.tryleap.ai/*
 *://*.trynectar.ai/*
 *://*.ts2.space/*
 *://*.tsfx.cc/*
@@ -15941,6 +16016,7 @@
 *://*.tsm8.cn/*
 *://*.tspweb.com/*
 *://*.tsr8.cn/*
+*://*.tsuushinsei.net/*
 *://*.tsydys.com/*
 *://*.tt1d5qj.cn/*
 *://*.ttaaj.com/*
@@ -16257,6 +16333,7 @@
 *://*.versionfemme.buzz/*
 *://*.versus.com/*
 *://*.vertech-fr.buzz/*
+*://*.vertex-j.com/*
 *://*.vetcommunications.buzz/*
 *://*.veyance.cn/*
 *://*.vfhzpxx.cn/*
@@ -16397,6 +16474,7 @@
 *://*.w6wb90q.cn/*
 *://*.w7fxjt7.cn/*
 *://*.wa7vip.cn/*
+*://*.wacaru-net.co.jp/*
 *://*.waccx.cn/*
 *://*.wadbeijing.com/*
 *://*.wahahamima.cn/*
@@ -16440,6 +16518,7 @@
 *://*.washingtonstem.org/*
 *://*.wasou.cc/*
 *://*.waunwmcn.cn/*
+*://*.wayback.inc/*
 *://*.waymanamechurch.org/*
 *://*.waynepmj.com/*
 *://*.waynon.com/*
@@ -16515,6 +16594,7 @@
 *://*.weiyu99.com/*
 *://*.weiyuncity.com/*
 *://*.wekie.cn/*
+*://*.well-beings.co.jp/*
 *://*.wellren.com/*
 *://*.wellsaidlabs.com/*
 *://*.wemine.ru/*
@@ -17290,6 +17370,7 @@
 *://*.ynwtj7u.cn/*
 *://*.ynyunyuan.com/*
 *://*.yo.zgserver.com/*
+*://*.yobikou-online.com/*
 *://*.yocker.com/*
 *://*.yodayo.com/*
 *://*.yodot.com/*
