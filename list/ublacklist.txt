@@ -2,11 +2,9 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2025-01-01 01:28:36
-# Total count: 20385
+# Version: 2025-02-01 01:28:25
+# Total count: 20409
 
-! // Redbubble (standalone pins)
-! // Redbubble Accounts
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
 *://*.006xb.cn/*
@@ -1421,6 +1419,7 @@
 *://*.aistickr.com/*
 *://*.aistyle.art/*
 *://*.aitable.ai/*
+*://*.aitoolhunt.com/*
 *://*.aitoolmall.com/*
 *://*.aitools.fyi/*
 *://*.aitoolskit.ai/*
@@ -1901,6 +1900,7 @@
 *://*.beach-talk.cn/*
 *://*.beamer-heimkino.buzz/*
 *://*.beaniebiz.buzz/*
+*://*.beatcoynz-artwork.com/*
 *://*.beatoven.ai/*
 *://*.beauty-flowers.buzz/*
 *://*.beauty-katsura.buzz/*
@@ -2138,6 +2138,7 @@
 *://*.bos119.com/*
 *://*.bossiercountry.buzz/*
 *://*.bot3.ai/*
+*://*.bottr.me/*
 *://*.boxhoidap.com/*
 *://*.boyaclean.com/*
 *://*.boyajyzs.cn/*
@@ -5215,6 +5216,7 @@
 *://*.comedydouga.com/*
 *://*.comehome-web.jp/*
 *://*.comfy.icu/*
+*://*.comfy.org/*
 *://*.comicsmaker.ai/*
 *://*.comoinstalarmodsminecraft.com.br/*
 *://*.comparitech.com/*
@@ -5400,6 +5402,7 @@
 *://*.cy938.com/*
 *://*.cyanogenmods.org/*
 *://*.cyberknights.us/*
+*://*.cybersecguide.com/*
 *://*.cyhjjc.com/*
 *://*.cyshangji.com/*
 *://*.czag88.com/*
@@ -5916,6 +5919,7 @@
 *://*.eberhard-gienger.buzz/*
 *://*.ebestcode.com/*
 *://*.ebikeyun.com/*
+*://*.ebsynth.com/*
 *://*.ebtworld.com/*
 *://*.ebziyus.cn/*
 *://*.ec-europe.org/*
@@ -6280,6 +6284,7 @@
 *://*.findmyaitool.com/*
 *://*.finemine.ru/*
 *://*.fire-club.cn/*
+*://*.fireflies.ai/*
 *://*.firstcp.cn/*
 *://*.firstlightsalon.in/*
 *://*.firstonline.info/*
@@ -6524,6 +6529,7 @@
 *://*.g8q9699.cn/*
 *://*.ga/*
 *://*.gaapp.org/*
+*://*.gab.ai/*
 *://*.gachax.com/anime/*
 *://*.gacuqg.cn/*
 *://*.gadgetarq.com/*
@@ -7445,6 +7451,7 @@
 *://*.idc941.com/*
 *://*.idecap.cn/*
 *://*.ideogram.ai/*
+*://*.idesigns.shop/*
 *://*.idfn.cn/*
 *://*.idoceo.net/*
 *://*.idomoo.ai/*
@@ -7637,6 +7644,7 @@
 *://*.irmoai.com/*
 *://*.isdakar.org/*
 *://*.isdce.com/*
+*://*.ishencai.com/*
 *://*.iskeke.com/*
 *://*.islamview.org/*
 *://*.island-magic.buzz/*
@@ -10843,6 +10851,7 @@
 *://*.krea.ai/*
 *://*.kreaai.net/*
 *://*.kreadoai.com/*
+*://*.krisp.ai/*
 *://*.ks316.cn/*
 *://*.ks745.com/*
 *://*.ksctec.com/*
@@ -11361,6 +11370,7 @@
 *://*.mars.railpage.com.au/*
 *://*.marybethhouse.buzz/*
 *://*.maryellenmacke.buzz/*
+*://*.mascots.ai/*
 *://*.massillonmotors.buzz/*
 *://*.masterpiecestudio.com/*
 *://*.maszfdp.com/*
@@ -11440,6 +11450,7 @@
 *://*.medium.com/@SLover/*
 *://*.medium.com/@aitubo011/*
 *://*.medium.com/@inchristiely/*
+*://*.medium.com/@queenskisivuli/*
 *://*.medium.com/generative-ai/*
 *://*.medium.com/mlearning-ai/*
 *://*.meeting.ai/*
@@ -11482,6 +11493,7 @@
 *://*.meshow100.com/*
 *://*.meshy.ai/*
 *://*.meta.ai/*
+*://*.metademolab.com/*
 *://*.metaphysic.ai/*
 *://*.metaroids.com/*
 *://*.meteorologiaenred.com/*
@@ -11521,6 +11533,7 @@
 *://*.midjourney.co.in/*
 *://*.midjourney.co/*
 *://*.midjourney.com/*
+*://*.midjourney.fm/*
 *://*.midjourney9.com/*
 *://*.midjourneyai.ai/*
 *://*.midlibrary.io/*
@@ -11726,6 +11739,7 @@
 *://*.mirvideogames.ru/*
 *://*.mississippifaithinaction.org/*
 *://*.misterzeng.com/*
+*://*.mistral.ai/*
 *://*.mituang.com/*
 *://*.miudang.cn/*
 *://*.mixcomfy.com/*
@@ -11800,6 +11814,7 @@
 *://*.mody4mine.ru/*
 *://*.moe.ms/*
 *://*.moemate.io/*
+*://*.moescape.ai/*
 *://*.mokegod.com/*
 *://*.mold-guide.buzz/*
 *://*.momjr94.cn/*
@@ -12155,6 +12170,7 @@
 *://*.nocodingai.com/*
 *://*.nodep2p.com/*
 *://*.nogomi.ru/*
+*://*.nohat.cc/*
 *://*.noiseofmax.net/*
 *://*.nokibar.com/*
 *://*.nolo.ai/*
@@ -12399,6 +12415,7 @@
 *://*.ot3lw4b.cn/*
 *://*.otasarimciol.shop/*
 *://*.otcrong.com/*
+*://*.otter.ai/*
 *://*.otu80jn.cn/*
 *://*.ouliandianqi.cn/*
 *://*.ouqin2018.com/*
@@ -15303,6 +15320,7 @@
 *://*.soft-vn.net/*
 *://*.soft32.com/*
 *://*.softbranchdevelopers.com/*
+*://*.softgist.com/*
 *://*.softonic.com/*
 *://*.softonic.jp/*
 *://*.software-testing.com/*
@@ -15467,6 +15485,7 @@
 *://*.stclairsupply.buzz/*
 *://*.stcymy.cn/*
 *://*.steakrecords.com/*
+*://*.steelefortress.com/*
 *://*.stephenmiao.cn/*
 *://*.steve.ai/*
 *://*.sth8.cn/*
@@ -15476,7 +15495,9 @@
 *://*.sticky.cool/*
 *://*.stiqsxf.cn/*
 *://*.stklowf.blogspot.com/*
+*://*.stl.team/*
 *://*.stl24.com/*
+*://*.stlmax.com/*
 *://*.stmhxqs.com/*
 *://*.stock.adobe.com/images/abstract-painting-about-anime-girl-with-close-up-view-at-the-face-splash-colour-art-portrait-of-anime-girl-digital-art-style-illustration-painting-generative-ai/569091927/*
 *://*.stock.adobe.com/images/abstract-painting-about-anime-girl-with-close-up-view-at-the-face-splash-colour-art-portrait-of-anime-girl-digital-art-style-illustration-painting-generative-ai/569091986/*
@@ -16425,6 +16446,7 @@
 *://*.volcengine.com/theme/*
 *://*.volprixreduit.buzz/*
 *://*.volvootofinans.com/*
+*://*.vondy.com/*
 *://*.vouchercodes.co.uk/*
 *://*.vpfwzjt.cn/*
 *://*.vplugins.com/*
@@ -16478,6 +16500,7 @@
 *://*.waccx.cn/*
 *://*.wadbeijing.com/*
 *://*.wahahamima.cn/*
+*://*.waifu.com.mx/*
 *://*.waifulabs.com/*
 *://*.waiybl.com/*
 *://*.wake-up-neo.com/*
@@ -17405,6 +17428,7 @@
 *://*.youtube.com/@LaCarnevali/*
 *://*.youtube.com/@OlivioSarikas/*
 *://*.youtube.com/@SHAD_AI/*
+*://*.youtube.com/@alkaid-art/*
 *://*.youtube.com/@enigmatic_e/*
 *://*.youtube.com/@sebastiankamph/*
 *://*.youtube.com/@shadiversity/*
