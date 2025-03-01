@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2025-02-01 01:28:25
-# Total count: 20409
+# Version: 2025-03-01 01:28:39
+# Total count: 20437
 
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
@@ -1356,6 +1356,7 @@
 *://*.aichatting.net/*
 *://*.aichi-kasugai.buzz/*
 *://*.aicreate.com/*
+*://*.aidrivenrecipes.com/*
 *://*.aidungeon.com/*
 *://*.aieasypic.com/*
 *://*.aier0917.com/*
@@ -1866,6 +1867,7 @@
 *://*.barcode.so/*
 *://*.bare.club/*
 *://*.bargcoz.cn/*
+*://*.bargpt.app/*
 *://*.barsch-marktforschung.buzz/*
 *://*.base64.work/*
 *://*.basedlabs.ai/*
@@ -1992,6 +1994,7 @@
 *://*.bieguolaia.com/*
 *://*.bienalnuevoleon.com.mx/*
 *://*.bigminecraft.ru/*
+*://*.bigshadows.net/*
 *://*.bijnchr.cn/*
 *://*.bikinidomains.buzz/*
 *://*.bilbotools.buzz/*
@@ -2125,6 +2128,7 @@
 *://*.bollywoods.ru.com/*
 *://*.bomei007.com/*
 *://*.bonne-table.buzz/*
+*://*.boodlebox.ai/*
 *://*.book-sales.buzz/*
 *://*.bookresource.net/*
 *://*.booksheji.com/*
@@ -2293,6 +2297,7 @@
 *://*.caspa.ai/*
 *://*.castle-cctv.cn/*
 *://*.catchconsole.com/*
+*://*.catsaroundtheglobe.com/*
 *://*.catwolf.org/*
 *://*.cave.co.jp/*
 *://*.cb728.com/*
@@ -6123,6 +6128,7 @@
 *://*.extrabux.com/*
 *://*.extreme-mac.buzz/*
 *://*.extutorial.com/*
+*://*.eyecandy.net/*
 *://*.eyuth.com/*
 *://*.eyxgwpt.cn/*
 *://*.ezerm.cn/*
@@ -6838,6 +6844,7 @@
 *://*.grizwood.buzz/*
 *://*.grokbase.com/*
 *://*.grosse-chatte.buzz/*
+*://*.groundabout.coffee/*
 *://*.growinglove.cn/*
 *://*.grs8.cn/*
 *://*.grupocauda.mx/*
@@ -7208,6 +7215,7 @@
 *://*.holsbyror.buzz/*
 *://*.holtqel.cn/*
 *://*.home.ai/*
+*://*.homediningkitchen.com/*
 *://*.homedo.com/*
 *://*.homefindernow.buzz/*
 *://*.homefindersint.buzz/*
@@ -7474,6 +7482,7 @@
 *://*.igdjvjf.cn/*
 *://*.igdmcwn.cn/*
 *://*.igiftidea.com/*
+*://*.igot.coffee/*
 *://*.igrapoker.buzz/*
 *://*.igservizi.buzz/*
 *://*.iguomu.com/*
@@ -7532,6 +7541,7 @@
 *://*.imccar.com/*
 *://*.imengstar.com/*
 *://*.img2go.com/*
+*://*.imiprompt.com/*
 *://*.imooc.com/wenda/*
 *://*.imore.com/*
 *://*.imperialcraft.ru/*
@@ -7634,6 +7644,7 @@
 *://*.ipic.ai/*
 *://*.ipolarstar.cn/*
 *://*.ips8cz.com/*
+*://*.ipv6.rs/*
 *://*.iqingyan.cn/*
 *://*.iqnkooc.cn/*
 *://*.iqqoz.com/*
@@ -10955,6 +10966,7 @@
 *://*.lawtagtw.com/*
 *://*.layer.ai/*
 *://*.layla-network.ai/*
+*://*.lazyriverdesignworks.com/*
 *://*.lb060.com/*
 *://*.lbc-services.buzz/*
 *://*.lbjbvkj.cn/*
@@ -11085,7 +11097,6 @@
 *://*.linhwaa.com/*
 *://*.link/*
 *://*.link4399.cn/*
-*://*.linkedin.com/in/justmaier/*
 *://*.linkfang.org/*
 *://*.linksou.cc/*
 *://*.linux-packages.com/*
@@ -11190,6 +11201,7 @@
 *://*.lovegraco.cn/*
 *://*.lovelines.xyz/*
 *://*.loveminecraft.com/*
+*://*.loverse.ai/*
 *://*.lovesan33.cn/*
 *://*.loveuherbs.com/*
 *://*.loveyou521.com/*
@@ -11743,6 +11755,7 @@
 *://*.mituang.com/*
 *://*.miudang.cn/*
 *://*.mixcomfy.com/*
+*://*.mixologyai.com/*
 *://*.mizunospb.ru/*
 *://*.mjg8.cn/*
 *://*.mjhhx0i.cn/*
@@ -11931,6 +11944,7 @@
 *://*.mybestgamesfilesone.com/*
 *://*.mycoolclass.com/*
 *://*.myd188.com/*
+*://*.mydotprompt.com/*
 *://*.myedit.online/*
 *://*.myfreemediacloudone.com/*
 *://*.mygolfsky.com/*
@@ -12873,6 +12887,7 @@
 *://*.promptalot.com/*
 *://*.promptbase.com/*
 *://*.promptchan.ai/*
+*://*.promptcombo.com/*
 *://*.promptcow.com/*
 *://*.promptden.com/*
 *://*.promptforum.com/*
@@ -12896,6 +12911,7 @@
 *://*.prtfp35.cn/*
 *://*.psawis.com/*
 *://*.psb-hamburg.buzz/*
+*://*.psichologyanswers.com/*
 *://*.psimoon.buzz/*
 *://*.psjgs.com.cn/*
 *://*.pspfvw.cn/*
@@ -14512,6 +14528,7 @@
 *://*.ran2000.buzz/*
 *://*.randolph.apsva.us/*
 *://*.ranjgzo.cn/*
+*://*.rareconnections.io/*
 *://*.rat.dev/*
 *://*.rate-movie.com/*
 *://*.rateye.tistory.com/*
@@ -14672,6 +14689,7 @@
 *://*.reddit.com/r/bard/*
 *://*.reddit.com/r/bigsleep/*
 *://*.reddit.com/r/civitai/*
+*://*.reddit.com/r/comfyui/*
 *://*.reddit.com/r/craiyon/*
 *://*.reddit.com/r/cursedAIpics/*
 *://*.reddit.com/r/dalle2/*
@@ -14876,6 +14894,7 @@
 *://*.ruigejgj.cn/*
 *://*.ruiqs.com/*
 *://*.rukomos.ru/*
+*://*.runcomfy.com/*
 *://*.rundiffusion.com/*
 *://*.runebook.dev/*
 *://*.runexception.com/*
@@ -16083,6 +16102,7 @@
 *://*.tweetai.com/*
 *://*.twfeq.com/*
 *://*.twikor.cn/*
+*://*.twistedalchemy.com/pages/ai-cocktail-recipes/*
 *://*.twitter.com/21xfour/*
 *://*.twitter.com/AI_ART__/*
 *://*.twitter.com/AI_Art_Gura/*
@@ -16160,6 +16180,7 @@
 *://*.typecast.ai/*
 *://*.typedream.com/*
 *://*.typeface.ai/*
+*://*.typli.ai/*
 *://*.tysp.org/*
 *://*.tyxhjj.com/*
 *://*.tz137.com/*
@@ -16677,6 +16698,7 @@
 *://*.whxyjygm.com/*
 *://*.whynnn.com/*
 *://*.whytcf.com/*
+*://*.whythealgarve.com/*
 *://*.whytryai.com/*
 *://*.whyzbr.com/*
 *://*.wi-t.net/*
@@ -16766,6 +16788,7 @@
 *://*.work-well.org/*
 *://*.workessay.com/*
 *://*.world-minecraft.pp.ua/*
+*://*.worldfrogday.org/*
 *://*.worldofminecraft.com/*
 *://*.worldofmods.com/*
 *://*.worldphim.com/*
@@ -17295,6 +17318,7 @@
 *://*.yelp.taipei/*
 *://*.yelp.tw/*
 *://*.yeringtoninn.com/*
+*://*.yeschat.ai/*
 *://*.yfdhw.com/*
 *://*.yfpy3yj.cn/*
 *://*.yfvoya6.cn/*
@@ -17428,6 +17452,7 @@
 *://*.youtube.com/@LaCarnevali/*
 *://*.youtube.com/@OlivioSarikas/*
 *://*.youtube.com/@SHAD_AI/*
+*://*.youtube.com/@TheDebugZone/*
 *://*.youtube.com/@alkaid-art/*
 *://*.youtube.com/@enigmatic_e/*
 *://*.youtube.com/@sebastiankamph/*
@@ -20363,7 +20388,10 @@
 @*://*.aws.amazon.com/*
 @*://*.joyk.com/*
 @*://*.tspweb.com/*
+description: A uBlacklist blocklist to remove Pinterest from your search results.
+homepage: https://github.com/rjaus/ublacklist-pinterest
 https://huifu.wondershare.cn/repair/*
+name: uBlacklist Pinterest basic list
 or
 title/.*Q微同号/
 title/.*\- app下载(手机|可?提现|安卓|android)版.*/
