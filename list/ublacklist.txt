@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2025-03-01 01:28:39
-# Total count: 20437
+# Version: 2025-04-01 01:29:17
+# Total count: 20461
 
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
@@ -1401,6 +1401,7 @@
 *://*.aipornhub.net/*
 *://*.aiprofilepic.art/*
 *://*.aipromptpalettes.art/*
+*://*.aipromptsdirectory.com/*
 *://*.aiqq8.cn/*
 *://*.air-ballon.buzz/*
 *://*.air-travel-card.buzz/*
@@ -1408,6 +1409,7 @@
 *://*.airflowonline.buzz/*
 *://*.airgeorgian.buzz/*
 *://*.airoomplanner.com/*
+*://*.airproxy.ca/*
 *://*.airtimeaudio.buzz/*
 *://*.aisaika.info/*
 *://*.aisatoyscn.com/*
@@ -1516,6 +1518,7 @@
 *://*.amerbiz.com/*
 *://*.amercoffee.buzz/*
 *://*.americankidswear.buzz/*
+*://*.amfilm.nl/*
 *://*.amhuru.com/*
 *://*.amillionpoems.buzz/*
 *://*.aminecraft.net/*
@@ -5575,6 +5578,7 @@
 *://*.deepsukebe.io/*
 *://*.deepswap.ai/*
 *://*.defelsko.net.cn/*
+*://*.defunmaison.com/*
 *://*.delavaio.com/*
 *://*.delinvip.com/*
 *://*.deliverytodaymeta.com/*
@@ -5631,6 +5635,7 @@
 *://*.deviantart.com/vyerran/*
 *://*.deviantart.com/zerofourai/*
 *://*.deviantart.com/zkreations/*
+*://*.devices.ignition633.org/*
 *://*.devicesfaq.com/*
 *://*.devicetests.com/*
 *://*.devk-agentur.buzz/*
@@ -6105,6 +6110,7 @@
 *://*.evilmaple.cn/*
 *://*.evlas.ru/*
 *://*.evolutionary.art/*
+*://*.ew-healthcare.itvibes.org/*
 *://*.ewhae.buzz/*
 *://*.ewihfuu.cn/*
 *://*.ewonm.cn/*
@@ -6363,6 +6369,7 @@
 *://*.for-minecraft.com/*
 *://*.forbb.cn/*
 *://*.forgerynet.buzz/*
+*://*.forkful.ai/*
 *://*.formacionyestudios.com/*
 *://*.forminecrafters.ru/*
 *://*.forsenergy.com/*
@@ -6405,6 +6412,7 @@
 *://*.fqpn.cc/*
 *://*.fqq8.cn/*
 *://*.fr-minecraft.net/mod-minecraft-/*
+*://*.fr.mituning.com/*
 *://*.fr/*Q%E5%BE%AE%E5%90%8C%E5%8F%B7*
 *://*.fr9byi.cn/*
 *://*.fra6hl.cn/*
@@ -6813,6 +6821,7 @@
 *://*.goulanyaozhai.com.cn/*
 *://*.gov-civil-leiria.pt/*
 *://*.gp5vllt.cn/*
+*://*.gpt.wid.jp/*
 *://*.gpt4free.io/*
 *://*.gpte.ai/*
 *://*.gptgirlfriend.online/*
@@ -7073,6 +7082,7 @@
 *://*.healths120.com/*
 *://*.healthtagtw.com/*
 *://*.healthy-resources.buzz/*
+*://*.heatware.net/*
 *://*.heavenlymutex.com/*
 *://*.hebeiguosu.com/*
 *://*.hebiluban.com/*
@@ -7266,11 +7276,13 @@
 *://*.hqh6d4m.cn/*
 *://*.hqshenghuo.com/*
 *://*.hqtqp.com/*
+*://*.hqyman.cn/*
 *://*.hr65.cn/*
 *://*.hrb333.com/*
 *://*.hrblongtai.com/*
 *://*.hrbsybz.com/*
 *://*.hrefcode.com/*
+*://*.hrefgo.com/*
 *://*.hrr8.cn/*
 *://*.hrs24.buzz/*
 *://*.hrsj1688.com/*
@@ -7542,6 +7554,7 @@
 *://*.imengstar.com/*
 *://*.img2go.com/*
 *://*.imiprompt.com/*
+*://*.immobilien-zypern.com/*
 *://*.imooc.com/wenda/*
 *://*.imore.com/*
 *://*.imperialcraft.ru/*
@@ -11250,6 +11263,7 @@
 *://*.luetgebrune.buzz/*
 *://*.luguang.net.cn/*
 *://*.luis-vives.es/*
+*://*.lulamaindustrial.co.za/*
 *://*.lulugaobag.com/*
 *://*.lumalabs.ai/*
 *://*.lumenor.ai/*
@@ -11305,6 +11319,7 @@
 *://*.lzwz159.cn/*
 *://*.lzxcwh.com/*
 *://*.lzxszm.com/*
+*://*.m-asociados.es/*
 *://*.m-kouters.buzz/*
 *://*.m-nagaoka.buzz/*
 *://*.m040.com/*
@@ -12196,6 +12211,7 @@
 *://*.noodv.com/*
 *://*.norcomits.buzz/*
 *://*.nordvpnblog.com/*
+*://*.north-plus.net/*
 *://*.northcoast500.com/*
 *://*.notary-index.co.il/*
 *://*.notcrash.com/*
@@ -12883,6 +12899,7 @@
 *://*.promeai.com/*
 *://*.promeai.pro/*
 *://*.promoworksnow.buzz/*
+*://*.prompt-com.com/*
 *://*.prompt.quel.jp/*
 *://*.promptalot.com/*
 *://*.promptbase.com/*
@@ -15330,6 +15347,7 @@
 *://*.snhsoft.com/*
 *://*.snippmate.com/*
 *://*.snjiaoyu.com/*
+*://*.snow-plus.net/*
 *://*.snowcoal.com/*
 *://*.so.muouseo.com/*
 *://*.sobrelinux.info/*
@@ -15346,6 +15364,7 @@
 *://*.softwarekeep.com/*
 *://*.softwaresex.buzz/*
 *://*.softwareuser.asklobster.com/*
+*://*.sogaku.jp/*
 *://*.sognrzh.cn/*
 *://*.sogo16888.com/*
 *://*.soho-village.buzz/*
@@ -15366,6 +15385,7 @@
 *://*.songhepx.com/*
 *://*.songnidianqi.cn/*
 *://*.songshouji.cn/*
+*://*.songtell.com/*
 *://*.sop5fzr.cn/*
 *://*.sora.com/*
 *://*.sorapix.ai/*
@@ -16248,6 +16268,7 @@
 *://*.ulkhmiim.cn/*
 *://*.ultimate-communications.com/*
 *://*.ultimateminecraftlj.weebly.com/*
+*://*.umatechnology.org/*
 *://*.umd5eld.cn/*
 *://*.uminecraft.at.ua/*
 *://*.umonmall.com/*
@@ -17456,7 +17477,7 @@
 *://*.youtube.com/@alkaid-art/*
 *://*.youtube.com/@enigmatic_e/*
 *://*.youtube.com/@sebastiankamph/*
-*://*.youtube.com/@shadiversity/*
+*://*.youtube.com/channel/UCTppZt9BsBmu7tkpMRzvp3w/*
 *://*.youtube.com/channel/UCkmMACUKpQeIxN9D9ARli1Q/*
 *://*.youtube.com/channel/UClSBolYONOzQjOzE4cMHfpw/*
 *://*.youtube.com/channel/UCvKqTb-65iAmXK59sFNKINQ/*
@@ -17722,6 +17743,7 @@
 *://*.zip-mc.com/*
 *://*.zisenvren.com/*
 *://*.ziyouzhanshi.cn/*
+*://*.ziyuanlm.com/*
 *://*.ziyuzhilian.cn/*
 *://*.zj3kbg.cn/*
 *://*.zj4u.cn/*
@@ -18083,6 +18105,7 @@
 *://deshevoequip.cam/*
 *://detail.zol.com.cn/*
 *://detailingexpert.ro/*
+*://developer.aliyun.com/*
 *://developer.aliyun.com/articlezt/*
 *://digitrain.ru/*
 *://digwow.net/*
@@ -19192,6 +19215,7 @@
 *://www.infotravelungaria.ro/*
 *://www.instalacije-pam.si/*
 *://www.instructori-autorizati.ro/*
+*://www.iodraw.com/blog/*
 *://www.ir-iu.com/*
 *://www.it-si.si/*
 *://www.it-swarm-fr.com/*
