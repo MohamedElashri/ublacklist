@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2025-04-01 01:29:17
-# Total count: 20461
+# Version: 2025-05-01 01:29:22
+# Total count: 20479
 
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
@@ -1184,6 +1184,8 @@
 *://*.9valheim.net/*
 *://*.9wy2hpq.cn/*
 *://*.9xt399i.cn/*
+*://*.Sunoai.ai/*
+*://*.Sunoai.asia/*
 *://*.a-tm.co.jp/*
 *://*.a0300.cn/*
 *://*.a3atiyq.cn/*
@@ -1409,6 +1411,7 @@
 *://*.airflowonline.buzz/*
 *://*.airgeorgian.buzz/*
 *://*.airoomplanner.com/*
+*://*.airportcalgary.com/*
 *://*.airproxy.ca/*
 *://*.airtimeaudio.buzz/*
 *://*.aisaika.info/*
@@ -5575,6 +5578,7 @@
 *://*.deepnude.cc/*
 *://*.deepnudenow.com/*
 *://*.deepnudify.com/*
+*://*.deepseek.com/*
 *://*.deepsukebe.io/*
 *://*.deepswap.ai/*
 *://*.defelsko.net.cn/*
@@ -5749,6 +5753,7 @@
 *://*.docteur-joseph.buzz/*
 *://*.docway.net/*
 *://*.dodsonfineart.buzz/*
+*://*.dogbreedadvice.com/*
 *://*.dogovori.info/*
 *://*.dokry.com/*
 *://*.dokumen.tips/*
@@ -5794,6 +5799,7 @@
 *://*.draffinenterprises.buzz/*
 *://*.draftlab.ai/*
 *://*.draonline.org/*
+*://*.drawatoon.com/*
 *://*.drawever.com/*
 *://*.drawgpt.ai/*
 *://*.drawnudes.io/*
@@ -5851,6 +5857,7 @@
 *://*.dunimd.com/*
 *://*.duno-farm.ru/*
 *://*.duoduokou.com/*
+*://*.duolingoguides.com/*
 *://*.duosf.org.cn/*
 *://*.duotin.com/*
 *://*.duqingming.com/*
@@ -5936,6 +5943,7 @@
 *://*.ec002.com/*
 *://*.ecagnzq.cn/*
 *://*.ecfly.cn/*
+*://*.echemi.com/*
 *://*.echo.win/*
 *://*.echoxx.com/*
 *://*.ecnf2016.org/*
@@ -6135,6 +6143,7 @@
 *://*.extreme-mac.buzz/*
 *://*.extutorial.com/*
 *://*.eyecandy.net/*
+*://*.eyewated.com/*
 *://*.eyuth.com/*
 *://*.eyxgwpt.cn/*
 *://*.ezerm.cn/*
@@ -7544,6 +7553,7 @@
 *://*.images.ai/*
 *://*.imagina-tech.buzz/*
 *://*.imagine.art/*
+*://*.imagineanything.ai/*
 *://*.imagineme.ai/*
 *://*.imagineme.app/*
 *://*.imaginewithrashid.com/*
@@ -10396,6 +10406,7 @@
 *://*.jdwsj.com/*
 *://*.je52.cn/*
 *://*.jeda.ai/*
+*://*.jeddahairport.net/*
 *://*.jeffhildebrand.buzz/*
 *://*.jelenve.cn/*
 *://*.jellfcower.com/*
@@ -12409,6 +12420,7 @@
 *://*.opensourcelibs.com/*
 *://*.openthefile.net/*
 *://*.opentools.ai/*
+*://*.opineals.net/*
 *://*.opris.chengjinzm.com/*
 *://*.optifine.es/*
 *://*.optifine.fr/*
@@ -12566,6 +12578,7 @@
 *://*.penly.ai/*
 *://*.pentacraft.ru/*
 *://*.penzai.com/*
+*://*.peopleai.com/*
 *://*.pephop.ai/*
 *://*.peppababy.com/*
 *://*.perchance.org/*
@@ -14546,6 +14559,7 @@
 *://*.randolph.apsva.us/*
 *://*.ranjgzo.cn/*
 *://*.rareconnections.io/*
+*://*.rarswi.net/*
 *://*.rat.dev/*
 *://*.rate-movie.com/*
 *://*.rateye.tistory.com/*
@@ -15047,6 +15061,7 @@
 *://*.scmjgene.com/*
 *://*.scootersoftware.com/*
 *://*.scorui.com/*
+*://*.scpa.education/*
 *://*.scpaean.com/*
 *://*.scqsnc.com/*
 *://*.scrum.co/*
@@ -15583,6 +15598,7 @@
 *://*.sunmumu.com/*
 *://*.sunnynana.com/*
 *://*.suno.ai/*
+*://*.suno.com/*
 *://*.sunyuanxx.com/*
 *://*.suoluowan.com/*
 *://*.supagruen.github.io/StableDiffusion-CheatSheet/*
@@ -15879,6 +15895,7 @@
 *://*.theshakerinn.buzz/*
 *://*.theshuggahpies.com/*
 *://*.thesurfsiders.buzz/*
+*://*.thetawise.ai/*
 *://*.thevelvetheaven.buzz/*
 *://*.thewordcracker.com/*
 *://*.thhsc.com/*
@@ -18897,6 +18914,7 @@
 *://www.800400.net/*
 *://www.809505.com/*
 *://www.80caijing.com/*
+*://www.8682.cc/*
 *://www.912688.com/*
 *://www.92aliyun.com/*
 *://www.9999ktv.com/*
