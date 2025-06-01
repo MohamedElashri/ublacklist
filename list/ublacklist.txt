@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2025-05-01 01:29:22
-# Total count: 20479
+# Version: 2025-06-01 01:29:51
+# Total count: 20482
 
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
@@ -1185,7 +1185,6 @@
 *://*.9wy2hpq.cn/*
 *://*.9xt399i.cn/*
 *://*.Sunoai.ai/*
-*://*.Sunoai.asia/*
 *://*.a-tm.co.jp/*
 *://*.a0300.cn/*
 *://*.a3atiyq.cn/*
@@ -2201,6 +2200,7 @@
 *://*.bubuzhe.com/*
 *://*.buccelli.buzz/*
 *://*.budanghuishi.com/*
+*://*.buddhaweekly.com/*
 *://*.buffalo-mn.org/*
 *://*.bugelun.com/*
 *://*.buginfo.tech/*
@@ -5678,6 +5678,7 @@
 *://*.dicrt.cn/*
 *://*.didibeile.com/*
 *://*.didong100.com/*
+*://*.diffus.me/*
 *://*.diffusion.land/*
 *://*.diffusion.to/*
 *://*.diffusionai.art/*
@@ -15599,6 +15600,7 @@
 *://*.sunnynana.com/*
 *://*.suno.ai/*
 *://*.suno.com/*
+*://*.sunoai.asia/*
 *://*.sunyuanxx.com/*
 *://*.suoluowan.com/*
 *://*.supagruen.github.io/StableDiffusion-CheatSheet/*
@@ -18251,6 +18253,7 @@
 *://gledalisce-zarja.si/*
 *://golangrepo.com/*
 *://gonefishing.dk/*
+*://goods.taobao.com/*
 *://goodsluxuryes.news/*
 *://gpl-bucuresti.ro/*
 *://gradinita34bucuresti.ro/*
