@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2025-07-01 01:29:40
-# Total count: 20482
+# Version: 2025-08-01 01:30:09
+# Total count: 20485
 
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
@@ -2478,6 +2478,7 @@
 *://*.civbvh.cn/*
 *://*.civit.ai/*
 *://*.civitai.com/*
+*://*.civitaiarchive.com/*
 *://*.civitaic.com/*
 *://*.cizsjedx.cn/*
 *://*.cj0n93c.cn/*
@@ -12097,6 +12098,7 @@
 *://*.net-stakes.buzz/*
 *://*.netspew.buzz/*
 *://*.network.vgchartz.com/*
+*://*.netwrck.com/*
 *://*.neuf.tv/*
 *://*.neural.love/*
 *://*.neuralframes.com/*
@@ -15374,6 +15376,7 @@
 *://*.soft32.com/*
 *://*.softbranchdevelopers.com/*
 *://*.softgist.com/*
+*://*.softhandtech.com/*
 *://*.softonic.com/*
 *://*.softonic.jp/*
 *://*.software-testing.com/*
