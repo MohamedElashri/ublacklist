@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2025-09-01 01:29:30
-# Total count: 20485
+# Version: 2025-10-01 01:29:17
+# Total count: 20488
 
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
@@ -2516,6 +2516,7 @@
 *://*.cliptics.com/*
 *://*.cloe.bytebeacon.com/@bb_ras/*
 *://*.clothoff.io/*
+*://*.clothoff.net/*
 *://*.clothw.com/*
 *://*.cloud.tencent.com/developer/ask/*
 *://*.cloud6.net/*
@@ -5582,6 +5583,8 @@
 *://*.deepseek.com/*
 *://*.deepsukebe.io/*
 *://*.deepswap.ai/*
+*://*.deepwiki.com/*
+*://*.deepwiki.org/*
 *://*.defelsko.net.cn/*
 *://*.defunmaison.com/*
 *://*.delavaio.com/*
