@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2025-10-01 01:29:17
-# Total count: 20488
+# Version: 2025-11-01 01:29:00
+# Total count: 20489
 
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
@@ -2475,6 +2475,7 @@
 *://*.cityoflakewood.us/*
 *://*.cityzx.cn/*
 *://*.ciupacabra.com/*
+*://*.civarchive.com/*
 *://*.civbvh.cn/*
 *://*.civit.ai/*
 *://*.civitai.com/*
