@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2025-11-01 01:29:00
-# Total count: 20489
+# Version: 2025-12-01 01:30:13
+# Total count: 20490
 
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
@@ -11129,6 +11129,7 @@
 *://*.link4399.cn/*
 *://*.linkfang.org/*
 *://*.linksou.cc/*
+*://*.linux-jp.org/*
 *://*.linux-packages.com/*
 *://*.linuxadictos.com/*
 *://*.linuxcapable.com/*
