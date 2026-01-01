@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2025-12-01 01:30:13
-# Total count: 20490
+# Version: 2026-01-01 01:30:13
+# Total count: 20815
 
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
@@ -1204,12 +1204,14 @@
 *://*.a8om15x.cn/*
 *://*.a8youxi.com/*
 *://*.a9v0oxx.cn/*
+*://*.aa.linux-terminal.com/*
 *://*.aaadddd.com/*
 *://*.aaamhh.com/*
 *://*.aaggob.cn/*
 *://*.aalahty.cn/*
 *://*.aalaicc.com/*
 *://*.aasou.cc/*
+*://*.ab.linux-terminal.com/*
 *://*.abba-escorts.buzz/*
 *://*.abbatur.com.br/*
 *://*.abbc.org.au/*
@@ -1252,6 +1254,7 @@
 *://*.acvu.cn/*
 *://*.acxvv.com/*
 *://*.ad-write.buzz/*
+*://*.ad.linux-terminal.com/*
 *://*.adads2.cn/*
 *://*.adaicy.com/*
 *://*.adcardpromo.buzz/*
@@ -1281,18 +1284,21 @@
 *://*.adventures-of.buzz/*
 *://*.advertisement4you.buzz/*
 *://*.adzna.com/*
+*://*.ae.linux-terminal.com/*
 *://*.aeg6.com/*
 *://*.aereolink.com.br/*
 *://*.aeroscroll.com/*
 *://*.aes-chile.cl/*
 *://*.aesml.com/*
 *://*.aestheticartistrymd.com/*
+*://*.af.linux-terminal.com/*
 *://*.af009.com/*
 *://*.afcc.cc/*
 *://*.affinity-languages.buzz/*
 *://*.affordable-designs.buzz/*
 *://*.africa.iclei.org/*
 *://*.afton-pumps.buzz/*
+*://*.ag.linux-terminal.com/*
 *://*.ag8616e.cn/*
 *://*.agadezlaplage.buzz/*
 *://*.aggw3fw.cn/*
@@ -1333,6 +1339,7 @@
 *://*.ai-ui.ai/*
 *://*.ai-wiz.art/*
 *://*.ai.google/*
+*://*.ai.linux-terminal.com/*
 *://*.ai.nero.com/*
 *://*.ai016.com/*
 *://*.ai4prompts.com/*
@@ -1448,6 +1455,7 @@
 *://*.ajsyd18.cn/*
 *://*.ajyrcor.cn/*
 *://*.ajyxtools.cn/*
+*://*.ak.linux-terminal.com/*
 *://*.ak8yfq6.cn/*
 *://*.akersgata.buzz/*
 *://*.akhbar-alkhaleej.com/*
@@ -1460,6 +1468,7 @@
 *://*.al-muhaidib.buzz/*
 *://*.al-nida.buzz/*
 *://*.al-shaibani.buzz/*
+*://*.al.linux-terminal.com/*
 *://*.ala-ding.cn/*
 *://*.alabosy123.com/*
 *://*.aladin-upload.buzz/*
@@ -1513,6 +1522,7 @@
 *://*.altia.com/*
 *://*.altierisauto.buzz/*
 *://*.alwaysemmyhope.com/*
+*://*.am.linux-terminal.com/*
 *://*.amaizing.art/*
 *://*.amalur-madretierra.es/*
 *://*.amazon.com/stores/Aeryn-Zen/author/B0C7NL912Q/*
@@ -1533,6 +1543,7 @@
 *://*.amyspastasauce.com/*
 *://*.amzpecty.com/*
 *://*.an-matome.com/*
+*://*.an.linux-terminal.com/*
 *://*.an700.com/*
 *://*.anakin.ai/*
 *://*.analplug.cn/*
@@ -1601,6 +1612,7 @@
 *://*.anysearch.cc/*
 *://*.anysm.cn/*
 *://*.anyviewer.com/*
+*://*.ao.linux-terminal.com/*
 *://*.aodumm.cn/*
 *://*.aoeset.cn/*
 *://*.aorta-ad.cn/*
@@ -1640,11 +1652,13 @@
 *://*.apuapqr.cn/*
 *://*.apuestas21.buzz/*
 *://*.apyequan.com/*
+*://*.aq.linux-terminal.com/*
 *://*.aqbbb.com/*
 *://*.aqmdjx.com/*
 *://*.aqtt.cc/*
 *://*.aquacool-gaffney.buzz/*
 *://*.aquariumfishsource.com/*
+*://*.ar.linux-terminal.com/*
 *://*.ar3326k.cn/*
 *://*.arabian-gallery.buzz/*
 *://*.arabicmoviesdirect.buzz/*
@@ -1712,6 +1726,7 @@
 *://*.as.koreanhd.kyiv.ua/*
 *://*.as.koreanhe.kyiv.ua/*
 *://*.as.koreanhi.kyiv.ua/*
+*://*.as.linux-terminal.com/*
 *://*.as419.cn/*
 *://*.asbestine.buzz/*
 *://*.asc-infolog.buzz/*
@@ -1755,6 +1770,7 @@
 *://*.astridai.co/*
 *://*.astucesmobiles.com/*
 *://*.asylan.com/*
+*://*.at.linux-terminal.com/*
 *://*.ateliersbrugier.com/*
 *://*.athabasca-foto.com/*
 *://*.athletessolution.buzz/*
@@ -1769,6 +1785,7 @@
 *://*.attjp4.cn/*
 *://*.atwebpages.com/*
 *://*.atziv3.cn/*
+*://*.au.linux-terminal.com/*
 *://*.aufzug-roesler.buzz/*
 *://*.augxlabs.com/*
 *://*.aunn.cc/*
@@ -1782,20 +1799,24 @@
 *://*.autotimeit.buzz/*
 *://*.auuur.com/*
 *://*.auxilia.space/*
+*://*.av.linux-terminal.com/*
 *://*.avenuetosuccess.buzz/*
 *://*.avkoc33.cn/*
 *://*.avtrs.ai/*
 *://*.avzwbiv.cn/*
+*://*.aw.linux-terminal.com/*
 *://*.aw10kq.cn/*
 *://*.awesomeopensource.com/*
 *://*.awoutei.cn/*
 *://*.awshao.com/*
 *://*.awwifi.com/*
+*://*.ax.linux-terminal.com/*
 *://*.axbjkdlaw.com/*
 *://*.axhdzip.cn/*
 *://*.axioncapitalmanagement.com/*
 *://*.axisworldent.buzz/*
 *://*.axxis.co.jp/*
+*://*.ay.linux-terminal.com/*
 *://*.aymsw.com/*
 *://*.aymsz.com/*
 *://*.ayqzmp.com/*
@@ -1803,6 +1824,7 @@
 *://*.aytx999.com/*
 *://*.ayustyle.com/*
 *://*.ayxbwy.com/*
+*://*.az.linux-terminal.com/*
 *://*.az88mqq.cn/*
 *://*.azfx.cc/*
 *://*.azhahf.com/*
@@ -1824,6 +1846,7 @@
 *://*.b79l.com/*
 *://*.b8pop.cn/*
 *://*.b9j.njaym.com/*
+*://*.ba.linux-terminal.com/*
 *://*.background.lol/*
 *://*.background.zmo.ai/*
 *://*.badajian.com/*
@@ -1883,6 +1906,7 @@
 *://*.bayareaexotic.buzz/*
 *://*.baycen.cn/*
 *://*.baywearclothing.buzz/*
+*://*.bb.linux-terminal.com/*
 *://*.bbjkw.net/*
 *://*.bbmm123.com/*
 *://*.bbsah.com/*
@@ -1896,6 +1920,7 @@
 *://*.bcqaw.com/*
 *://*.bctv082.cn/*
 *://*.bcylxs.com/*
+*://*.bd.linux-terminal.com/*
 *://*.bdiscover.kakaobrain.com/*
 *://*.bdjbj.com/*
 *://*.bdqnhm.com/*
@@ -1904,6 +1929,7 @@
 *://*.bdtjbld.cn/*
 *://*.bduichenb.xyz/*
 *://*.bdzgd67.cn/*
+*://*.be.linux-terminal.com/*
 *://*.beach-talk.cn/*
 *://*.beamer-heimkino.buzz/*
 *://*.beaniebiz.buzz/*
@@ -1975,23 +2001,27 @@
 *://*.beyondbookkeeper.buzz/*
 *://*.bezx.cc/*
 *://*.bezzsj.com/*
+*://*.bf.linux-terminal.com/*
 *://*.bf477c0.cn/*
 *://*.bf7rqma.cn/*
 *://*.bfbye.com/*
 *://*.bfi5w4t.cn/*
 *://*.bfq2ef1.cn/*
 *://*.bfzmnj.cn/*
+*://*.bg.linux-terminal.com/*
 *://*.bggbyigc.cn/*
 *://*.bgj010.cn/*
 *://*.bgpc.cc/*
 *://*.bgrem.ai/*
 *://*.bgw114.com/*
 *://*.bgzrw.com/*
+*://*.bh.linux-terminal.com/*
 *://*.bheycup.cn/*
 *://*.bhjbzo.cn/*
 *://*.bhjy2007.com/*
 *://*.bhlzyy.com/*
 *://*.bhsou.cc/*
+*://*.bi.linux-terminal.com/*
 *://*.bi8n0u8.cn/*
 *://*.bianmawd.cc/*
 *://*.biaoqingb.com/*
@@ -2026,6 +2056,7 @@
 *://*.bizrv.com/*
 *://*.bj-gaoda.cn/*
 *://*.bj-xyy.cn/*
+*://*.bj.linux-terminal.com/*
 *://*.bj24zx.com/*
 *://*.bj3fj0i.cn/*
 *://*.bjclyly.com/*
@@ -2068,6 +2099,7 @@
 *://*.bk8848.cn/*
 *://*.bkmhgc0.cn/*
 *://*.bkrk.cc/*
+*://*.bl.linux-terminal.com/*
 *://*.bl8t0xj.cn/*
 *://*.blackink.ai/*
 *://*.blackmesatrading.buzz/*
@@ -2102,6 +2134,7 @@
 *://*.bluewind3d.cn/*
 *://*.bluraycopys.com/*
 *://*.blybx.com/*
+*://*.bm.linux-terminal.com/*
 *://*.bm0766.com/*
 *://*.bmfnib.cn/*
 *://*.bmhysw.com/*
@@ -2109,6 +2142,7 @@
 *://*.bmq8.com/*
 *://*.bmw8830.com/*
 *://*.bmxssq.com/*
+*://*.bn.linux-terminal.com/*
 *://*.bn44zmh.cn/*
 *://*.bn906.com/*
 *://*.bndgq.com/*
@@ -2116,6 +2150,7 @@
 *://*.bneovb5.cn/*
 *://*.bnshou.com/*
 *://*.bnstbns.pro/*
+*://*.bo.linux-terminal.com/*
 *://*.boardersedge.buzz/*
 *://*.boaterssource.buzz/*
 *://*.bobtiyubob.com/*
@@ -2156,9 +2191,11 @@
 *://*.bpc8.cn/*
 *://*.bpmxq.com/*
 *://*.bpren.cn/*
+*://*.bq.linux-terminal.com/*
 *://*.bqbaike.work/*
 *://*.bqtt.cc/*
 *://*.br.atsit.in/*
+*://*.br.linux-terminal.com/*
 *://*.br1500hs.com/*
 *://*.brainandspineschool.com/*
 *://*.brainds.ai/*
@@ -2182,6 +2219,7 @@
 *://*.brwhn.com/*
 *://*.brxvhhj.cn/*
 *://*.bry9.com/*
+*://*.bs.linux-terminal.com/*
 *://*.bs518.cn/*
 *://*.bsccmjournal.org/*
 *://*.bslyxh.com/*
@@ -2191,6 +2229,7 @@
 *://*.bsxing.com/*
 *://*.bsxjjd.com/*
 *://*.bsxjzz.com/*
+*://*.bt.linux-terminal.com/*
 *://*.bt9876.com/*
 *://*.btgrcc.com/*
 *://*.bth8.cn/*
@@ -2218,18 +2257,22 @@
 *://*.buxcodes.org/*
 *://*.buyhomehub.cn/*
 *://*.buzzphp.com/*
+*://*.bv.linux-terminal.com/*
 *://*.bvmfh.top/*
+*://*.bw.linux-terminal.com/*
 *://*.bwclkkh.cn/*
 *://*.bx8z.cn/*
 *://*.bxaih.com/*
 *://*.bxari.com/*
 *://*.bxsh4ba.cn/*
+*://*.by.linux-terminal.com/*
 *://*.by2n2y7.cn/*
 *://*.byadg.cn/*
 *://*.byswq.com/*
 *://*.bytemeta.vip/*
 *://*.byxz518.com/*
 *://*.byzzxsj.com/*
+*://*.bz.linux-terminal.com/*
 *://*.bz328.com/*
 *://*.bzbinhai.com/*
 *://*.bzldzs.com/*
@@ -2249,6 +2292,7 @@
 *://*.c9ee8b1.cn/*
 *://*.c9nno0t.cn/*
 *://*.c9t87ml.cn/*
+*://*.ca.linux-terminal.com/*
 *://*.cabanadoacaioficial.com.br/*
 *://*.cache.one/*
 *://*.cadbim-3dcg.jp/*
@@ -2311,6 +2355,7 @@
 *://*.cbt.sdmpsalatiga.sch.id/*
 *://*.cbuowhi.cn/*
 *://*.cbx6sn.cn/*
+*://*.cc.linux-terminal.com/*
 *://*.cc8816.com/*
 *://*.ccaqjx.com/*
 *://*.ccbeida.com/*
@@ -2328,6 +2373,7 @@
 *://*.ccruihe.com/*
 *://*.cctgou.com/*
 *://*.ccvic.com/*
+*://*.cd.linux-terminal.com/*
 *://*.cdbqgzdl.com/*
 *://*.cdcooling.com/*
 *://*.cddexirui.com/*
@@ -2356,6 +2402,7 @@
 *://*.cdyouchi.com/*
 *://*.cdyuanchi.com/*
 *://*.cdzhixin.com/*
+*://*.ce.linux-terminal.com/*
 *://*.ce2tq74.cn/*
 *://*.ceaoiju.cn/*
 *://*.cefotiam.com/*
@@ -2374,6 +2421,7 @@
 *://*.cesdnet.com/*
 *://*.cetturismo.cl/*
 *://*.ceyicm.cn/*
+*://*.cf.linux-terminal.com/*
 *://*.cf628.com/*
 *://*.cf6h0hw.cn/*
 *://*.cfadnc.org/*
@@ -2385,6 +2433,7 @@
 *://*.cfsm.gov.fm/*
 *://*.cfyuele.com/*
 *://*.cg-corp.com/*
+*://*.cg.linux-terminal.com/*
 *://*.cgdbior.cn/*
 *://*.cgdream.ai/*
 *://*.cgeas.org.cn/*
@@ -2392,6 +2441,7 @@
 *://*.cgsofts.com/*
 *://*.cgwindows.cn/*
 *://*.cgzjj.com/*
+*://*.ch.linux-terminal.com/*
 *://*.chabuduoyang.com/*
 *://*.chalidehb.com/*
 *://*.chandaotx.com/*
@@ -2462,6 +2512,7 @@
 *://*.chunleis.com/*
 *://*.chuntianty.com/*
 *://*.chwings.com/*
+*://*.ci.linux-terminal.com/*
 *://*.ciciai.com/*
 *://*.ciibpsv.cn/*
 *://*.cinemacafe.net/*
@@ -2490,10 +2541,12 @@
 *://*.cjpzumg.cn/*
 *://*.cjr35.cn/*
 *://*.cjv1azd.cn/*
+*://*.ck.linux-terminal.com/*
 *://*.ckirtlh.cn/*
 *://*.ckj188.com/*
 *://*.ckjsq.com/*
 *://*.cklmrpm.cn/*
+*://*.cl.linux-terminal.com/*
 *://*.cl1s6eh.cn/*
 *://*.cl2p5nn.cn/*
 *://*.clairvoyantsoftware.buzz/*
@@ -2530,6 +2583,7 @@
 *://*.clubminecraftbr.blogspot.com/*
 *://*.clubtecleno.org/*
 *://*.clwdd.com/*
+*://*.cm.linux-terminal.com/*
 *://*.cm0769.com/*
 *://*.cm7w0uj.cn/*
 *://*.cmbhjz1.cn/*
@@ -2542,6 +2596,7 @@
 *://*.cmsay.com/*
 *://*.cmsdk.com/*
 *://*.cn.com/*
+*://*.cn.linux-terminal.com/*
 *://*.cn0931.cn/*
 *://*.cn2u39.cn/*
 *://*.cn3hr3g.cn/*
@@ -2572,6 +2627,7 @@
 *://*.cnvbea.cn/*
 *://*.cnvhair.com/*
 *://*.cnxiangyan.com/*
+*://*.co.linux-terminal.com/*
 *://*.cocoachina.com/*
 *://*.coddagn.cn/*
 *://*.code-404.net/*
@@ -5309,6 +5365,7 @@
 *://*.cqyqty.com/*
 *://*.cqzcds.com/*
 *://*.cqzxi9f.cn/*
+*://*.cr.linux-terminal.com/*
 *://*.crackorg.com/*
 *://*.craffts.com/*
 *://*.craftear.info/*
@@ -5344,6 +5401,7 @@
 *://*.crypto-days.jp/*
 *://*.cryptoart.io/*
 *://*.crystal-launcher.net/*
+*://*.cs.linux-terminal.com/*
 *://*.cs1121.com/*
 *://*.cs5vy3p.cn/*
 *://*.cscorigin.com/*
@@ -5369,6 +5427,7 @@
 *://*.ctjr9999.com/*
 *://*.ctpn.cc/*
 *://*.ctzdq.com/*
+*://*.cu.linux-terminal.com/*
 *://*.cu0ky3s.cn/*
 *://*.cu1rcto.cn/*
 *://*.cubixworld.ru/*
@@ -5382,6 +5441,7 @@
 *://*.curlinglaviolette.buzz/*
 *://*.cursefire.com/*
 *://*.cutout.pro/*
+*://*.cv.linux-terminal.com/*
 *://*.cv405s8.cn/*
 *://*.cv833ap.cn/*
 *://*.cv9n2u4.cn/*
@@ -5389,11 +5449,13 @@
 *://*.cvktvbox.com/*
 *://*.cvvq.cc/*
 *://*.cvygrlf.cn/*
+*://*.cw.linux-terminal.com/*
 *://*.cwjzwxs.cn/*
 *://*.cwk8.cn/*
 *://*.cwq8.cn/*
 *://*.cws-arch.buzz/*
 *://*.cwvpnsh.cn/*
+*://*.cx.linux-terminal.com/*
 *://*.cxcfw.cn/*
 *://*.cxdyslzp.com/*
 *://*.cxf9.cn/*
@@ -5412,6 +5474,7 @@
 *://*.cxyzd.xyz/*
 *://*.cxyzjd.com/*
 *://*.cxz114.com/*
+*://*.cy.linux-terminal.com/*
 *://*.cy0734.com/*
 *://*.cy938.com/*
 *://*.cyanogenmods.org/*
@@ -5419,6 +5482,7 @@
 *://*.cybersecguide.com/*
 *://*.cyhjjc.com/*
 *://*.cyshangji.com/*
+*://*.cz.linux-terminal.com/*
 *://*.czag88.com/*
 *://*.czaofeng.com/*
 *://*.czchouqin.com/*
@@ -5455,6 +5519,7 @@
 *://*.d8749.cn/*
 *://*.d8m1rj9.cn/*
 *://*.da-quan.net/*
+*://*.da.linux-terminal.com/*
 *://*.da6v220.cn/*
 *://*.da868.cn/*
 *://*.dacongyun.com/*
@@ -5547,6 +5612,7 @@
 *://*.de-babywinkel.buzz/*
 *://*.de-vraag.com/*
 *://*.de.askdev.info/*
+*://*.de.linux-terminal.com/*
 *://*.dealmoon.co.uk/top/*
 *://*.dealproduct.cn/*
 *://*.debian8.com/*
@@ -5721,12 +5787,14 @@
 *://*.dixiedirectory.buzz/*
 *://*.diyishipu.com/*
 *://*.dizzycoding.com/*
+*://*.dj.linux-terminal.com/*
 *://*.dj9000.cn/*
 *://*.dj94k.cn/*
 *://*.djcxy.com/*
 *://*.djfd11.cn/*
 *://*.djnegroup.com/*
 *://*.djzz0q.cn/*
+*://*.dk.linux-terminal.com/*
 *://*.dkchenpin.cn/*
 *://*.dkd8.com/*
 *://*.dkfp88.cn/*
@@ -5739,6 +5807,7 @@
 *://*.dlmozhou.com/*
 *://*.dloceanstar.cn/*
 *://*.dlrwyn6.cn/*
+*://*.dm.linux-terminal.com/*
 *://*.dm01c.cn/*
 *://*.dmfxy.com/*
 *://*.dmgogo.com/*
@@ -5752,6 +5821,7 @@
 *://*.dnf4f.com/*
 *://*.dnruxet.cn/*
 *://*.dnxzesj.cn/*
+*://*.do.linux-terminal.com/*
 *://*.doak5vx.cn/*
 *://*.docgord.buzz/*
 *://*.dockerquestions.com/*
@@ -5871,6 +5941,7 @@
 *://*.dushi0375.com/*
 *://*.dushiqy.com/*
 *://*.duto.cc/*
+*://*.dv.linux-terminal.com/*
 *://*.dvscc3x.cn/*
 *://*.dw218.com/*
 *://*.dw62842.cn/*
@@ -5895,6 +5966,7 @@
 *://*.dyxszx.com/*
 *://*.dyzxjp.com/*
 *://*.dz-x.net/*
+*://*.dz.linux-terminal.com/*
 *://*.dz2022.cn/*
 *://*.dz2wqy1.cn/*
 *://*.dz69.cn/*
@@ -5946,6 +6018,7 @@
 *://*.ebtworld.com/*
 *://*.ebziyus.cn/*
 *://*.ec-europe.org/*
+*://*.ec.linux-terminal.com/*
 *://*.ec002.com/*
 *://*.ecagnzq.cn/*
 *://*.ecfly.cn/*
@@ -5972,16 +6045,19 @@
 *://*.edureka.co/*
 *://*.edv-buch.buzz/*
 *://*.edyb8yf.cn/*
+*://*.ee.linux-terminal.com/*
 *://*.eecpvx.cn/*
 *://*.eeyyoo.com.cn/*
 *://*.efdplwh.cn/*
 *://*.efeegypt.org/*
 *://*.efremshop.pl/*
 *://*.efzx.cc/*
+*://*.eg.linux-terminal.com/*
 *://*.egcc.cc/*
 *://*.eggtree.net/*
 *://*.egnmbjy.cn/*
 *://*.ego19.com/*
+*://*.eh.linux-terminal.com/*
 *://*.ehaok.cn/*
 *://*.ehentai.ai/*
 *://*.ehgr.cn/*
@@ -6003,6 +6079,7 @@
 *://*.ekzact.buzz/*
 *://*.ekzx.cc/*
 *://*.el-care.jp/*
+*://*.el.linux-terminal.com/*
 *://*.elai.io/*
 *://*.elainetoth.com/*
 *://*.elastec.com/*
@@ -6042,6 +6119,7 @@
 *://*.empire-clothing.buzz/*
 *://*.empires-r.us/*
 *://*.en-minecraft.org/*
+*://*.en.linux-terminal.com/*
 *://*.enayacare.com/*
 *://*.encdfvo.cn/*
 *://*.encodingcompiler.com/*
@@ -6061,6 +6139,7 @@
 *://*.ensou.cc/*
 *://*.enticontrol.com/*
 *://*.enww.cc/*
+*://*.eo.linux-terminal.com/*
 *://*.eodkieldt.cn/*
 *://*.eolink.com/*
 *://*.eoncon.com/*
@@ -6072,6 +6151,7 @@
 *://*.eqve8n3.cn/*
 *://*.eqwvd5a.cn/*
 *://*.eqy5ym6.cn/*
+*://*.er.linux-terminal.com/*
 *://*.er3561.cn/*
 *://*.erg.tcta.com.au/*
 *://*.erigd.com/*
@@ -6088,6 +6168,7 @@
 *://*.erucdph.cn/*
 *://*.erwinedu.com/*
 *://*.erzet.cc/*
+*://*.es.linux-terminal.com/*
 *://*.esbnyc.com/*
 *://*.esc0769.com/*
 *://*.escco.cn/*
@@ -6099,6 +6180,7 @@
 *://*.estjc9.com/*
 *://*.estt94.cn/*
 *://*.esuteru.com/*
+*://*.et.linux-terminal.com/*
 *://*.ete68e1.cn/*
 *://*.etf-world.buzz/*
 *://*.etfdep.cn/*
@@ -6106,6 +6188,7 @@
 *://*.etsy.com/listing/1368236844/*
 *://*.etsy.com/listing/1458059429/*
 *://*.etzel-ostfriesland.de/*
+*://*.eu.linux-terminal.com/*
 *://*.eucho.cn/*
 *://*.eue5xbp.site/*
 *://*.euhskwa.cn/*
@@ -6174,6 +6257,7 @@
 *://*.f7s422u.cn/*
 *://*.f81llg.cn/*
 *://*.f8bgrmp.cn/*
+*://*.fa.linux-terminal.com/*
 *://*.fa0vu8h.cn/*
 *://*.fabdream.art/*
 *://*.fabioinghiramiwatch.buzz/*
@@ -6270,6 +6354,7 @@
 *://*.ferienwohnung-muenchen.buzz/*
 *://*.ferrisfang.com/*
 *://*.fes.wiki/*
+*://*.ff.linux-terminal.com/*
 *://*.ff8yns.cn/*
 *://*.ffdcny.buzz/*
 *://*.ffff518.com/*
@@ -6281,6 +6366,7 @@
 *://*.fhd6exs.cn/*
 *://*.fheh.com.cn/*
 *://*.fhsas.com/*
+*://*.fi.linux-terminal.com/*
 *://*.fibermall.com/*
 *://*.fibrenet.cn/*
 *://*.fifth028.com/*
@@ -6329,6 +6415,7 @@
 *://*.fixes.pub/*
 *://*.fixpython.com/*
 *://*.fizet14.cn/*
+*://*.fj.linux-terminal.com/*
 *://*.fjbymy.com/*
 *://*.fjcdt.com/*
 *://*.fjcorreia.com/*
@@ -6342,6 +6429,7 @@
 *://*.fjtnkhx.cn/*
 *://*.fjutstart.cn/*
 *://*.fjx1987.com/*
+*://*.fk.linux-terminal.com/*
 *://*.fkbwmey.cn/*
 *://*.fkeuoqj.cn/*
 *://*.fkfwg.cn/*
@@ -6365,6 +6453,7 @@
 *://*.flvrclothing.com/*
 *://*.flx4.com/*
 *://*.flyocean.cn/*
+*://*.fm.linux-terminal.com/*
 *://*.fmcpe.com/*
 *://*.fmdesk.com.cn/*
 *://*.fmdzmf.com/*
@@ -6373,6 +6462,7 @@
 *://*.fnbe1.com/*
 *://*.fnd8.cn/*
 *://*.fnruifeng.com/*
+*://*.fo.linux-terminal.com/*
 *://*.fofa.so/*
 *://*.fogsbane.dev/*
 *://*.folkculturebh.org/*
@@ -6427,6 +6517,7 @@
 *://*.fqpn.cc/*
 *://*.fqq8.cn/*
 *://*.fr-minecraft.net/mod-minecraft-/*
+*://*.fr.linux-terminal.com/*
 *://*.fr.mituning.com/*
 *://*.fr/*Q%E5%BE%AE%E5%90%8C%E5%8F%B7*
 *://*.fr9byi.cn/*
@@ -6528,6 +6619,7 @@
 *://*.fx6t.com/*
 *://*.fxdsgc.com/*
 *://*.fxjsrd.cn/*
+*://*.fy.linux-terminal.com/*
 *://*.fyi/*
 *://*.fyjxzl.com/*
 *://*.fykoo.com/*
@@ -6556,6 +6648,7 @@
 *://*.g8028.com/*
 *://*.g8gbsq2.cn/*
 *://*.g8q9699.cn/*
+*://*.ga.linux-terminal.com/*
 *://*.ga/*
 *://*.gaapp.org/*
 *://*.gab.ai/*
@@ -6602,6 +6695,7 @@
 *://*.gatenet1.buzz/*
 *://*.gatos.buzz/*
 *://*.gaypla.com/*
+*://*.gb.linux-terminal.com/*
 *://*.gb92pg5.cn/*
 *://*.gbbey0o.cn/*
 *://*.gbg23rw.cn/*
@@ -6615,6 +6709,7 @@
 *://*.gcm888.com/*
 *://*.gcxmx.com/*
 *://*.gcyfd.shop/*
+*://*.gd.linux-terminal.com/*
 *://*.gd29.cn/*
 *://*.gdakj.com/*
 *://*.gdboxinda.com/*
@@ -6630,6 +6725,7 @@
 *://*.gdsyi.com/*
 *://*.gdto.cc/*
 *://*.gdzsgb.cn/*
+*://*.ge.linux-terminal.com/*
 *://*.gear88.com/*
 *://*.gebvrl0.cn/*
 *://*.gecdesigns.com/*
@@ -6655,6 +6751,7 @@
 *://*.generai.art/*
 *://*.generaitiv.xyz/*
 *://*.generateart.com/*
+*://*.generative-ai.sejuku.net/*
 *://*.generativeai.pub/*
 *://*.generators.art/*
 *://*.genesus.com/*
@@ -6679,6 +6776,7 @@
 *://*.getporn.ai/*
 *://*.getridbug.com/*
 *://*.gettywallpapers.com/cute-anime-girl-profile-pictures/*
+*://*.gf.linux-terminal.com/*
 *://*.gfart.cn/*
 *://*.gfgyyq.com/*
 *://*.gfhaoxin.com/*
@@ -6689,12 +6787,14 @@
 *://*.gfrysxn.cn/*
 *://*.gftna.com/*
 *://*.gfzyecq.com/*
+*://*.gg.linux-terminal.com/*
 *://*.gg4ss.com/*
 *://*.gghu.com/*
 *://*.ggpredict.io/*
 *://*.ggwwyy.com/*
 *://*.ggxpsr.cn/*
 *://*.ggzzdlm.com/*
+*://*.gh.linux-terminal.com/*
 *://*.gh3044.com/*
 *://*.ghacks.net/*
 *://*.ghcc.cc/*
@@ -6702,6 +6802,7 @@
 *://*.ghjscl6.com/*
 *://*.ghzoske.cn/*
 *://*.ghzssj.com/*
+*://*.gi.linux-terminal.com/*
 *://*.giants-news.com/*
 *://*.gibps6q.cn/*
 *://*.gid-minecraft.ru/*
@@ -6753,6 +6854,7 @@
 *://*.gk8tjmj.cn/*
 *://*.gkj68.com/*
 *://*.gl-mods.ru/*
+*://*.gl.linux-terminal.com/*
 *://*.gl91.cn/*
 *://*.glamgirls.ai/*
 *://*.glamping-hotel.com/*
@@ -6778,6 +6880,7 @@
 *://*.glxyjqx.com/*
 *://*.glynook.cn/*
 *://*.glzbxs.com/*
+*://*.gm.linux-terminal.com/*
 *://*.gm0j5xn.cn/*
 *://*.gm328.com/*
 *://*.gmcgsoft.com/*
@@ -6786,6 +6889,7 @@
 *://*.gmfza.cn/*
 *://*.gmwcwze.cn/*
 *://*.gmyimin.com/*
+*://*.gn.linux-terminal.com/*
 *://*.gn3guy7.cn/*
 *://*.gn9u60o.cn/*
 *://*.gnm47a.cn/*
@@ -6835,6 +6939,7 @@
 *://*.gougeili8.com/*
 *://*.goulanyaozhai.com.cn/*
 *://*.gov-civil-leiria.pt/*
+*://*.gp.linux-terminal.com/*
 *://*.gp5vllt.cn/*
 *://*.gpt.wid.jp/*
 *://*.gpt4free.io/*
@@ -6842,9 +6947,11 @@
 *://*.gptgirlfriend.online/*
 *://*.gptstore.ai/*
 *://*.gpuhiyk.cn/*
+*://*.gq.linux-terminal.com/*
 *://*.gq05zh7.cn/*
 *://*.gq22.cn/*
 *://*.gqbtwld.com/*
+*://*.gr.linux-terminal.com/*
 *://*.grabthiscode.com/*
 *://*.gracemed.cn/*
 *://*.gradd.cn/*
@@ -6872,6 +6979,7 @@
 *://*.growinglove.cn/*
 *://*.grs8.cn/*
 *://*.grupocauda.mx/*
+*://*.gs.linux-terminal.com/*
 *://*.gsevents.cn/*
 *://*.gsfuming.com/*
 *://*.gsgphoto.buzz/*
@@ -6885,11 +6993,13 @@
 *://*.gsyyq.com/*
 *://*.gszsc.net/*
 *://*.gszyksqzj.com/*
+*://*.gt.linux-terminal.com/*
 *://*.gtainspections.com/*
 *://*.gtd8.cn/*
 *://*.gtgycrc.cn/*
 *://*.gtnvs.cn/*
 *://*.gtzlbj.com/*
+*://*.gu.linux-terminal.com/*
 *://*.guangdiu.com/*
 *://*.guangdongxiangfa.cn/*
 *://*.guangxiren.cn/*
@@ -6927,7 +7037,9 @@
 *://*.guxante.com/*
 *://*.guygyg.cn/*
 *://*.guzhuangts.com/*
+*://*.gv.linux-terminal.com/*
 *://*.gvwusne.com/*
+*://*.gw.linux-terminal.com/*
 *://*.gwjypd.cn/*
 *://*.gwx7gsq.cn/*
 *://*.gwyxuexi.com/*
@@ -6940,6 +7052,7 @@
 *://*.gxqm5.com/*
 *://*.gxqxd.com/*
 *://*.gxyunxing.com/*
+*://*.gy.linux-terminal.com/*
 *://*.gy086.com/*
 *://*.gyhf88.com/*
 *://*.gyjhfz.com/*
@@ -6999,6 +7112,7 @@
 *://*.h8006.cn/*
 *://*.h9pq8wk.cn/*
 *://*.ha-navi.com/*
+*://*.ha.linux-terminal.com/*
 *://*.hackernews.cc/*
 *://*.hackerthink.com/*
 *://*.hackphoenix.com/*
@@ -7093,6 +7207,7 @@
 *://*.hdqqqfqpjb.com/*
 *://*.hdtmuh7.cn/*
 *://*.hdvahls.cn/*
+*://*.he.linux-terminal.com/*
 *://*.health-enhancement.buzz/*
 *://*.healths120.com/*
 *://*.healthtagtw.com/*
@@ -7162,6 +7277,7 @@
 *://*.hhmieshu.com/*
 *://*.hhonorscardaccountonline.buzz/*
 *://*.hhq5hq.cn/*
+*://*.hi.linux-terminal.com/*
 *://*.hi.qaru.tech/*
 *://*.hiddendoor.co/*
 *://*.hiensse.com/*
@@ -7183,6 +7299,7 @@
 *://*.hjydjj.com/*
 *://*.hjyr.com.cn/*
 *://*.hk-yy.cn/*
+*://*.hk.linux-terminal.com/*
 *://*.hk83223392.com/*
 *://*.hkecard.com/*
 *://*.hkk666.com/*
@@ -7197,6 +7314,7 @@
 *://*.hlqgjx.com/*
 *://*.hlsnp.com/*
 *://*.hlt666.com/*
+*://*.hm.linux-terminal.com/*
 *://*.hm3v5g.cn/*
 *://*.hmalpha.com/*
 *://*.hmjg88.com/*
@@ -7204,6 +7322,7 @@
 *://*.hmsagwq.cn/*
 *://*.hmyds.com/*
 *://*.hmyecrk.cn/*
+*://*.hn.linux-terminal.com/*
 *://*.hnajbcj.cn/*
 *://*.hnce.org/*
 *://*.hndongda.com/*
@@ -7230,6 +7349,7 @@
 *://*.hnzhilai.com/*
 *://*.hnzmfdc.com/*
 *://*.hnzx371.com/*
+*://*.ho.linux-terminal.com/*
 *://*.ho176.cn/*
 *://*.ho54.com/*
 *://*.hobbymaster.cn/*
@@ -7292,6 +7412,7 @@
 *://*.hqshenghuo.com/*
 *://*.hqtqp.com/*
 *://*.hqyman.cn/*
+*://*.hr.linux-terminal.com/*
 *://*.hr65.cn/*
 *://*.hrb333.com/*
 *://*.hrblongtai.com/*
@@ -7324,6 +7445,7 @@
 *://*.hsxlmj.com/*
 *://*.hsyinfo.com/*
 *://*.hsypco.com/*
+*://*.ht.linux-terminal.com/*
 *://*.ht1008.com/*
 *://*.htd-shop.cn/*
 *://*.htl8.com/*
@@ -7335,6 +7457,7 @@
 *://*.htwamtc.cn/*
 *://*.htynwqz.cn/*
 *://*.htyqc.com/*
+*://*.hu.linux-terminal.com/*
 *://*.hu.qaru.tech/*
 *://*.huahuahc.com/*
 *://*.huahui08.com/*
@@ -7396,6 +7519,7 @@
 *://*.hxkj.net/*
 *://*.hxt9.com/*
 *://*.hxu4kam.cn/*
+*://*.hy.linux-terminal.com/*
 *://*.hy512.cn/*
 *://*.hydxdn.com/*
 *://*.hygjly.cn/*
@@ -7412,6 +7536,7 @@
 *://*.hyznkj.com/*
 *://*.hz-hengsheng.cn/*
 *://*.hz-sfbr.cn/*
+*://*.hz.linux-terminal.com/*
 *://*.hz268.cn/*
 *://*.hzach.com/*
 *://*.hzbpay.com/*
@@ -7451,6 +7576,7 @@
 *://*.i5ky8dh.cn/*
 *://*.i5yu0lo.cn/*
 *://*.i9pdwe2.cn/*
+*://*.ia.linux-terminal.com/*
 *://*.ia0b6n.cn/*
 *://*.iacademyplus.com/*
 *://*.iaimages.art/*
@@ -7480,6 +7606,7 @@
 *://*.icopy.site/*
 *://*.icp-bbs.com/*
 *://*.icplf.cn/*
+*://*.id.linux-terminal.com/*
 *://*.id0m3f.cn/*
 *://*.id528.com/*
 *://*.idaote.com/*
@@ -7493,6 +7620,7 @@
 *://*.idqna.com/*
 *://*.ids-water.com/*
 *://*.idyllic.app/*
+*://*.ie.linux-terminal.com/*
 *://*.iebuchln.cn/*
 *://*.iecmo.cn/*
 *://*.ietatelog.jp/*
@@ -7504,6 +7632,7 @@
 *://*.ifcg9r.cn/*
 *://*.ifon.ca/*
 *://*.iftqffdv.cn/*
+*://*.ig.linux-terminal.com/*
 *://*.igarden365.com/*
 *://*.igazone.com/*
 *://*.igdjvjf.cn/*
@@ -7520,6 +7649,7 @@
 *://*.ihlkt37.cn/*
 *://*.ihuank.com/*
 *://*.ihxmm.com/*
+*://*.ii.linux-terminal.com/*
 *://*.iid.co.jp/*
 *://*.iil8ihq.cn/*
 *://*.iishome.cn/*
@@ -7528,6 +7658,7 @@
 *://*.iizhao.com/*
 *://*.ijssz.com/*
 *://*.ijyukhe.cn/*
+*://*.ik.linux-terminal.com/*
 *://*.ik4.es/*
 *://*.ik53.cn/*
 *://*.ike0e3v.cn/*
@@ -7536,6 +7667,7 @@
 *://*.ikkaro.com/*
 *://*.ikujisite.com/*
 *://*.ikz0wke.cn/*
+*://*.il.linux-terminal.com/*
 *://*.ilandrover.com/*
 *://*.iliad.ai/*
 *://*.ilike109.com/*
@@ -7545,6 +7677,7 @@
 *://*.ilueu.cn/*
 *://*.ilzhrmn.cn/*
 *://*.im-coder.com/*
+*://*.im.linux-terminal.com/*
 *://*.im1pxi.cn/*
 *://*.ima-cn.cn/*
 *://*.imacso.com/*
@@ -7580,6 +7713,7 @@
 *://*.imxtk.com/*
 *://*.imzx9e7.cn/*
 *://*.in-soft.cn/*
+*://*.in.linux-terminal.com/*
 *://*.incj1ce.cn/*
 *://*.includestdio.com/*
 *://*.incpbrasil.com.br/*
@@ -7659,6 +7793,7 @@
 *://*.invalidtype.com/*
 *://*.invideo.io/*
 *://*.inworld.ai/*
+*://*.io.linux-terminal.com/*
 *://*.iocp.cn/*
 *://*.ioeduc.com/*
 *://*.ioffeer.buzz/*
@@ -7674,14 +7809,17 @@
 *://*.ipolarstar.cn/*
 *://*.ips8cz.com/*
 *://*.ipv6.rs/*
+*://*.iq.linux-terminal.com/*
 *://*.iqingyan.cn/*
 *://*.iqnkooc.cn/*
 *://*.iqqoz.com/*
 *://*.iqzbj.cn/*
+*://*.ir.linux-terminal.com/*
 *://*.irc3mr0.cn/*
 *://*.iripkbw.cn/*
 *://*.irmcenter.cn/*
 *://*.irmoai.com/*
+*://*.is.linux-terminal.com/*
 *://*.isdakar.org/*
 *://*.isdce.com/*
 *://*.ishencai.com/*
@@ -10294,6 +10432,7 @@
 *://*.it-swarm.zm/*
 *://*.it-swarm.zu/*
 *://*.it-swarm.zw/*
+*://*.it.linux-terminal.com/*
 *://*.it.net.cn/*
 *://*.it.wenda123.org/*
 *://*.it1256.com/*
@@ -10329,6 +10468,7 @@
 *://*.ittutorialpoint.com/*
 *://*.itvgm.cn/*
 *://*.ityouknow.com/*
+*://*.iu.linux-terminal.com/*
 *://*.iucngreenlist.org/*
 *://*.iuggqtr.cn/*
 *://*.iuwenhua.com/*
@@ -10362,6 +10502,7 @@
 *://*.j7ab0j.cn/*
 *://*.j90zsqt.cn/*
 *://*.j9hp8lr.cn/*
+*://*.ja.linux-terminal.com/*
 *://*.jabal-umar.buzz/*
 *://*.jablogs.com/*
 *://*.jackasswax.buzz/*
@@ -10410,6 +10551,7 @@
 *://*.jdskxud.cn/*
 *://*.jdtcks.cn/*
 *://*.jdwsj.com/*
+*://*.je.linux-terminal.com/*
 *://*.je52.cn/*
 *://*.jeda.ai/*
 *://*.jeddahairport.net/*
@@ -10520,6 +10662,7 @@
 *://*.jlychb.com/*
 *://*.jlytedz.com/*
 *://*.jlzzfk.com/*
+*://*.jm.linux-terminal.com/*
 *://*.jm168888.com/*
 *://*.jm3nb.cn/*
 *://*.jmdscs.com/*
@@ -10542,6 +10685,7 @@
 *://*.jnzcyl.com/*
 *://*.jnzczdh.com/*
 *://*.jnzffz.com/*
+*://*.jo.linux-terminal.com/*
 *://*.joanne-kelly.com/*
 *://*.job-up.work/*
 *://*.job.or.jp/*
@@ -10576,6 +10720,7 @@
 *://*.joyk.com/*
 *://*.joyoshare.com/*
 *://*.jp-hosting.jp/*
+*://*.jp.linux-terminal.com/*
 *://*.jp62.cn/*
 *://*.jpan.wiki/*
 *://*.jpcloud.net/*
@@ -10657,6 +10802,7 @@
 *://*.juwymg.cn/*
 *://*.juyifx.cn/*
 *://*.juzhekooo.com/*
+*://*.jv.linux-terminal.com/*
 *://*.jvagf.cn/*
 *://*.jvhzq9c.cn/*
 *://*.jweipdz.cn/*
@@ -10720,6 +10866,7 @@
 *://*.k7stccl.cn/*
 *://*.k9boxes.buzz/*
 *://*.k9hz4u8.cn/*
+*://*.ka.linux-terminal.com/*
 *://*.kabin.buzz/*
 *://*.kaccn.cn/*
 *://*.kaedim3d.com/*
@@ -10770,6 +10917,7 @@
 *://*.kdfkq.com/*
 *://*.kdlcaie.cn/*
 *://*.kdnugv.cn/*
+*://*.ke.linux-terminal.com/*
 *://*.kedack.com/*
 *://*.kedecity.com/*
 *://*.kediyamall.com/*
@@ -10788,13 +10936,16 @@
 *://*.key.dog/*
 *://*.kfcris.com/*
 *://*.kfpza.cn/*
+*://*.kg.linux-terminal.com/*
 *://*.kg1xzz.cn/*
 *://*.kgamek.ru/*
 *://*.kgn8.cn/*
 *://*.kgr8.cn/*
 *://*.kgx8.cn/*
+*://*.kh.linux-terminal.com/*
 *://*.khkxbs.com/*
 *://*.khocc05.cn/*
+*://*.ki.linux-terminal.com/*
 *://*.kibristarihi.buzz/*
 *://*.kicand.com/*
 *://*.kicking.com/*
@@ -10818,14 +10969,17 @@
 *://*.kits.ai/*
 *://*.kittiss.cn/*
 *://*.kittl.com/feature/ai-text-to-vector/*
+*://*.kj.linux-terminal.com/*
 *://*.kjg8.cn/*
 *://*.kjk8.cn/*
 *://*.kjoutij.cn/*
+*://*.kk.linux-terminal.com/*
 *://*.kkaitang.com/*
 *://*.kkkdv.com/*
 *://*.kknews.cc/*
 *://*.kkrxc15.cn/*
 *://*.kkup.cc/*
+*://*.kl.linux-terminal.com/*
 *://*.klingai.com/*
 *://*.klinika-svjetlost.ba/*
 *://*.klk8.cn/*
@@ -10833,6 +10987,7 @@
 *://*.klpbbs.com/*
 *://*.klqcw.cn/*
 *://*.klt88.com/*
+*://*.km.linux-terminal.com/*
 *://*.km0769.com/*
 *://*.km67.cn/*
 *://*.kmbiyouhz.com/*
@@ -10847,6 +11002,7 @@
 *://*.kmmjl.com/*
 *://*.kmnyhfmy.com/*
 *://*.kmtcjs.com/*
+*://*.kn.linux-terminal.com/*
 *://*.kn33xs5.cn/*
 *://*.knerq0l.cn/*
 *://*.knews.vip/*
@@ -10861,6 +11017,7 @@
 *://*.ko-fi.com/s/26646f3ac9/*
 *://*.ko-fi.com/s/af9a23d375/*
 *://*.ko-fi.com/s/cfcbe64e46/*
+*://*.ko.linux-terminal.com/*
 *://*.ko2kukq.cn/*
 *://*.ko59.cn/*
 *://*.koaonk.cn/*
@@ -10879,6 +11036,7 @@
 *://*.kotaeta.com/*
 *://*.koubeiblog.com/*
 *://*.kozykatskorner.buzz/*
+*://*.kp.linux-terminal.com/*
 *://*.kpgbq.com/*
 *://*.kpk91o0.cn/*
 *://*.kpraise.com/*
@@ -10889,10 +11047,12 @@
 *://*.kqstop.com/*
 *://*.kqunion.com/*
 *://*.kr.koreanhf.kyiv.ua/*
+*://*.kr.linux-terminal.com/*
 *://*.krea.ai/*
 *://*.kreaai.net/*
 *://*.kreadoai.com/*
 *://*.krisp.ai/*
+*://*.ks.linux-terminal.com/*
 *://*.ks316.cn/*
 *://*.ks745.com/*
 *://*.ksctec.com/*
@@ -10906,6 +11066,7 @@
 *://*.kt13fly.cn/*
 *://*.kt686.cn/*
 *://*.ktrsz.cn/*
+*://*.ku.linux-terminal.com/*
 *://*.ku2yy.com/*
 *://*.kuaisusou.cc/*
 *://*.kuaizhaozp.com/*
@@ -10928,7 +11089,9 @@
 *://*.kuwanppc.com/*
 *://*.kuwcuzo.cn/*
 *://*.kuxuan06.cn/*
+*://*.kv.linux-terminal.com/*
 *://*.kvztngq.cn/*
+*://*.kw.linux-terminal.com/*
 *://*.kwcommercialbr.com/*
 *://*.kwfvivoice.com/*
 *://*.kwsnc.cn/*
@@ -10936,12 +11099,14 @@
 *://*.kxmqlmz.cn/*
 *://*.kxsri5a.cn/*
 *://*.kxuwdbx.cn/*
+*://*.ky.linux-terminal.com/*
 *://*.kybcaa.com/*
 *://*.kybellebourbon.buzz/*
 *://*.kybourbonbelle.buzz/*
 *://*.kyidu.com/*
 *://*.kyoto-ui.jp/*
 *://*.kyqzjx.com/*
+*://*.kz.linux-terminal.com/*
 *://*.kzfripi.cn/*
 *://*.l4ryrow.cn/*
 *://*.l5h2tr3.cn/*
@@ -10949,6 +11114,7 @@
 *://*.l7k51n3.cn/*
 *://*.l9q3luw.cn/*
 *://*.l9q8pss.cn/*
+*://*.la.linux-terminal.com/*
 *://*.label-america.buzz/*
 *://*.lablab.ai/*
 *://*.lacasajaguar.buzz/*
@@ -10997,10 +11163,12 @@
 *://*.layer.ai/*
 *://*.layla-network.ai/*
 *://*.lazyriverdesignworks.com/*
+*://*.lb.linux-terminal.com/*
 *://*.lb060.com/*
 *://*.lbc-services.buzz/*
 *://*.lbjbvkj.cn/*
 *://*.lbszftg.cn/*
+*://*.lc.linux-terminal.com/*
 *://*.lc598.com/*
 *://*.lcab2c.cn/*
 *://*.lcf45.cn/*
@@ -11071,6 +11239,7 @@
 *://*.lfsysc.com/*
 *://*.lfvdvlx.cn/*
 *://*.lfword.cn/*
+*://*.lg.linux-terminal.com/*
 *://*.lg67.cn/*
 *://*.lgfvci.cn/*
 *://*.lgx168.com/*
@@ -11085,6 +11254,7 @@
 *://*.lhjit.com/*
 *://*.lhl8.cn/*
 *://*.lhz8.cn/*
+*://*.li.linux-terminal.com/*
 *://*.liamharrington.buzz/*
 *://*.lianaiya.com/*
 *://*.liangliangmama.com/blogs/news/*
@@ -11178,6 +11348,7 @@
 *://*.ljmmfs.com/*
 *://*.ljtz168.com/*
 *://*.ljyhky.com/*
+*://*.lk.linux-terminal.com/*
 *://*.lkdzhkg.cn/*
 *://*.lkj0898.com/*
 *://*.lkkem.com/*
@@ -11197,6 +11368,7 @@
 *://*.lmspt.com/*
 *://*.lmtdtc.com/*
 *://*.lmx8.cn/*
+*://*.ln.linux-terminal.com/*
 *://*.ln8hours.com/*
 *://*.lnh8.cn/*
 *://*.lnjcjzgc.com/*
@@ -11204,6 +11376,7 @@
 *://*.lnjysy.com/*
 *://*.lnqshzc.cn/*
 *://*.lnzzkj.com/*
+*://*.lo.linux-terminal.com/*
 *://*.loadminecraft.ru/*
 *://*.localcoder.org/*
 *://*.loeset.cn/*
@@ -11248,10 +11421,12 @@
 *://*.lqg8.cn/*
 *://*.lqr8lz6.cn/*
 *://*.lqyky.com/*
+*://*.lr.linux-terminal.com/*
 *://*.lrj8.cn/*
 *://*.lrjydb.com/*
 *://*.lrs8.cn/*
 *://*.lrytl2r.cn/*
+*://*.ls.linux-terminal.com/*
 *://*.ls2vk97.cn/*
 *://*.lsbin.com/*
 *://*.lsbizhi.com/*
@@ -11262,6 +11437,7 @@
 *://*.lskd8.cn/*
 *://*.lskdyu19.cn/*
 *://*.lskyan.com/*
+*://*.lt.linux-terminal.com/*
 *://*.lt75.cn/*
 *://*.ltby365.cn/*
 *://*.ltg6og9.cn/*
@@ -11269,6 +11445,7 @@
 *://*.ltqcmy.com/*
 *://*.ltsyyx1915.com/*
 *://*.lttabi.cn/*
+*://*.lu.linux-terminal.com/*
 *://*.lu71r.cn/*
 *://*.lubesino.com/*
 *://*.luckmp.com/*
@@ -11298,6 +11475,7 @@
 *://*.luxifeier.com/*
 *://*.luxuewang.com/*
 *://*.luyouqi.com/*
+*://*.lv.linux-terminal.com/*
 *://*.lvhuagc.com/*
 *://*.lvtu78.com/*
 *://*.lvyoucloud.com/*
@@ -11307,6 +11485,7 @@
 *://*.lxi8hog.cn/*
 *://*.lxmt168.cn/*
 *://*.lxmweb.cn/*
+*://*.ly.linux-terminal.com/*
 *://*.lybtlgs.com/*
 *://*.lycaeum.dev/*
 *://*.lydeyitz.com/*
@@ -11348,6 +11527,7 @@
 *://*.m4vvddc.cn/*
 *://*.m882cen.cn/*
 *://*.m9myzp.cn/*
+*://*.ma.linux-terminal.com/*
 *://*.mabaoguo7.cn/*
 *://*.mabis.buzz/*
 *://*.machao56.com/*
@@ -11443,6 +11623,7 @@
 *://*.mc-premium.org/*
 *://*.mc-vn.net/*
 *://*.mc.ahgame.com/*
+*://*.mc.linux-terminal.com/*
 *://*.mc.twrx.ru/*
 *://*.mc164.ru/*
 *://*.mcaren.com/*
@@ -11478,6 +11659,7 @@
 *://*.mcskill.ru/*
 *://*.mcup.cc/*
 *://*.mcww.cc/*
+*://*.md.linux-terminal.com/*
 *://*.md63.cn/*
 *://*.md93.cn/*
 *://*.mdcbbs.cn/*
@@ -11485,6 +11667,7 @@
 *://*.mdna-used-machines-locator.buzz/*
 *://*.mdrealtyteam.buzz/*
 *://*.mdshkltd.com/*
+*://*.me.linux-terminal.com/*
 *://*.me1q93b.cn/*
 *://*.meadinn.buzz/*
 *://*.measart.com/*
@@ -11544,14 +11727,17 @@
 *://*.meteorologiaenred.com/*
 *://*.metrominecraft.com/*
 *://*.metropaintballgames.com/*
+*://*.mf.linux-terminal.com/*
 *://*.mf6d4do.cn/*
 *://*.mf6zksr.cn/*
 *://*.mfcdk.com/*
 *://*.mfonly.com/*
 *://*.mfwf.cn.com/*
 *://*.mfww.cc/*
+*://*.mg.linux-terminal.com/*
 *://*.mgg56rs.cn/*
 *://*.mguess.com/*
+*://*.mh.linux-terminal.com/*
 *://*.mh223.cn/*
 *://*.mh33.cn/*
 *://*.mh96.cn/*
@@ -11559,6 +11745,7 @@
 *://*.mhk5rkt.cn/*
 *://*.mhona.buzz/*
 *://*.mi-mundo-minecraft.blogspot.no/*
+*://*.mi.linux-terminal.com/*
 *://*.mianquan.net/*
 *://*.mianshigee.com/*
 *://*.miaolaiche.com/*
@@ -11792,9 +11979,11 @@
 *://*.mizunospb.ru/*
 *://*.mjg8.cn/*
 *://*.mjhhx0i.cn/*
+*://*.mk.linux-terminal.com/*
 *://*.mkan2003.com/*
 *://*.mkjlehtinen.buzz/*
 *://*.mkljc.cn/*
+*://*.ml.linux-terminal.com/*
 *://*.ml/*
 *://*.mlg8.cn/*
 *://*.mlgongyi.com/*
@@ -11807,10 +11996,12 @@
 *://*.mlrivesdeseine.com/*
 *://*.mltwnyy.cn/*
 *://*.mlyearning.org/*
+*://*.mm.linux-terminal.com/*
 *://*.mmfmzs.com/*
 *://*.mmods.net/*
 *://*.mmt10.com/*
 *://*.mmyigo.com/*
+*://*.mn.linux-terminal.com/*
 *://*.mn55.cn/*
 *://*.mn61.cn/*
 *://*.mnbhyna.cn/*
@@ -11819,6 +12010,7 @@
 *://*.mnxcc.com/*
 *://*.mnykexv.cn/*
 *://*.mo-dmp.buzz/*
+*://*.mo.linux-terminal.com/*
 *://*.mo08.biz/*
 *://*.moaera.com/*
 *://*.mobile2day.com/*
@@ -11904,6 +12096,7 @@
 *://*.mozartkuss.buzz/*
 *://*.mozhimi.com/*
 *://*.mozzinovo.club/*
+*://*.mp.linux-terminal.com/*
 *://*.mp3rss.cn/*
 *://*.mp7wswm.cn/*
 *://*.mpbitex.cn/*
@@ -11911,13 +12104,16 @@
 *://*.mpear.cn/*
 *://*.mpeiyin.com/*
 *://*.mpost.io/*
+*://*.mq.linux-terminal.com/*
 *://*.mqd8.cn/*
 *://*.mqk3o2l.cn/*
 *://*.mqp8.cn/*
+*://*.mr.linux-terminal.com/*
 *://*.mrdeepfakes.com/*
 *://*.mre6l.cn/*
 *://*.mrhoward.buzz/*
 *://*.mrorm.com/*
+*://*.ms.linux-terminal.com/*
 *://*.msfxt.com/*
 *://*.mshc1.com/*
 *://*.msif.cn/*
@@ -11931,6 +12127,7 @@
 *://*.mspp.cc/*
 *://*.mssou.cc/*
 *://*.mstj120.com/*
+*://*.mt.linux-terminal.com/*
 *://*.mt8u0zd.cn/*
 *://*.mteng.cn/*
 *://*.mtgohqa.cn/*
@@ -11941,6 +12138,7 @@
 *://*.mtvcafe.buzz/*
 *://*.mtvidc.com/*
 *://*.mtzposb.com/*
+*://*.mu.linux-terminal.com/*
 *://*.mu868.com/*
 *://*.muah.ai/*
 *://*.mubert.com/*
@@ -11957,19 +12155,23 @@
 *://*.musicstar.ai/*
 *://*.muyuep.com/*
 *://*.muzijx.com/*
+*://*.mv.linux-terminal.com/*
 *://*.mv2i7.cn/*
 *://*.mvcomcz.cn/*
 *://*.mvillacar.co/*
 *://*.mvwautotechniek.nl/*
+*://*.mw.linux-terminal.com/*
 *://*.mwd8.cn/*
 *://*.mweda.com/*
 *://*.mwngtki.cn/*
 *://*.mwr8.cn/*
 *://*.mwsoso.com/*
+*://*.mx.linux-terminal.com/*
 *://*.mxianhuo.com/*
 *://*.mxr8.cn/*
 *://*.my-ai.art/*
 *://*.my-pmu.com/*
+*://*.my.linux-terminal.com/*
 *://*.my0546.com/*
 *://*.my697.com/*
 *://*.myaladdin.cn/*
@@ -12007,6 +12209,7 @@
 *://*.myxgs.zzdeyin.com/*
 *://*.myz8.cn/*
 *://*.myzytx.com/*
+*://*.mz.linux-terminal.com/*
 *://*.mzjzvr.cn/*
 *://*.mzssc.com/*
 *://*.mzv84nv.cn/*
@@ -12020,6 +12223,7 @@
 *://*.n8ked.app/*
 *://*.n8v8mtu.cn/*
 *://*.n9upzs0.cn/*
+*://*.na.linux-terminal.com/*
 *://*.nachvb9.cn/*
 *://*.nacktfilm.buzz/*
 *://*.nacloset.com/*
@@ -12061,6 +12265,7 @@
 *://*.natural-access.buzz/*
 *://*.navchetnapharmaceuticals.com/*
 *://*.nazoqex.cn/*
+*://*.nb.linux-terminal.com/*
 *://*.nb7l8cm.cn/*
 *://*.nb930.cn/*
 *://*.nbdfsun.com/*
@@ -12073,6 +12278,7 @@
 *://*.nbyunhaijx.cn/*
 *://*.nbz.ai/*
 *://*.nbzlmc.com/*
+*://*.nc.linux-terminal.com/*
 *://*.nc3w7xk.cn/*
 *://*.ncal.com/*
 *://*.ncb8.cn/*
@@ -12087,6 +12293,7 @@
 *://*.nct-benelux.buzz/*
 *://*.ncxmt.com/*
 *://*.ncxxlgw.cn/*
+*://*.nd.linux-terminal.com/*
 *://*.nd67.cn/*
 *://*.nddklab.com/*
 *://*.ndefj0y.cn/*
@@ -12094,6 +12301,7 @@
 *://*.ndpadvertising.buzz/*
 *://*.ndshs.com/*
 *://*.ndup.cc/*
+*://*.ne.linux-terminal.com/*
 *://*.ne328.cn/*
 *://*.nefertitirecords.buzz/*
 *://*.nelsonespeland.buzz/*
@@ -12133,11 +12341,13 @@
 *://*.nextminecraft.ru/*
 *://*.nextnets.buzz/*
 *://*.nexus-mods.com/*
+*://*.nf.linux-terminal.com/*
 *://*.nf91.cn/*
 *://*.nfajasi.cn/*
 *://*.nft-generator.art/*
 *://*.nftartwithlauren.com/*
 *://*.nfwjs.com/*
+*://*.ng.linux-terminal.com/*
 *://*.ngffs.com/*
 *://*.ngjsur1.cn/*
 *://*.ngoisaotinhyeu.buzz/*
@@ -12145,6 +12355,7 @@
 *://*.nhcondorental.buzz/*
 *://*.nhm.org/*
 *://*.nhq8.cn/*
+*://*.ni.linux-terminal.com/*
 *://*.niangluan.cn/*
 *://*.nibes.cn/*
 *://*.nice168.com/*
@@ -12198,6 +12409,7 @@
 *://*.nk3ielk.cn/*
 *://*.nk40.com/*
 *://*.nkpz8u.cn/*
+*://*.nl.linux-terminal.com/*
 *://*.nl38.cn/*
 *://*.nl85ob0.cn/*
 *://*.nladuktg.cn/*
@@ -12208,8 +12420,10 @@
 *://*.nmhsp.com/*
 *://*.nms88.cn/*
 *://*.nmxjp.com/*
+*://*.nn.linux-terminal.com/*
 *://*.nnpq8dx.cn/*
 *://*.nntianhai.com/*
+*://*.no.linux-terminal.com/*
 *://*.no54hagleyroad.buzz/*
 *://*.nobilismkt.com/*
 *://*.nobis.work/*
@@ -12240,12 +12454,14 @@
 *://*.novbox.buzz/*
 *://*.novelai.net/*
 *://*.novita.ai/*
+*://*.np.linux-terminal.com/*
 *://*.npidjma.cn/*
 *://*.npmmirror.com/*
 *://*.npx85.com/*
 *://*.nqf8.cn/*
 *://*.nqg8.cn/*
 *://*.nqp8.cn/*
+*://*.nr.linux-terminal.com/*
 *://*.nrjija.cn/*
 *://*.nrm8.cn/*
 *://*.nrmlmu.cn/*
@@ -12267,6 +12483,7 @@
 *://*.ntscjm.com/*
 *://*.ntxqrb.cn/*
 *://*.ntzhonglin.com/*
+*://*.nu.linux-terminal.com/*
 *://*.nuanzhu100.com/*
 *://*.nubee.ai/*
 *://*.nucleovisual.com/*
@@ -12283,6 +12500,7 @@
 *://*.nujkw33.cn/*
 *://*.nuomiphp.com/*
 *://*.nuoptima.com/*
+*://*.nv.linux-terminal.com/*
 *://*.nv4sat.cn/*
 *://*.nvohcio.cn/*
 *://*.nvotent.cn/*
@@ -12294,6 +12512,7 @@
 *://*.nxsxbw.com/*
 *://*.nxtstage.net/*
 *://*.nxyztrx.cn/*
+*://*.ny.linux-terminal.com/*
 *://*.ny5ih9z.cn/*
 *://*.nyccz.com/*
 *://*.nyist.net/*
@@ -12301,6 +12520,7 @@
 *://*.nyjjl.com/*
 *://*.nysora.com/*
 *://*.nywanai.com/*
+*://*.nz.linux-terminal.com/*
 *://*.nzb8.cn/*
 *://*.nzhdvi.cn/*
 *://*.nzjzptj.cn/*
@@ -12331,6 +12551,7 @@
 *://*.obeqhdy.cn/*
 *://*.obftzgh.cn/*
 *://*.objetspubricard.buzz/*
+*://*.oc.linux-terminal.com/*
 *://*.oc4fa4m.cn/*
 *://*.oceanfdn.org/*
 *://*.ocfchess.org/*
@@ -12359,6 +12580,7 @@
 *://*.oiresk.cn/*
 *://*.oisv.cn/*
 *://*.oiud6.cn/*
+*://*.oj.linux-terminal.com/*
 *://*.oj8wv6o.cn/*
 *://*.ojit.com/*
 *://*.ojqofdo.cn/*
@@ -12378,6 +12600,7 @@
 *://*.olgcxvd.cn/*
 *://*.olkyg.cn/*
 *://*.olxls.com/*
+*://*.om.linux-terminal.com/*
 *://*.om00ibj.cn/*
 *://*.omerdesser.buzz/*
 *://*.ominecraft.net/*
@@ -12440,6 +12663,7 @@
 *://*.opython.com/*
 *://*.oqgeyvg.cn/*
 *://*.oqyeiaw.cn/*
+*://*.or.linux-terminal.com/*
 *://*.oraask.com/*
 *://*.oranjeexpress.com/*
 *://*.orbit-marine.buzz/*
@@ -12452,6 +12676,7 @@
 *://*.orientdisplay.com/*
 *://*.orifqqi.cn/*
 *://*.ork8t2.cn/*
+*://*.os.linux-terminal.com/*
 *://*.os8d0f.cn/*
 *://*.oschina.net/informat/*
 *://*.osdarlings.com/*
@@ -12507,6 +12732,7 @@
 *://*.p7fr60l.cn/*
 *://*.p95lh8r.cn/*
 *://*.p9m4r5.cn/*
+*://*.pa.linux-terminal.com/*
 *://*.paaqjs.com/*
 *://*.pacificmyst.buzz/*
 *://*.packs548.rssing.com/*
@@ -12573,6 +12799,7 @@
 *://*.pdhecqg.cn/*
 *://*.pdsqldz.com/*
 *://*.pdsrjgs.com/*
+*://*.pe.linux-terminal.com/*
 *://*.pe4u73j.cn/*
 *://*.peacereb.buzz/*
 *://*.peaku.co/*
@@ -12601,16 +12828,19 @@
 *://*.petbooth.app/*
 *://*.peterrohner.buzz/*
 *://*.pexf.cn/*
+*://*.pf.linux-terminal.com/*
 *://*.pflegeinfo24.buzz/*
 *://*.pfn8.cn/*
 *://*.pfpmaker.com/*
 *://*.pfptown.com/*
+*://*.pg.linux-terminal.com/*
 *://*.pgannit.cn/*
 *://*.pgeubow.cn/*
 *://*.pghwbjk.cn/*
 *://*.pgix.net.cn/*
 *://*.pgq365.com/*
 *://*.pgtqcec.cn/*
+*://*.ph.linux-terminal.com/*
 *://*.phafbas.cn/*
 *://*.phdehr.cn/*
 *://*.phillipstelzel.com/*
@@ -12629,6 +12859,7 @@
 *://*.phqyauh.cn/*
 *://*.phraser.tech/*
 *://*.phxgmy.com/*
+*://*.pi.linux-terminal.com/*
 *://*.pic01nm.cn/*
 *://*.pica-ai.com/*
 *://*.picassoia.com/*
@@ -12742,11 +12973,13 @@
 *://*.pjsrxsj.com/*
 *://*.pjubylm.cn/*
 *://*.pjzuyq3.cn/*
+*://*.pk.linux-terminal.com/*
 *://*.pk931.com/*
 *://*.pkg0pw9.cn/*
 *://*.pkjnp.com/*
 *://*.pkkpva.cn/*
 *://*.pknn.cc/*
+*://*.pl.linux-terminal.com/*
 *://*.pl91.cn/*
 *://*.planet-m.net/*
 *://*.planet-mc.net/*
@@ -12801,11 +13034,13 @@
 *://*.plugger.ai/*
 *://*.pluginplay.ai/*
 *://*.plw8.cn/*
+*://*.pm.linux-terminal.com/*
 *://*.pm37.cn/*
 *://*.pm5ehlh.cn/*
 *://*.pmkvirtual.com/*
 *://*.pml0v.cn/*
 *://*.pmtt.cc/*
+*://*.pn.linux-terminal.com/*
 *://*.pn3p.com/*
 *://*.pnelwjz.cn/*
 *://*.pngmaker.ai/*
@@ -12886,6 +13121,7 @@
 *://*.pqg8.cn/*
 *://*.pqm8.cn/*
 *://*.pqnn.cc/*
+*://*.pr.linux-terminal.com/*
 *://*.precision-printing.buzz/*
 *://*.premier-net.buzz/*
 *://*.premieredomain.buzz/*
@@ -12947,6 +13183,7 @@
 *://*.proxybot.cc/*
 *://*.proxyfly.org/*
 *://*.prtfp35.cn/*
+*://*.ps.linux-terminal.com/*
 *://*.psawis.com/*
 *://*.psb-hamburg.buzz/*
 *://*.psichologyanswers.com/*
@@ -12956,6 +13193,7 @@
 *://*.psr8.cn/*
 *://*.psww.cc/*
 *://*.psxs5e6.cn/*
+*://*.pt.linux-terminal.com/*
 *://*.ptarsalitre.com.co/*
 *://*.pti05.com/*
 *://*.ptirch.com/*
@@ -12979,6 +13217,7 @@
 *://*.pv32ex.cn/*
 *://*.pvhhmqa.cn/*
 *://*.pvpv56.com/*
+*://*.pw.linux-terminal.com/*
 *://*.pw28.cn/*
 *://*.pwf8.cn/*
 *://*.pwl8.cn/*
@@ -12995,6 +13234,7 @@
 *://*.pxyz760.cn/*
 *://*.pxz8.cn/*
 *://*.py.cn/*
+*://*.py.linux-terminal.com/*
 *://*.py4u.net/*
 *://*.py4u.org/*
 *://*.pyax021.cn/*
@@ -13364,6 +13604,7 @@
 *://*.qa.1r1g.com/*
 *://*.qa.55276.net/*
 *://*.qa.icopy.site/*
+*://*.qa.linux-terminal.com/*
 *://*.qa.wujigu.com/*
 *://*.qaae.cc/*
 *://*.qac.jo/*
@@ -14479,6 +14720,7 @@
 *://*.qtddbzm.cn/*
 *://*.qtsr36.cn/*
 *://*.qu-qu.net/*
+*://*.qu.linux-terminal.com/*
 *://*.quabr.com/*
 *://*.quagroup.com/*
 *://*.quality-info.cn/*
@@ -14584,6 +14826,7 @@
 *://*.rcl8.cn/*
 *://*.rd-conseil.buzz/*
 *://*.rdwzms7.cn/*
+*://*.re.linux-terminal.com/*
 *://*.reactquestions.com/*
 *://*.read01.com/*
 *://*.readers.jp/*
@@ -14862,11 +15105,14 @@
 *://*.rlh8.cn/*
 *://*.rln8.cn/*
 *://*.rlz8.cn/*
+*://*.rm.linux-terminal.com/*
 *://*.rmj8.cn/*
 *://*.rml8.cn/*
 *://*.rmoorepc.buzz/*
+*://*.rn.linux-terminal.com/*
 *://*.rnwgj.com/*
 *://*.rnx8.cn/*
+*://*.ro.linux-terminal.com/*
 *://*.ro5bgz2.cn/*
 *://*.robbceleb.buzz/*
 *://*.robco-enterprises.buzz/*
@@ -14910,6 +15156,7 @@
 *://*.rrrstudios.buzz/*
 *://*.rrtts.com/*
 *://*.rru8lv.cn/*
+*://*.rs.linux-terminal.com/*
 *://*.rs8zid4.cn/*
 *://*.rs91.cn/*
 *://*.rsb8.cn/*
@@ -14928,6 +15175,7 @@
 *://*.ru-m.org/*
 *://*.ru-minecraft.ru/*
 *://*.ru-minecrafty.ru/*
+*://*.ru.linux-terminal.com/*
 *://*.rubberflooring-gsa.buzz/*
 *://*.rubberflooringgsa.buzz/*
 *://*.ruigejgj.cn/*
@@ -14952,6 +15200,7 @@
 *://*.ruysantosarquitetura.com.br/*
 *://*.rvhvc27.cn/*
 *://*.rvnqxwk.cn/*
+*://*.rw.linux-terminal.com/*
 *://*.rw6ylbz.cn/*
 *://*.rwq8.com/*
 *://*.rwt8.cn/*
@@ -14989,6 +15238,7 @@
 *://*.s84sz06.cn/*
 *://*.s8h4bp7.cn/*
 *://*.s8zo23x.cn/*
+*://*.sa.linux-terminal.com/*
 *://*.sa123.cc/*
 *://*.sa5f8o7.cn/*
 *://*.saasworthy.com/*
@@ -15038,9 +15288,11 @@
 *://*.savethestar.buzz/*
 *://*.saydalia.net/*
 *://*.sazmv.cn/*
+*://*.sb.linux-terminal.com/*
 *://*.sb18.cn/*
 *://*.sbenny.com/*
 *://*.sbnbl.com/*
+*://*.sc.linux-terminal.com/*
 *://*.sc1157.com/*
 *://*.sc183.com/*
 *://*.sc347.com/*
@@ -15087,6 +15339,7 @@
 *://*.scz8.cn/*
 *://*.sczhddc.com/*
 *://*.sczjlysyw.com/*
+*://*.sd.linux-terminal.com/*
 *://*.sd0853.com/*
 *://*.sd0jnv.cn/*
 *://*.sd96871.com/*
@@ -15113,6 +15366,7 @@
 *://*.sdxinli.org/*
 *://*.sdxlturbo.ai/*
 *://*.sdyujinji.com/*
+*://*.se.linux-terminal.com/*
 *://*.seaart.ai/*
 *://*.seafastcenter.com/*
 *://*.seaofredinc.buzz/*
@@ -15158,11 +15412,13 @@
 *://*.sfiresoft.com/*
 *://*.sfjbc.com/*
 *://*.sfmcn.com/*
+*://*.sg.linux-terminal.com/*
 *://*.sg314.cn/*
 *://*.sgmohe.com/*
 *://*.sgssmva.cn/*
 *://*.sgtyudiao.com/*
 *://*.sh-sjly.cn/*
+*://*.sh.linux-terminal.com/*
 *://*.shacjd.cn/*
 *://*.shadersmod.download/*
 *://*.shadersmod.net/*
@@ -15266,6 +15522,7 @@
 *://*.shyxjmzc.com/*
 *://*.shzengsi.com/*
 *://*.si.etsisi.upm.es/*
+*://*.si.linux-terminal.com/*
 *://*.sidconsultores.com/*
 *://*.sierramadreplayhouse.org/*
 *://*.sierrasummit2005.org/*
@@ -15298,6 +15555,7 @@
 *://*.sitespeak.ai/*
 *://*.siv6q88.cn/*
 *://*.siwib.org/*
+*://*.sj.linux-terminal.com/*
 *://*.sjaak-ramakers.buzz/*
 *://*.sjadgjk.cn/*
 *://*.sjcmir.cn/*
@@ -15315,6 +15573,7 @@
 *://*.sjzlangtai.com/*
 *://*.sjzp8.com/*
 *://*.sjztdhg.com/*
+*://*.sk.linux-terminal.com/*
 *://*.sk8lri4.cn/*
 *://*.skachat-mody-minecraft.ru/*
 *://*.skcard.cn/*
@@ -15337,6 +15596,7 @@
 *://*.skylinetrans.com/*
 *://*.skype-keishin.buzz/*
 *://*.skyworxz.com/*
+*://*.sl.linux-terminal.com/*
 *://*.sl85n86.cn/*
 *://*.slashdot.org/*
 *://*.slatersteel.buzz/*
@@ -15347,6 +15607,7 @@
 *://*.slqyjt.com/*
 *://*.slqzjxc.com/*
 *://*.sm-tc.cn/*
+*://*.sm.linux-terminal.com/*
 *://*.sm1234.net/*
 *://*.sm158.cn/*
 *://*.sma.so/*
@@ -15362,6 +15623,7 @@
 *://*.smxgsswzp.com/*
 *://*.smy8.cn/*
 *://*.smzjlmk.com/*
+*://*.sn.linux-terminal.com/*
 *://*.sn79.cn/*
 *://*.sn93.cn/*
 *://*.sncnq79.cn/*
@@ -15372,6 +15634,7 @@
 *://*.snjiaoyu.com/*
 *://*.snow-plus.net/*
 *://*.snowcoal.com/*
+*://*.so.linux-terminal.com/*
 *://*.so.muouseo.com/*
 *://*.sobrelinux.info/*
 *://*.soca.ai/*
@@ -15454,6 +15717,7 @@
 *://*.sprinkleofai.com/*
 *://*.sprosi.pro/*
 *://*.spwomei.com/*
+*://*.sq.linux-terminal.com/*
 *://*.sq5cpta.cn/*
 *://*.sqbqzs.com/*
 *://*.sqf2a4r.cn/*
@@ -15469,10 +15733,12 @@
 *://*.squadguide.net/*
 *://*.squareland.ru/*
 *://*.sqzlsy.cn/*
+*://*.sr.linux-terminal.com/*
 *://*.sr0csj.cn/*
 *://*.sr0lsgr.cn/*
 *://*.sr1490.com/*
 *://*.srstoq.com/*
+*://*.ss.linux-terminal.com/*
 *://*.ss7fuek.cn/*
 *://*.ssccardinals.buzz/*
 *://*.ssdijingg.com/*
@@ -15491,6 +15757,7 @@
 *://*.ssweinbaum.buzz/*
 *://*.ssxdpc.cn/*
 *://*.sszyqz.com/*
+*://*.st.linux-terminal.com/*
 *://*.st89.cn/*
 *://*.stability.ai/*
 *://*.stable-diffusion-ai.art/*
@@ -15581,6 +15848,7 @@
 *://*.structcalc.buzz/*
 *://*.studytonight.com/*
 *://*.stylesprzedazy.pl/*
+*://*.su.linux-terminal.com/*
 *://*.sub-nicoapple.ssl-lolipop.jp/*
 *://*.subaidajs.com/*
 *://*.submitfile.com/*
@@ -15630,10 +15898,12 @@
 *://*.suttonedfoundation.org/*
 *://*.suyinglaw.com/*
 *://*.suzihandicapanimal.net/*
+*://*.sv.linux-terminal.com/*
 *://*.sveawood.buzz/*
 *://*.svida.org/*
 *://*.sviluppo-web-qa.it/*
 *://*.svmjg.com/*
+*://*.sw.linux-terminal.com/*
 *://*.swag-ai.com/*
 *://*.swapface.org/*
 *://*.sweepstalk.buzz/*
@@ -15645,6 +15915,7 @@
 *://*.swmijty.cn/*
 *://*.swrbs.cn/*
 *://*.swying.com/*
+*://*.sx.linux-terminal.com/*
 *://*.sx9670.com/*
 *://*.sxanjc.com/*
 *://*.sxbauye.cn/*
@@ -15665,6 +15936,7 @@
 *://*.sxzhifu.com/*
 *://*.sxzxhy.com/*
 *://*.sy-pc.cn/*
+*://*.sy.linux-terminal.com/*
 *://*.sydzzc.com/*
 *://*.syfckj.com/*
 *://*.syflooring.com/*
@@ -15691,6 +15963,7 @@
 *://*.syy365.com/*
 *://*.syzksl.com/*
 *://*.sz-hbs.cn/*
+*://*.sz.linux-terminal.com/*
 *://*.sz13.cn/*
 *://*.szcpyh.com/*
 *://*.szdazen.com/*
@@ -15744,6 +16017,7 @@
 *://*.t5za0qp.cn/*
 *://*.t71zz7b.cn/*
 *://*.t8lqlve.cn/*
+*://*.ta.linux-terminal.com/*
 *://*.ta308hg.cn/*
 *://*.tableta-android.com/*
 *://*.tabletzona.es/*
@@ -15801,10 +16075,12 @@
 *://*.tbsch.com/*
 *://*.tbujxos.cn/*
 *://*.tbvgnbv.cn/*
+*://*.tc.linux-terminal.com/*
 *://*.tcly6.com/*
 *://*.tcqgou.com/*
 *://*.tcqsc.com/*
 *://*.tcslysy.com/*
+*://*.td.linux-terminal.com/*
 *://*.tdf3cx6.cn/*
 *://*.tdgzt.com/*
 *://*.tdkznfk.cn/*
@@ -15812,6 +16088,7 @@
 *://*.tdraw.art/*
 *://*.tdtae8s.cn/*
 *://*.tdww.cc/*
+*://*.te.linux-terminal.com/*
 *://*.teacherbot.io/*
 *://*.teamdehaas.buzz/*
 *://*.teamhypesim.com/*
@@ -15866,13 +16143,16 @@
 *://*.texture-packs.com/*
 *://*.texturelab.xyz/*
 *://*.texturespack.com/*
+*://*.tf.linux-terminal.com/*
 *://*.tfetimes.com/*
 *://*.tfmjq.cn/*
 *://*.tfvpju.cn/*
+*://*.tg.linux-terminal.com/*
 *://*.tg0rk84.cn/*
 *://*.tghdjvj.cn/*
 *://*.tgoykuq.cn/*
 *://*.tgwlcg.com/*
+*://*.th.linux-terminal.com/*
 *://*.th2p.com/*
 *://*.thaicarvingknife.com/*
 *://*.thailandblog.nl/*
@@ -15925,6 +16205,7 @@
 *://*.thxdtsx.cn/*
 *://*.thy2jk.cn/*
 *://*.ti-enxame.com/*
+*://*.ti.linux-terminal.com/*
 *://*.ti290.com/*
 *://*.tianci168.com/*
 *://*.tianhaoig.com/*
@@ -15956,6 +16237,7 @@
 *://*.titanwolf.org/*
 *://*.tititi.cc/*
 *://*.tittorture.buzz/*
+*://*.tj.linux-terminal.com/*
 *://*.tjbhd.com/*
 *://*.tjbqrw.com/*
 *://*.tjdadong.com/*
@@ -15980,8 +16262,10 @@
 *://*.tjyyds.com/*
 *://*.tjyzwj.cn/*
 *://*.tjzzedu.com/*
+*://*.tk.linux-terminal.com/*
 *://*.tkjt999.com/*
 *://*.tklefpe.cn/*
+*://*.tl.linux-terminal.com/*
 *://*.tlauncher-legacy.ru/*
 *://*.tlauncher.org/*
 *://*.tlauncherminecraft.com/*
@@ -15993,17 +16277,20 @@
 *://*.tlyrics.art/*
 *://*.tlyshi.com/*
 *://*.tlyzt.cn/*
+*://*.tm.linux-terminal.com/*
 *://*.tm36.cn/*
 *://*.tm4bzoo.cn/*
 *://*.tmallshua.com/*
 *://*.tmbrf.cn/*
 *://*.tmnfgs.com/*
 *://*.tmsiukt.cn/*
+*://*.tn.linux-terminal.com/*
 *://*.tn4kgr.cn/*
 *://*.tnbta.com/*
 *://*.tni5ai.cn/*
 *://*.tnszw.com/*
 *://*.tntpump.cn/*
+*://*.to.linux-terminal.com/*
 *://*.to3to.com/*
 *://*.tobomb.com/*
 *://*.todoandroid.es/*
@@ -16063,6 +16350,7 @@
 *://*.tpyyes.com/*
 *://*.tqcc.cc/*
 *://*.tqlq6b6.cn/*
+*://*.tr.linux-terminal.com/*
 *://*.tra-loi-cau-hoi-phat-trien-web.com/*
 *://*.trabolgan.com/*
 *://*.tracholar.top/*
@@ -16097,6 +16385,7 @@
 *://*.tryhologram.art/*
 *://*.tryleap.ai/*
 *://*.trynectar.ai/*
+*://*.ts.linux-terminal.com/*
 *://*.ts2.space/*
 *://*.tsfx.cc/*
 *://*.tsltw.com/*
@@ -16105,6 +16394,7 @@
 *://*.tsr8.cn/*
 *://*.tsuushinsei.net/*
 *://*.tsydys.com/*
+*://*.tt.linux-terminal.com/*
 *://*.tt1d5qj.cn/*
 *://*.ttaaj.com/*
 *://*.ttd8.cn/*
@@ -16139,11 +16429,13 @@
 *://*.tutorialmore.com/*
 *://*.tuvanduhoc.buzz/*
 *://*.tuwends.com/*
+*://*.tv.linux-terminal.com/*
 *://*.tvbyulee.com/*
 *://*.tvbzhentan.com/*
 *://*.tvrmsp.cn/*
 *://*.tvsepbi.cn/*
 *://*.tvxzb0q.cn/*
+*://*.tw.linux-terminal.com/*
 *://*.twblogs.net/*
 *://*.twd8.cn/*
 *://*.tweetai.com/*
@@ -16216,6 +16508,7 @@
 *://*.txtlist.top/*
 *://*.txweb.com/*
 *://*.txy1996.com/*
+*://*.ty.linux-terminal.com/*
 *://*.ty52fo.cn/*
 *://*.tybyaf.com/*
 *://*.tydhky.com/*
@@ -16230,6 +16523,7 @@
 *://*.typli.ai/*
 *://*.tysp.org/*
 *://*.tyxhjj.com/*
+*://*.tz.linux-terminal.com/*
 *://*.tz137.com/*
 *://*.tzm8.cn/*
 *://*.tzqfmy.com/*
@@ -16249,6 +16543,7 @@
 *://*.u6i6rao.cn/*
 *://*.u72.net/*
 *://*.u8nqbfs.cn/*
+*://*.ua.linux-terminal.com/*
 *://*.ua648vk.cn/*
 *://*.uaelotto.buzz/*
 *://*.uajctja.buzz/*
@@ -16276,6 +16571,7 @@
 *://*.ufakkk.buzz/*
 *://*.ufmsjx6.cn/*
 *://*.ufvpztw.cn/*
+*://*.ug.linux-terminal.com/*
 *://*.ugel14oyon.gob.pe/*
 *://*.uh562o.cn/*
 *://*.uh8ejr1.cn/*
@@ -16286,6 +16582,7 @@
 *://*.ujjainyoga.com/*
 *://*.ujnvxj6.cn/*
 *://*.uk.com/*
+*://*.uk.linux-terminal.com/*
 *://*.ukbu5pa.cn/*
 *://*.ukeysoft.com/*
 *://*.ukp76oa.cn/*
@@ -16295,6 +16592,7 @@
 *://*.ulkhmiim.cn/*
 *://*.ultimate-communications.com/*
 *://*.ultimateminecraftlj.weebly.com/*
+*://*.um.linux-terminal.com/*
 *://*.umatechnology.org/*
 *://*.umd5eld.cn/*
 *://*.uminecraft.at.ua/*
@@ -16342,10 +16640,12 @@
 *://*.upweibo.com/*
 *://*.upx8.com/*
 *://*.upyyagsl.cn/*
+*://*.ur.linux-terminal.com/*
 *://*.urania.ai/*
 *://*.urgnkky.cn/*
 *://*.urontz.com/*
 *://*.urtasker.com/*
+*://*.us.linux-terminal.com/*
 *://*.usa135.com/*
 *://*.usachinatech.buzz/*
 *://*.usbmaker.cn/*
@@ -16378,8 +16678,10 @@
 *://*.uwkjznp.cn/*
 *://*.uwqwgx.cn/*
 *://*.ux6.com/*
+*://*.uy.linux-terminal.com/*
 *://*.uyeqnnv.cn/*
 *://*.uygb0pc.cn/*
+*://*.uz.linux-terminal.com/*
 *://*.uzaixlx.cn/*
 *://*.v-resheno.ru/*
 *://*.v02gsr9.cn/*
@@ -16393,6 +16695,7 @@
 *://*.v8l3sun.cn/*
 *://*.v910697.cn/*
 *://*.v9261.com/*
+*://*.va.linux-terminal.com/*
 *://*.vaasotaa.buzz/*
 *://*.vacuum-freeze.buzz/*
 *://*.validsense.com/*
@@ -16407,12 +16710,14 @@
 *://*.vaw3ti9.cn/*
 *://*.vbfordummies.buzz/*
 *://*.vbup.cc/*
+*://*.vc.linux-terminal.com/*
 *://*.vcepo9s.cn/*
 *://*.vcpc.cc/*
 *://*.vdai88.com/*
 *://*.vddr.cc/*
 *://*.vdohuwai.com/*
 *://*.vdto.cc/*
+*://*.ve.linux-terminal.com/*
 *://*.vectormagic.com/*
 *://*.veed.io/*
 *://*.vegas-ai.art/*
@@ -16429,6 +16734,7 @@
 *://*.vfhzpxx.cn/*
 *://*.vfnxjn.cn/*
 *://*.vfwpost8762.org/*
+*://*.vg.linux-terminal.com/*
 *://*.vgold6688.com/*
 *://*.vgrwzp.cn/*
 *://*.vgsa50t.cn/*
@@ -16437,6 +16743,7 @@
 *://*.vhoyizi.cn/*
 *://*.vhted6p.cn/*
 *://*.vi-fr.buzz/*
+*://*.vi.linux-terminal.com/*
 *://*.viasul.com/*
 *://*.viaunomexico.buzz/*
 *://*.vicorner.com/*
@@ -16496,11 +16803,13 @@
 *://*.vminecrafte.ru/*
 *://*.vminfo.com.br/*
 *://*.vmodel.ai/*
+*://*.vn.linux-terminal.com/*
 *://*.vnfa7.cn/*
 *://*.vnnd.cc/*
 *://*.vns653.cn/*
 *://*.vns733.cn/*
 *://*.vnzx.cc/*
+*://*.vo.linux-terminal.com/*
 *://*.vo656yq.cn/*
 *://*.vocebella.com.br/*
 *://*.vodafoneuksignal.com/*
@@ -16531,6 +16840,7 @@
 *://*.vsgood.com/*
 *://*.vtiorio.com/*
 *://*.vtoyq.com/*
+*://*.vu.linux-terminal.com/*
 *://*.vuejscode.com/*
 *://*.vultos.ceallankardec.org.br/*
 *://*.vva71ue.cn/*
@@ -16564,6 +16874,7 @@
 *://*.w6g5lqk.cn/*
 *://*.w6wb90q.cn/*
 *://*.w7fxjt7.cn/*
+*://*.wa.linux-terminal.com/*
 *://*.wa7vip.cn/*
 *://*.wacaru-net.co.jp/*
 *://*.waccx.cn/*
@@ -16700,6 +17011,7 @@
 *://*.wetnwildhawaii.com/*
 *://*.wevino.store/*
 *://*.wevopsj.cn/*
+*://*.wf.linux-terminal.com/*
 *://*.wf33.cn/*
 *://*.wffd3cl.cn/*
 *://*.wffglmu.cn/*
@@ -16813,6 +17125,7 @@
 *://*.wns00098.com/*
 *://*.wnslnog.cn/*
 *://*.wnx8.cn/*
+*://*.wo.linux-terminal.com/*
 *://*.woaichaofl.com/*
 *://*.wobida.cn/*
 *://*.wodegr.cn/*
@@ -16864,6 +17177,7 @@
 *://*.writesonic.com/*
 *://*.wrq6ljg.cn/*
 *://*.wrr8.cn/*
+*://*.ws.linux-terminal.com/*
 *://*.wsb8.cn/*
 *://*.wsbqr168.com/*
 *://*.wsddu.com/*
@@ -17051,6 +17365,7 @@
 *://*.xgcwhcm.com/*
 *://*.xgfarm.com/*
 *://*.xgjdgc.com/*
+*://*.xh.linux-terminal.com/*
 *://*.xh1008.com/*
 *://*.xha9rnc.cn/*
 *://*.xhfree.com/*
@@ -17335,6 +17650,7 @@
 *://*.ydjvxmh.cn/*
 *://*.ydtg888.com/*
 *://*.ydzgw.com/*
+*://*.ye.linux-terminal.com/*
 *://*.yeahexp.com/*
 *://*.yeddaxuan.com/*
 *://*.yehua9519.cn/*
@@ -17382,6 +17698,7 @@
 *://*.yhvhamt.cn/*
 *://*.yhwdl.com/*
 *://*.yhzk8.com/*
+*://*.yi.linux-terminal.com/*
 *://*.yi9wezq.cn/*
 *://*.yiaso0.cn/*
 *://*.yibenduoqing.cn/*
@@ -17464,6 +17781,7 @@
 *://*.ynstkj.cn/*
 *://*.ynwtj7u.cn/*
 *://*.ynyunyuan.com/*
+*://*.yo.linux-terminal.com/*
 *://*.yo.zgserver.com/*
 *://*.yobikou-online.com/*
 *://*.yocker.com/*
@@ -17476,6 +17794,7 @@
 *://*.yoohoo.cards/*
 *://*.yoolle.com/*
 *://*.yootg.com/*
+*://*.yoshigame.com/*
 *://*.yoshinink.com/*
 *://*.you-android.com/*
 *://*.youcaijf.com/*
@@ -17532,6 +17851,7 @@
 *://*.ysmlwy.com/*
 *://*.ysoqudo.cn/*
 *://*.ysou.cc/*
+*://*.yt.linux-terminal.com/*
 *://*.yt9595.com/*
 *://*.ytdkzb0.cn/*
 *://*.ytfuding.cn/*
@@ -17632,6 +17952,7 @@
 *://*.z7np5o7.cn/*
 *://*.z7obq3f.cn/*
 *://*.za.com/*
+*://*.za.linux-terminal.com/*
 *://*.za60.cn/*
 *://*.zaataritravel.buzz/*
 *://*.zabjh.com/*
@@ -17700,6 +18021,7 @@
 *://*.zgsym.com/*
 *://*.zgtulong.com/*
 *://*.zh-anyu.cn/*
+*://*.zh.linux-terminal.com/*
 *://*.zhai168.cn/*
 *://*.zhandou666.cn/*
 *://*.zhangbj.com/*
@@ -17804,6 +18126,7 @@
 *://*.zlmzxq888.cn/*
 *://*.zlsing.com/*
 *://*.zlydwov.cn/*
+*://*.zm.linux-terminal.com/*
 *://*.zm116.com/*
 *://*.zm12.cn/*
 *://*.zm5537.com/*
@@ -17857,6 +18180,7 @@
 *://*.ztjianfa.com/*
 *://*.ztpp.cc/*
 *://*.ztur.cn/*
+*://*.zu.linux-terminal.com/*
 *://*.zub2yiw.cn/*
 *://*.zuilvu.com/*
 *://*.zukunftswerkstatt.buzz/*
@@ -17864,6 +18188,7 @@
 *://*.zunyipifa.com/*
 *://*.zuqiouyouxi.cn/*
 *://*.zust.ai/*
+*://*.zw.linux-terminal.com/*
 *://*.zw2016.com/*
 *://*.zweryfikowac.pl/*
 *://*.zwpone.com/*
