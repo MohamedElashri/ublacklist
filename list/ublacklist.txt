@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2026-04-01 01:31:22
-# Total count: 20530
+# Version: 2026-05-01 01:32:14
+# Total count: 20503
 
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
@@ -837,7 +837,6 @@
 *://*.62az.cn/*
 *://*.62veuu.cn/*
 *://*.634001.com/*
-*://*.63458799.com/*
 *://*.63458cp.com/*
 *://*.6351juanchi.cn/*
 *://*.635df.cn/*
@@ -5262,7 +5261,6 @@
 *://*.comparitech.com/*
 *://*.completesports.com/*
 *://*.compmemory.buzz/*
-*://*.compozi.com/*
 *://*.compraguapa.buzz/*
 *://*.computerjobbank.buzz/*
 *://*.computertest.cn/*
@@ -7084,7 +7082,6 @@
 *://*.handformkeramik.buzz/*
 *://*.handfreecn.com/*
 *://*.hani1688.com/*
-*://*.hanjifoods.com/*
 *://*.hanzhiedu.com/*
 *://*.hanzhongqc.com/*
 *://*.hanzhongtb.com/*
@@ -11205,7 +11202,6 @@
 *://*.liblib.art/*
 *://*.libraire.ai/*
 *://*.libsea.com/*
-*://*.licenseapps.com/*
 *://*.lichengjk.com/*
 *://*.lidasen.cn/*
 *://*.lidemeifu.com/*
@@ -11615,7 +11611,6 @@
 *://*.medium.com/generative-ai/*
 *://*.medium.com/mlearning-ai/*
 *://*.meeting.ai/*
-*://*.meetthebookworld.com/*
 *://*.mefdjl.cn/*
 *://*.mefj.com.cn/*
 *://*.megamods.ru/*
@@ -12371,7 +12366,6 @@
 *://*.nonrcjh.cn/*
 *://*.noodv.com/*
 *://*.norcomits.buzz/*
-*://*.nordvpnblog.com/*
 *://*.north-plus.net/*
 *://*.northcoast500.com/*
 *://*.notary-index.co.il/*
@@ -14571,7 +14565,6 @@
 *://*.qifuxuan.com/*
 *://*.qikan519.com/*
 *://*.qilin668.com/*
-*://*.qingdaosailing.com/*
 *://*.qingkeyy.com/*
 *://*.qingshi8.cn/*
 *://*.qingyunl.com/*
@@ -15158,7 +15151,6 @@
 *://*.s8h4bp7.cn/*
 *://*.s8zo23x.cn/*
 *://*.sa.linux-terminal.com/*
-*://*.sa123.cc/*
 *://*.sa5f8o7.cn/*
 *://*.saasworthy.com/*
 *://*.sab-riga.buzz/*
@@ -16341,7 +16333,6 @@
 *://*.twblogs.net/*
 *://*.twd8.cn/*
 *://*.tweetai.com/*
-*://*.twfeq.com/*
 *://*.twikor.cn/*
 *://*.twistedalchemy.com/pages/ai-cocktail-recipes/*
 *://*.twitter.com/21xfour/*
@@ -17619,7 +17610,6 @@
 *://*.yinxwl.cn/*
 *://*.yinyids.com/*
 *://*.yinzaoan.cn/*
-*://*.yinzdian.com/*
 *://*.yipinkirin.com/*
 *://*.yipinrong.com/*
 *://*.yiqianzhao.com/*
@@ -18145,7 +18135,6 @@
 *://*/so.php?s=*
 *://*/so/*
 *://0xzx.com/*
-*://170068.com/*
 *://18.141.160.82/*
 *://1cm8858.com/*
 *://26ch.com/*
@@ -18412,7 +18401,6 @@
 *://fullcase.ro/*
 *://fullstackuser.com/*
 *://fundacijaum.si/*
-*://fyf.wx-wx.net/*
 *://g.penzai.com/*
 *://gasilecpohiti.si/*
 *://gazetaolteniei.ro/*
@@ -18921,7 +18909,6 @@
 *://tetejere-ertek.today/*
 *://tetejere-online.cam/*
 *://tetejereosztaly.news/*
-*://thevpn.shop/*
 *://thewikihow.com/*
 *://tjshuju.com/*
 *://tki-trgovina.si/*
@@ -19022,13 +19009,11 @@
 *://www.23cpc.com/*
 *://www.2616.com.cn/*
 *://www.295a.com/*
-*://www.3062.net.cn/*
 *://www.329329.com/*
 *://www.32r.com/*
 *://www.360buyserver.com/*
 *://www.360doc.com/*
 *://www.360kuai.com/*
-*://www.365shenbo.com/*
 *://www.39qq.com/*
 *://www.3d-tineretului.ro/*
 *://www.3gsu.com/*
@@ -19071,7 +19056,6 @@
 *://www.ajpsp.com/*
 *://www.akademija-dobre-voznje.si/*
 *://www.aliyun.com/*
-*://www.aliyundjq.cn/*
 *://www.aliyunyh.com/*
 *://www.allgsmservice.ro/*
 *://www.alpro-menges.si/*
@@ -19079,7 +19063,6 @@
 *://www.amcpp.com/*
 *://www.amhnn.com/*
 *://www.amintiridinromania.ro/*
-*://www.amzkd.cn/*
 *://www.ancii.com/*
 *://www.anfensi.com/*
 *://www.anhuilife.com/*
@@ -19137,7 +19120,6 @@
 *://www.carousell.com.hk/*
 *://www.cautainfirmiera.ro/*
 *://www.cbedai.net/*
-*://www.ccddzlq.com/*
 *://www.cctsuzhou.cn/*
 *://www.center-isi.si/*
 *://www.cernavoda-turistica.ro/*
@@ -19290,7 +19272,6 @@
 *://www.harngtong.url.tw/*
 *://www.harrogate-sulphur-soap.ro/*
 *://www.hass-gin.dk/*
-*://www.hcgtx.com/*
 *://www.heibai.org/*
 *://www.hello.so/*
 *://www.helplib.cn/*
@@ -19305,7 +19286,6 @@
 *://www.hotbak.net/*
 *://www.hotebucatarie.ro/*
 *://www.hotel-toplice.si/*
-*://www.hotessay.net/*
 *://www.hq396.com/*
 *://www.hsjl5821808.com/*
 *://www.hsjtjz.com/*
@@ -19378,7 +19358,6 @@
 *://www.lagou.com/lgeduarticle/*
 *://www.lambda-group.si/*
 *://www.lansingip.com/*
-*://www.lanzhouyangsheng.com/*
 *://www.lanzhouzaixian.cn/*
 *://www.laski.si/*
 *://www.lattelife.news/*
@@ -19390,7 +19369,6 @@
 *://www.linuxfixes.com/*
 *://www.linxia930.com/*
 *://www.linyuhui.net/*
-*://www.lngyy.com/*
 *://www.loc.pp.ua/*
 *://www.lohine.com/*
 *://www.lpgmasaze.si/*
@@ -19493,7 +19471,6 @@
 *://www.plesnicar-ps.si/*
 *://www.plinsevnica.si/*
 *://www.pnl-opv3.ro/*
-*://www.pnstudy.com/*
 *://www.po-sentjernej.si/*
 *://www.pocitnice-hrvaska-jadran.si/*
 *://www.podnart.si/*
@@ -19511,7 +19488,6 @@
 *://www.programmersought.com/*
 *://www.promad.ro/*
 *://www.psh-hrvaska.si/*
-*://www.ptzxc.com/*
 *://www.puturiapa-hidrogeofor.ro/*
 *://www.q578.com/*
 *://www.qcnsw.com/*
@@ -19535,7 +19511,6 @@
 *://www.rejoiceblog.com/*
 *://www.relaxopedia.ro/*
 *://www.restaurantgiuliano.ro/*
-*://www.rghn.com.cn/*
 *://www.ribica-doo.si/*
 *://www.ribus.dk/*
 *://www.ride-sport.si/*
@@ -19580,7 +19555,6 @@
 *://www.smartlocator.si/*
 *://www.smpchome.com/*
 *://www.sociablelabs.com/*
-*://www.sodeog.com/*
 *://www.sohu.com/a/*
 *://www.sojson.com/blog/*
 *://www.solveforum.com/*
@@ -19709,7 +19683,6 @@
 *://www.yiper.org/*
 *://www.yixinit.com/*
 *://www.yiyisoft.com/*
-*://www.yiyult.com/*
 *://www.ylfjs.com/*
 *://www.youchuang365.com/*
 *://www.youzhanlu.com/*
