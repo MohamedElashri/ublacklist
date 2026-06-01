@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2026-05-01 01:32:14
-# Total count: 20503
+# Version: 2026-06-01 01:43:01
+# Total count: 20493
 
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
@@ -1813,7 +1813,6 @@
 *://*.azhahf.com/*
 *://*.azminecraft.info/*
 *://*.azp26eh.cn/*
-*://*.b00h.com/*
 *://*.b0dngi0.cn/*
 *://*.b0plkxe.cn/*
 *://*.b14kz8n.cn/*
@@ -6467,7 +6466,6 @@
 *://*.foxnewssouthtexas.com/*
 *://*.fp48blj.cn/*
 *://*.fpj88.cn/*
-*://*.fpppw.com/*
 *://*.fpxinmeng.com/*
 *://*.fqf8.cn/*
 *://*.fqhggcq.cn/*
@@ -6533,7 +6531,6 @@
 *://*.ftu7hqn.cn/*
 *://*.fuatergin.buzz/*
 *://*.fubd4ur.cn/*
-*://*.fukuyama-okoku.com/*
 *://*.fuligou8.com/*
 *://*.full-mod.ru/*
 *://*.fullbloomclub.net/*
@@ -12342,7 +12339,6 @@
 *://*.nmgjjjx.com/*
 *://*.nmhsp.com/*
 *://*.nms88.cn/*
-*://*.nmxjp.com/*
 *://*.nn.linux-terminal.com/*
 *://*.nnpq8dx.cn/*
 *://*.nntianhai.com/*
@@ -18870,7 +18866,6 @@
 *://stackguides.com/*
 *://stackoom.com/*
 *://stackovergo.com/*
-*://stackovernet.xyz/*
 *://stackoverrun.com/*
 *://stackscn.com/*
 *://start-bestseller.me/*
@@ -18986,7 +18981,6 @@
 *://witshop.ch/*
 *://wntzx.cn/*
 *://wolk.si/*
-*://workit.cc/*
 *://world-coin.cyou/*
 *://world-order.cam/*
 *://world-product.cam/*
@@ -18998,7 +18992,6 @@
 *://www.0411ct.com/*
 *://www.0755qxhj.com/*
 *://www.07diy.com/*
-*://www.09vv.cn/*
 *://www.12y.org/*
 *://www.163.com/dy/article/*
 *://www.1984w.com/*
@@ -19019,7 +19012,6 @@
 *://www.3gsu.com/*
 *://www.3li.cc/*
 *://www.4561234.com/*
-*://www.4k8k.xyz/*
 *://www.4pee.com/*
 *://www.4play.si/*
 *://www.511477.com/*
@@ -19172,7 +19164,6 @@
 *://www.daihema.com/*
 *://www.dama123.com/*
 *://www.davorin-caf.si/*
-*://www.dayueng.cn/*
 *://www.ddooo.com/*
 *://www.ddpei.com/*
 *://www.deante-slovenija.si/*
@@ -19358,7 +19349,6 @@
 *://www.lagou.com/lgeduarticle/*
 *://www.lambda-group.si/*
 *://www.lansingip.com/*
-*://www.lanzhouzaixian.cn/*
 *://www.laski.si/*
 *://www.lattelife.news/*
 *://www.leagoo-romania.ro/*
