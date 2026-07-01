@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2026-06-01 01:43:01
-# Total count: 20493
+# Version: 2026-07-01 01:42:39
+# Total count: 20478
 
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
@@ -1806,7 +1806,6 @@
 *://*.ayrxwz.com/*
 *://*.aytx999.com/*
 *://*.ayustyle.com/*
-*://*.ayxbwy.com/*
 *://*.az.linux-terminal.com/*
 *://*.az88mqq.cn/*
 *://*.azfx.cc/*
@@ -2138,7 +2137,6 @@
 *://*.boe4ayz.cn/*
 *://*.bohaijixie.com/*
 *://*.bohao5266.cn/*
-*://*.bohlsenpr.com/*
 *://*.boilgame.com/*
 *://*.bokeehome.cn/*
 *://*.bolieyun.com/*
@@ -2289,7 +2287,6 @@
 *://*.calyxcare.buzz/*
 *://*.camagasa.eu/*
 *://*.cameralyze.co/*
-*://*.camlya.com/*
 *://*.campuslifeline.buzz/*
 *://*.canbt.fr/*
 *://*.candhdistributors.buzz/*
@@ -2432,7 +2429,6 @@
 *://*.chatgpt.com/*
 *://*.chatsimple.ai/*
 *://*.chattaboo.com/*
-*://*.chcpd.com/*
 *://*.cheap-smoke.buzz/*
 *://*.cheapaprtments.buzz/*
 *://*.cheapnft.art/*
@@ -6813,7 +6809,6 @@
 *://*.glassfibre.cn/*
 *://*.glcq55s.cn/*
 *://*.gldplus.com/*
-*://*.gldq123.com/*
 *://*.glehe.com/*
 *://*.glh5770.com/*
 *://*.glhsmm.com/*
@@ -7197,7 +7192,6 @@
 *://*.heygen.com/*
 *://*.heyloadsmmkr.ru.com/*
 *://*.heyuanheng.com/*
-*://*.hezhisw.com/*
 *://*.hezs88.com/*
 *://*.hfaedkp.cn/*
 *://*.hfaocm.com/*
@@ -10716,7 +10710,6 @@
 *://*.juejin.cn/*
 *://*.juejin.cn/s/*
 *://*.jugomobile.com/*
-*://*.juhebbs.com/*
 *://*.jukangsw.com/*
 *://*.julius.ai/*
 *://*.julx.cn/*
@@ -11487,6 +11480,7 @@
 *://*.maison-gourmet.buzz/*
 *://*.maiweichi.com/*
 *://*.majinai.art/*
+*://*.makabemai.com/*
 *://*.make3d.app/*
 *://*.makemeengr.com/*
 *://*.makenude.ai/*
@@ -12465,7 +12459,6 @@
 *://*.oasisbanquet.buzz/*
 *://*.oayjgxt.cn/*
 *://*.oaz7k8r.cn/*
-*://*.obagua.com/*
 *://*.obeqhdy.cn/*
 *://*.obftzgh.cn/*
 *://*.objetspubricard.buzz/*
@@ -13151,7 +13144,6 @@
 *://*.pyax021.cn/*
 *://*.pyk696.com/*
 *://*.pyk868.com/*
-*://*.pyn9.com/*
 *://*.pyquestions.com/*
 *://*.python-stack.de/*
 *://*.python.engineering/*
@@ -16883,7 +16875,6 @@
 *://*.wellren.com/*
 *://*.wellsaidlabs.com/*
 *://*.wemine.ru/*
-*://*.wenbf.com/*
 *://*.wenduyun.com/*
 *://*.wenlongkm.com/*
 *://*.wenyanet.com/*
@@ -17748,7 +17739,6 @@
 *://*.yufeng163.com/*
 *://*.yuhaokeji.com/*
 *://*.yuhuan777.cn/*
-*://*.yujiedh.xyz/*
 *://*.yuleall.com/*
 *://*.yulinkehong.cn/*
 *://*.yulongwujinsujiao.cn/*
@@ -18231,7 +18221,6 @@
 *://brasovul-solidar.ro/*
 *://brd2a.com/*
 *://briteming.blogspot.com/*
-*://brrmn.com/*
 *://bucuriabravo.ro/*
 *://bug200.com/*
 *://burnfree.ro/*
@@ -18448,7 +18437,6 @@
 *://homiemall.com/*
 *://hranazaduso.si/*
 *://huse-tesaturi.ro/*
-*://hz-heng-li.com/*
 *://hzhcontrols.com/*
 *://iasipaintball.ro/*
 *://iask.sina.com.cn/*
@@ -18457,6 +18445,7 @@
 *://idea-queen.news/*
 *://iknow.baidu.com/search?word=*
 *://ilvruan.com/*
+*://ima.qq.com/create/*
 *://inbound-marketing.si/*
 *://infofizica.ro/*
 *://ingrijiripaliativebacau.ro/*
@@ -18491,7 +18480,6 @@
 *://jadorephotography.si/*
 *://jankocelje.si/*
 *://javu.ro/*
-*://jhsjtxx.com/*
 *://jinan110.com/*
 *://jmg.si/*
 *://joga-kranj.si/*
@@ -19514,7 +19502,6 @@
 *://www.rotaract-ng.si/*
 *://www.ruan8.com/*
 *://www.ruiwen.com/*
-*://www.runsem.com/*
 *://www.ruten.com.tw/*
 *://www.safran.si/*
 *://www.sangteknik.dk/*
@@ -19572,7 +19559,6 @@
 *://www.tbsport.si/*
 *://www.tdsticna.si/*
 *://www.techbang.com/*
-*://www.teipy.com/*
 *://www.thanhnien.dk/*
 *://www.thermopro.ro/*
 *://www.thinbug.com/*
@@ -19643,7 +19629,6 @@
 *://www.wenyanet.com/*
 *://www.west.cn/docs/*
 *://www.win10xiazai.com/*
-*://www.witdroid.com/*
 *://www.wnt777.com/*
 *://www.wolonge.com/*
 *://www.wordlm.com/*
