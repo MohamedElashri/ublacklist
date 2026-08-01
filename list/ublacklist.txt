@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2026-07-01 01:42:39
-# Total count: 20478
+# Version: 2026-08-01 01:31:43
+# Total count: 20461
 
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
@@ -779,7 +779,6 @@
 *://*.586nwh.cn/*
 *://*.588c2ts.cn/*
 *://*.58efu.com/*
-*://*.58hengqi.com/*
 *://*.58huangye.com/*
 *://*.58minglu.cn/*
 *://*.58pla.com/*
@@ -1196,7 +1195,6 @@
 *://*.aaadddd.com/*
 *://*.aaamhh.com/*
 *://*.aaggob.cn/*
-*://*.aalahty.cn/*
 *://*.aalaicc.com/*
 *://*.aasou.cc/*
 *://*.ab.linux-terminal.com/*
@@ -2428,7 +2426,6 @@
 *://*.chatel-taxi.buzz/*
 *://*.chatgpt.com/*
 *://*.chatsimple.ai/*
-*://*.chattaboo.com/*
 *://*.cheap-smoke.buzz/*
 *://*.cheapaprtments.buzz/*
 *://*.cheapnft.art/*
@@ -5431,7 +5428,6 @@
 *://*.cxygjd.com/*
 *://*.cxymm.net/*
 *://*.cxyread.cc/*
-*://*.cxywk.com/*
 *://*.cxyy0429.cn/*
 *://*.cxyzd.xyz/*
 *://*.cxyzjd.com/*
@@ -11003,7 +10999,6 @@
 *://*.kummersmotel.at/*
 *://*.kundelu.cn/*
 *://*.kunpengjy.cn/*
-*://*.kunyuyuan.com/*
 *://*.kupaosuda.com/*
 *://*.kupid.ai/*
 *://*.kuqistudio.com/*
@@ -15260,7 +15255,6 @@
 *://*.sdtietong.com/*
 *://*.sduqyxv.cn/*
 *://*.sdxinjia.com/*
-*://*.sdxinli.org/*
 *://*.sdxlturbo.ai/*
 *://*.sdyujinji.com/*
 *://*.se.linux-terminal.com/*
@@ -15622,7 +15616,6 @@
 *://*.sqp.buzz/*
 *://*.squadguide.net/*
 *://*.squareland.ru/*
-*://*.sqzlsy.cn/*
 *://*.sr.linux-terminal.com/*
 *://*.sr0csj.cn/*
 *://*.sr0lsgr.cn/*
@@ -16187,7 +16180,6 @@
 *://*.tokp2wz.cn/*
 *://*.tokyo-bunka.com/*
 *://*.tokyominer.com/*
-*://*.tomzx.com/*
 *://*.tongbu.com/*
 *://*.tonghejiu.com/*
 *://*.tongpixie.com/*
@@ -18967,7 +18959,6 @@
 *://wikidiff.com/*
 *://windowsbulletin.com/*
 *://witshop.ch/*
-*://wntzx.cn/*
 *://wolk.si/*
 *://world-coin.cyou/*
 *://world-order.cam/*
@@ -19006,7 +18997,6 @@
 *://www.513210.com/*
 *://www.51dongshi.com/*
 *://www.52book.me/*
-*://www.54jqr.com/*
 *://www.5577.com/*
 *://www.55jf.com/*
 *://www.565k.com/*
@@ -19036,7 +19026,6 @@
 *://www.ajpsp.com/*
 *://www.akademija-dobre-voznje.si/*
 *://www.aliyun.com/*
-*://www.aliyunyh.com/*
 *://www.allgsmservice.ro/*
 *://www.alpro-menges.si/*
 *://www.altstadtinvest.ro/*
@@ -19409,7 +19398,6 @@
 *://www.ok168198.com/*
 *://www.okocater.dk/*
 *://www.omegazodiac.ro/*
-*://www.oneho.cn/*
 *://www.onixbluemamaianord.ro/*
 *://www.ooz-radlje.si/*
 *://www.orcode.com/*
@@ -19437,7 +19425,6 @@
 *://www.pgdkneza.si/*
 *://www.pgdpobegicezarji.si/*
 *://www.pgdzavrstnik.si/*
-*://www.phoenixups.com/*
 *://www.photocranneries.dk/*
 *://www.pianshen.com/*
 *://www.picerija-lesjak.si/*
@@ -19477,13 +19464,11 @@
 *://www.qq366.cn/*
 *://www.qqtn.com/*
 *://www.qqxmail.com/*
-*://www.qtcamp.com/*
 *://www.quanmaimai.com/*
 *://www.quanmama.com/*
 *://www.querythreads.com/*
 *://www.qxqpw.net/*
 *://www.r-t-o.si/*
-*://www.r41z.com/*
 *://www.rebahan.news/*
 *://www.recnik.si/*
 *://www.rejoiceblog.com/*
@@ -19570,7 +19555,6 @@
 *://www.tmall.com/*
 *://www.tobesport.ro/*
 *://www.toga.si/*
-*://www.tonganw.com/*
 *://www.tongfengqu.com/*
 *://www.topbrainstorm.nl/*
 *://www.topespresso.si/*
@@ -19692,7 +19676,6 @@
 *://www.zzchenhui.com/*
 *://www1.meloritm.ro/*
 *://www11.concert-trip.ro/*
-*://x4x2.com/*
 *://xstack.us/*
 *://xsyfs.com/*
 *://xuexi.zqnf.com/*
