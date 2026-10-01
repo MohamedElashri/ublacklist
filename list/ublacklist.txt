@@ -2,8 +2,8 @@
 # Title: uBlacklist combined list
 # Homepage: https://github.com/MohamedElashri/MohamedElashri/ublacklist
 # Description: My personal filters of uBlacklist
-# Version: 2026-09-01 01:23:32
-# Total count: 20437
+# Version: 2026-10-01 01:30:46
+# Total count: 20426
 
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
@@ -1635,7 +1635,6 @@
 *://*.apyequan.com/*
 *://*.aq.linux-terminal.com/*
 *://*.aqbbb.com/*
-*://*.aqmdjx.com/*
 *://*.aqtt.cc/*
 *://*.aquacool-gaffney.buzz/*
 *://*.aquariumfishsource.com/*
@@ -5486,7 +5485,6 @@
 *://*.dafb.cc/*
 *://*.dafn.cc/*
 *://*.daftart.ai/*
-*://*.dafuhua.com/*
 *://*.dafx.cc/*
 *://*.dailydevsblog.com/*
 *://*.dailynewshungary.com/*
@@ -11522,7 +11520,6 @@
 *://*.maww.cc/*
 *://*.maximuum.com/*
 *://*.maxinterview.com/*
-*://*.mb-intendance.com/*
 *://*.mbezdv.cn/*
 *://*.mbit.kdsg.gov.ng/*
 *://*.mbme-tr.buzz/*
@@ -16095,7 +16092,6 @@
 *://*.tianye888.com/*
 *://*.tianyusky.cn/*
 *://*.tibet-internal.buzz/*
-*://*.tidewaterschool.org/*
 *://*.tierre-laser.buzz/*
 *://*.tigi.gt/*
 *://*.tigotool.com/*
@@ -16212,7 +16208,6 @@
 *://*.toutiao.com/search?keyword=*
 *://*.toutiao.io/*
 *://*.touyanmo.com/*
-*://*.touyinghome.com/*
 *://*.toyif.cn/*
 *://*.toys007.com/*
 *://*.tpgimgm.cn/*
@@ -16908,7 +16903,6 @@
 *://*.whjnrj.com/*
 *://*.whldl.com/*
 *://*.whm00f6.cn/*
-*://*.whoisua.com/*
 *://*.whoisvip.cn/*
 *://*.whpc.cc/*
 *://*.whrsjdwx.com/*
@@ -17863,7 +17857,6 @@
 *://*.zgjkshh.com/*
 *://*.zgkssjw.com/*
 *://*.zgky7.com/*
-*://*.zglangying.com/*
 *://*.zgouman.com/*
 *://*.zgregwu.cn/*
 *://*.zgserver.com/*
@@ -18945,7 +18938,6 @@
 *://wefan.baidu.com/*
 *://wemp.app/*
 *://wfmc.ro/*
-*://who-called-de.com/*
 *://wikidiff.com/*
 *://windowsbulletin.com/*
 *://witshop.ch/*
@@ -19324,7 +19316,6 @@
 *://www.lpgmasaze.si/*
 *://www.ltbmagazinsoul.ro/*
 *://www.lunwentop.net/*
-*://www.lvyou5.net/*
 *://www.lxws.net/*
 *://www.lzbxgmjj.com/*
 *://www.macaodaily.com/*
@@ -19390,7 +19381,6 @@
 *://www.paktzamlade.si/*
 *://www.paloma.cn/*
 *://www.pantianxia.com/*
-*://www.parichyimin.com/*
 *://www.parkerpen.si/*
 *://www.pasarstvo-torkar.si/*
 *://www.pasjilajf.si/*
@@ -19486,7 +19476,6 @@
 *://www.shido-sportshop.si/*
 *://www.shoudian.org/*
 *://www.shuoshuokong.com/*
-*://www.shuzhiduo.com/*
 *://www.shxmtech.com/*
 *://www.shxy888.com/*
 *://www.simpletense.com/*
